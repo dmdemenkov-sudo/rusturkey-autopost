@@ -1,0 +1,615 @@
+{
+ "posts": {
+  "204289": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Fonlarda yaklaşık 4 milyar liralık işlem yaptığı belirtiliyordu. Balıkçı İsmet de gözaltına alındı",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Фонд-скандал продолжается, но это уже пятый-шестой день новостей по теме. Трафик может быть, но мало уникальности"
+  },
+  "204286": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Dokuz belediye başkanı AK Parti’ye katıldı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Местная политика, переход чиновников между партиями — рутина без резонанса для целевой аудитории"
+  },
+  "204282": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "İletişim Başkanlığı ekonomi toplantısında alınan 5 kararı açıkladı",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Экономические решения кабинета — не очень специфично для поиска, мало уникальности"
+  },
+  "204279": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Fon soruşturmasında denetim süreci başladı. Ödemelere öncelik verilecek.",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": "204276",
+   "why": "Практически дубль следующей новости (204276)"
+  },
+  "204276": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Fon soruşturmasında denetim süreci başlatıldı",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Фонд-скандал продолжается, но уже много повторов в списке, мало новизны"
+  },
+  "204269": {
+   "status": "published",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Melis Sandal ve Cihan Sütşurup’un mal varlıklarına el konuldu",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Mustafa Sandal — известный турецкий певец, его семейный скандал интересен аудитории. Поиск даст трафик"
+  },
+  "204266": {
+   "status": "published",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Mustafa Sandal’ın eşi ve kayınpederi hakkında yakalama kararı",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Mustafa Sandal, семейный скандал — привлекательно для целевой аудитории и поиска"
+  },
+  "204263": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Fon soruşturmasında Fatma Betül Sayan Kaya ve eşinin mal varlıklarına dondurma talebi",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Fatma Betül Sayan Kaya — политик второго ряда, фонд-скандал продолжается, но повторяется"
+  },
+  "204260": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Fon soruşturması: Fatma Betül Sayan Kaya ve eşinin mal varlıklarının dondurulması talebi",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "politics",
+   "dup_of": "204263",
+   "why": "Прямой дубль новости 204263"
+  },
+  "204257": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Bahçeli’den fon soruşturması açıklaması. “Hukuk önünde hesap sorulmalıdır”",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Bahçeli — политик второго ряда, фонд-скандал, но Эрдоган уже много раз говорил по теме"
+  },
+  "204253": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Cumhurbaşkanı Erdoğan’dan Yeni Parti’ye baklava kutuları üzerinden siyasi etik yanıtı: Hadi oradan",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинное заявление Эрдогана по политическим дрязгам, перескажут все"
+  },
+  "204250": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Cumhurbaşkanı Erdoğan: Milletin malına el uzatanla bizim işimiz olmaz",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Очередное заявление Эрдогана, не уникально"
+  },
+  "204246": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Cumhurbaşkanı Erdoğan: AK Parti yenilenerek yürür, yanlış yapanla vedalaşır",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинное заявление Эрдогана про партию"
+  },
+  "204243": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Cumhurbaşkanı Erdoğan: Biz bu partiyi o yoksulların hakkını, hukukunu korumak için kurduk",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Ещё одно заявление Эрдогана, не несёт уникальной информации"
+  },
+  "204219": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Yeni Parti milletvekili Deniz Yavuzyılmaz’ın eşine soruşturma",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Депутат второго плана, локальный политический скандал"
+  },
+  "204206": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Sakarya’da 2 günlük sağanak: Metrekareye 150 kilograma yağış düştü",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Наводнение/стихия — полезно для жизни, туристов, может быть трафик из поиска"
+  },
+  "204197": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "MGK yarın toplanıyor",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинное совещание, нет специфики"
+  },
+  "204185": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "İstanbul’da 19 ilçede elektrik kesintisi. Bu gece başlıyor, tam 9 saat sürecek",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Отключение электричества в Стамбуле — важная практическая информация для жителей и туристов"
+  },
+  "204179": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Sevda Türküsev fon krizini yorumladı: Tamahkarlık yapmaya kalkanlar, bedelini ödemelidir",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Комментарий малоизвестной персоны про фонд-скандал, не уникально"
+  },
+  "204175": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Akın Gürlek’ten Ahmet Şık hakkında suç duyurusu ve manevi tazminat davası",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Политические распри неизвестных для аудитории людей, нет трафика"
+  },
+  "204136": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "AK Parti Sözcüsü Ömer Çelik’ten Özgür Özel’e tepki. “Kendi siyasi tükenmişliklerini sergiliyorlar”",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Политические обмены заявлениями, не интересно русскоязычной аудитории"
+  },
+  "204127": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Kafeste mahsur kalmıştı, imdadına dalgıçlar yetişti",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Локальный инцидент, интересный, но без резонанса"
+  },
+  "204095": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Kütahya’da iki otomobilin çarpıştığı kaza kamerada; 2 ölü, 8 yaralı",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "ДТП с жертвами — трагично, но локальное происшествие без международного резонанса"
+  },
+  "204089": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "İlker Sungurlar, Feyza Altun’a yanıt verdi: İlişkimin sonuna kadar arkasındayım",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Малоизвестные турецкие персоны, локальный скандал"
+  },
+  "204086": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "İşten çıkarma bildiriminde kritik tarih tartışması: AYM’den yeniden yargılama kararı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Юридический вопрос, специфично, но не поисковый тренд"
+  },
+  "204082": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "MHK Başkanı Ferhat Gündoğdu gözaltında",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Политик второго ряда, арест, но без известности для аудитории"
+  },
+  "204067": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Resmi Gazete’de bugün (29 Eylül 2026 Resmi Gazete kararları)",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Рутинное объявление о нормативных актах, трафика не даст"
+  },
+  "204054": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "3 kilosu 100 TL. 10 gündür fiyatlar düşüyor",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Цены, экономика — полезно для жизни, может быть поиск по ценам на продукты"
+  },
+  "204039": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Yahşihan Belediyesi’ne yolsuzluk soruşturması: İki eski başkan dahil 15 tutuklama",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Локальный политический скандал, нет известных фигур"
+  },
+  "204036": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Fatih Ergin “yanıltıcı bilgiyi alenen yayma” suçlamasıyla tutuklandı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Неизвестный политик, локальный скандал"
+  },
+  "204025": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "İçişleri Bakanı Çiftçi: Milletimizin helal kazancına uzanan kirli elleri kırarız",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление министра, но рутинное по фонд-скандалу"
+  },
+  "204022": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "İzmit sahilinde dikkat çeken köpüklenme. Numune alındı, incelendi",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Экологический вопрос, локально интересно, но не поисковый тренд"
+  },
+  "204013": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "“Doğruluk mu, cesaret mi” oyunu kanlı bitti",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Трагическое происшествие, интересно, но локальное"
+  },
+  "203998": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Eyüpsultan Camii’nde silahlı kavga",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Уличное происшествие, локальный криминал"
+  },
+  "203991": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? MPİ Çılgın Sayısal Loto sorgulama",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Лотерея, нет трафика для целевой аудитории"
+  },
+  "203982": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Sermaye Piyasası Kurulu’ndan 37 kişi hakkında suç duyurusu",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Фонд-скандал, но уже много раз повторяется"
+  },
+  "203976": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? MPİ On Numara bilet sorgulama ekranı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Лотерея, нет трафика"
+  },
+  "203973": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "İstanbul Havalimanı’nda uçağa haciz geldi",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Интересный инцидент в аэропорту, может привлечь туристов и путешественников"
+  },
+  "203967": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Cumhurbaşkanı Erdoğan: Her kim milletin malına el uzatırsa karşısında devleti bulur",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Повтор заявления Эрдогана, не уникально"
+  },
+  "203958": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Çiğli Belediye Başkanı Onur Emrah Yıldız, AK Parti’ye katılıyor",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Чиновник переходит в партию, рутина местной политики"
+  },
+  "203955": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, kabine toplantısı sonrası konuşuyor",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинное совещание кабинета"
+  },
+  "203952": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, kabine toplantısı sonrası açıklamalarda bulunuyor",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "politics",
+   "dup_of": "203955",
+   "why": "Прямой дубль новости 203955"
+  },
+  "203949": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "İstanbul’da sağanak sonrası trafik kilitlendi",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Стихия в городе, полезно для жизни, но вторичная информация о пробках"
+  },
+  "203943": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Yusuf İbiş: Terörsüz Türkiye ile daha aydınlık yarınlar bizimle olacak",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Неизвестный политик, рутинное заявление"
+  },
+  "204188": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Saadet Işıl Aksoy’dan annelik itirafı: Annelerimiz gibi saçımızı süpürge etmiyoruz",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Актриса Saadet Işıl Aksoy, интервью о жизни — может привлечь поклонников сериалов"
+  },
+  "204169": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Seda Sayan ve Çağlar Ökten’den yeni aşk pozu geldi",
+   "cat": "Magazin",
+   "score": 5,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Seda Sayan — известная ТВ-персона в России, романтическая новость может быть трендом"
+  },
+  "204142": {
+   "status": "published",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "5,5 aylık hamile olan Alina Boz yaza veda etti! Yeni pozları beğeni topladı",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Alina Boz — известная актриса турецких сериалов, беременность привлекает аудиторию"
+  },
+  "204130": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Ünlü model Kendall Jenner’ın transparan seçimi beğeni topladı",
+   "cat": "Magazin",
+   "score": 1,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Kendall Jenner — голливудская звезда, не целевая аудитория портала"
+  },
+  "204117": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "8 yıl sonra konuştu! Uraz Kaygılaroğlu’nun eski eşi Melis İşiten’den itiraf",
+   "cat": "Magazin",
+   "score": 5,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Uraz Kaygılaroğlu — турецкий актёр, интервью о личной жизни может быть интересно"
+  },
+  "204098": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Çağla Şıkel büyük oğlunu paylaştı: ‘Çalışkanlığına hayranım’",
+   "cat": "Magazin",
+   "score": 4,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Çağla Şıkel — актриса, но новость про сына не очень уникальна"
+  },
+  "204076": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Aslı Enver ailesiyle Türkiye’yi terk ediyor! Prag’a taşınıyor",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Aslı Enver — известная актриса, переезд может интересовать поклонников"
+  },
+  "204070": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Nihat Doğan ağladı! 8 dairesini satmak zorunda kaldığını açıkladı",
+   "cat": "Magazin",
+   "score": 4,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Nihat Doğan — персона, финансовые трудности, интересно, но не очень уникально"
+  },
+  "204060": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Oyuncu Serenay Sarıkaya Paris Moda Haftası’nda podyuma çıktı",
+   "cat": "Magazin",
+   "score": 3,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Serenay Sarıkaya — актриса, мода неделя, но это развлекательная новость"
+  },
+  "204048": {
+   "status": "scored",
+   "seen_at": "2026-09-29T19:25:47.218308+00:00",
+   "title": "Hastaneye kaldırıldı! Survivor Nefise Karatay’ın son hali korkuttu",
+   "cat": "Magazin",
+   "score": 3,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Nefise Karatay — реалити-персона, госпитализация, но малоизвестна широкой аудитории"
+  }
+ },
+ "published": [
+  {
+   "id": 204266,
+   "day": "2026-09-29",
+   "at": "2026-09-29T19:25:47.218308+00:00",
+   "topic": "celebrity",
+   "title_tr": "Мустафа Сандал: против жены и тестя певца выдан ордер на арест"
+  },
+  {
+   "id": 204269,
+   "day": "2026-09-29",
+   "at": "2026-09-29T19:25:47.218308+00:00",
+   "topic": "celebrity",
+   "title_tr": "Мелис Сандал: арестовано имущество жены Мустафы Сандала по делу о фондах"
+  },
+  {
+   "id": 204142,
+   "day": "2026-09-29",
+   "at": "2026-09-29T19:25:47.218308+00:00",
+   "topic": "celebrity",
+   "title_tr": "Алина Боз на 5,5-м месяце беременности попрощалась с летом"
+  }
+ ],
+ "feed": [
+  {
+   "guid": "gastetv-204142",
+   "title": "Алина Боз на 5,5-м месяце беременности попрощалась с летом",
+   "link": "https://gastetv.com/55-aylik-hamile-olan-alina-boz-yaza-veda-etti-yeni-pozlari-begeni-topladi/",
+   "pubDate": "Tue, 29 Sep 2026 19:25:47 +0000",
+   "html": "<p><strong>Турецкая актриса Алина Боз, которая ждёт первого ребёнка от мужа-бизнесмена Умута Эвиргена, опубликовала в соцсетях яркий фотоальбом с летними кадрами и снимками из периода беременности.</strong></p>\n<p>Известная актриса Алина Боз и бизнесмен Умут Эвирген, которые поженились три года назад, готовятся встретить своего первенца.</p>\n\n<p>Сейчас 5,5-месячная беременная Алина Боз поделилась новым постом в социальных сетях со своими подписчиками.</p>\n\n<h2>Кадры из лета</h2>\n\n<p>28-летняя актриса попрощалась с летними днями, которые провела, наслаждаясь морем и солнцем, и опубликовала яркий фотоальбом с моментами из периода беременности.</p>\n\n<p>Помимо отпускных снимков и фотографий с выпускного, в альбоме выделялся кадр с ультразвуковым изображением будущего малыша.</p>\n\n<p>Активная в социальных сетях знаменитость получила множество лайков и комментариев от поклонников.</p>\n<p>Источник: <a href=\"https://gastetv.com/55-aylik-hamile-olan-alina-boz-yaza-veda-etti-yeni-pozlari-begeni-topladi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/09/55-aylik-hamile-olan-alina-boz-yaza-veda-etti-yeni-pozlari-begeni-topladi-cfjCzaUx.jpg",
+   "tags": [
+    "Алина Боз",
+    "беременность",
+    "турецкие актрисы",
+    "Умут Эвирген"
+   ]
+  },
+  {
+   "guid": "gastetv-204269",
+   "title": "Мелис Сандал: арестовано имущество жены Мустафы Сандала по делу о фондах",
+   "link": "https://gastetv.com/melis-sandal-ve-cihan-sutsurupun-mal-varliklarina-el-konuldu/",
+   "pubDate": "Tue, 29 Sep 2026 19:25:47 +0000",
+   "html": "<p><strong>В рамках расследования махинаций с инвестиционными фондами арестовано всё имущество Мелис Сютшуруп Сандал, жены певца Мустафы Сандала, и её брата Джихана Сютшурупа. По данным следствия, Мелис вывела из ликвидируемых фондов более 11 млрд лир за три месяца.</strong></p>\n<p>Расследование масштабных махинаций с инвестиционными фондами в Турции приносит новые громкие имена. В центре внимания оказалась Мелис Сютшуруп Сандал — жена известного певца Мустафы Сандала.</p><p>Согласно материалам дела, в период с 1 июля по 16 сентября Мелис Сандал вывела из фондов, в отношении которых Совет по рынкам капитала (SPK) принял решение о ликвидации, около 11 млрд 126 млн 528 тыс. лир. По версии следствия, часть этой суммы составляла прибыль, а остаток на счёте в фонде — около 250 млн лир.</p><h2>Арест имущества и ордер на задержание</h2><p>Суд принял решение о замораживании всего движимого и недвижимого имущества, зарегистрированного на имя Мелис Сандал и её брата Джихана Сютшурупа, которые проходят по делу в качестве подозреваемых. В отношении обоих также выданы ордера на арест.</p><p>По информации источников, до того как имена Мустафы Сандала и его жены прозвучали в расследовании, пара подала заявку на получение вида на жительство в Дубае. Утверждается, что Мелис Сютшуруп Сандал уехала в Дубай после вывода средств из фонда и пока не вернулась.</p><h2>Масштабы расследования</h2><p>По состоянию на 29 сентября в рамках расследования под арестом находятся 56 человек. 15 сентября был задержан председатель правления управляющей компании Pusula Portföy Мухаммет Ярыз.</p><p>17 сентября SPK приняла решение о закрытии торгов по фондам семи управляющих компаний на платформе TEFAS и запустила процедуру ликвидации 131 инвестиционного фонда. Одновременно регулятор подал заявления о возбуждении уголовных дел против 38 человек по подозрению в манипулировании акциями ряда компаний и ввёл запрет на операции для этих лиц.</p><p>22 сентября расследование расширилось: в ходе одновременных операций в Стамбуле и Айдыне были задержаны 14 из 15 подозреваемых, в отношении которых выданы ордера на арест.</p>\n<p>Источник: <a href=\"https://gastetv.com/melis-sandal-ve-cihan-sutsurupun-mal-varliklarina-el-konuldu/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/09/melis-sandal-ve-cihan-sutsurupun-mal-varliklarina-el-konuldu-yXRN8ykc.jpg",
+   "tags": [
+    "Мелис Сандал",
+    "Мустафа Сандал",
+    "инвестиционные фонды",
+    "финансовое расследование",
+    "SPK",
+    "Дубай"
+   ]
+  },
+  {
+   "guid": "gastetv-204266",
+   "title": "Мустафа Сандал: против жены и тестя певца выдан ордер на арест",
+   "link": "https://gastetv.com/mustafa-sandalin-esi-ve-kayinpederi-hakkinda-yakalama-karari/",
+   "pubDate": "Tue, 29 Sep 2026 19:25:47 +0000",
+   "html": "<p><strong>В рамках расследования финансовых махинаций с инвестиционными фондами прокуратура Стамбула вынесла постановление об аресте имущества и задержании жены популярного певца Мустафы Сандала — Мелис Сютшуруп — и её отца.</strong></p>\n<p>Новые события происходят в расследовании Бюро по борьбе с финансированием терроризма и отмыванием денег Главной прокуратуры Стамбула по делу инвестиционных фондов.</p><p>Имущество жены Мустафы Сандала Мелис Сютшуруп и её отца арестовано. В отношении них выданы ордера на задержание.</p><p>Мустафа Сандал 29 сентября 2024 года заявлял, что не имеет с женой никаких общих финансовых интересов: «С Мелис, кроме того что мы муж и жена, у нас никогда не было общих финансовых дел».</p><p>Певец Мустафа Сандал и его жена Мелис Сандал ранее опровергали обвинения в выводе 11 миллиардов лир из ликвидированных фондов.</p><p>Несмотря на эти опровержения, Главная прокуратура Стамбула в рамках расследования операций на рынках капитала запросила применение меры по аресту имущества в отношении 106 физических лиц и организаций.</p><p>Среди 47 физических лиц, в отношении которых запрошен арест имущества, оказалась жена певца Мустафы Сандала — Мелис Сандал.</p><h2>Обвинения в выводе 11 миллиардов лир</h2><p>Утверждается, что Мелис Сандал вывела из ликвидированных фондов 11 миллиардов лир. На эти обвинения Мустафа Сандал и его жена Мелис Сандал дали отдельные ответы 27 сентября 2024 года.</p><p>Мелис Сандал опубликовала в своём аккаунте в социальных сетях заявление своего адвоката.</p><p>В заявлении адвоката утверждалось, что обвинения в выводе средств в размере 11 миллиардов турецких лир не соответствуют действительности.</p><blockquote>«Все операции зарегистрированы в соответствующих банках и брокерских компаниях с указанием дат и сумм. Реальная история операций наших доверителей может быть установлена компетентными органами без каких-либо сомнений».</blockquote><h2>Признание наличия средств в фондах</h2><p>В заявлении, где утверждалось, что реальная ситуация полностью противоположна обвинениям, говорилось следующее:</p><blockquote>«В указанных фондах до сих пор находятся инвестиции, принадлежащие нашим доверителям, и из-за закрытия фондов наши доверители не могут получить доступ к этим инвестициям. Таким образом, наши доверители не извлекли выгоду из кризиса фондов, а сами стали его жертвами и понесли материальный ущерб».</blockquote><p>Заявление Мустафы Сандала было таким:</p><blockquote>«Дорогие друзья! Моя совесть чиста! У меня никогда не было никаких ситуаций, связанных с покупкой, продажей фондов или участием в подобных организациях. Я с уважением разделяю чувствительность нашего народа в этом вопросе. За 32 года мой единственный доход — музыка, благодаря вашей поддержке. Моя жена и её адвокат сделали необходимое заявление по этому вопросу».</blockquote>\n<p>Источник: <a href=\"https://gastetv.com/mustafa-sandalin-esi-ve-kayinpederi-hakkinda-yakalama-karari/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/09/mustafa-sandalin-esi-ve-kayinpederi-hakkinda-yakalama-karari-HDc4b5Sq.jpg",
+   "tags": [
+    "Мустафа Сандал",
+    "Мелис Сандал",
+    "финансовое расследование",
+    "инвестиционные фонды",
+    "Стамбул",
+    "арест имущества"
+   ]
+  }
+ ]
+}
