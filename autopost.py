@@ -213,8 +213,10 @@ def allowed_this_run(now_local: datetime, published_today: int) -> int:
     left = DAILY_LIMIT - published_today
     if left <= 0:
         return 0
-    runs_left = max(1, len([h for h in RUN_HOURS if h >= now_local.hour]))
-    return math.ceil(left / runs_left)
+    # равномерный график: к этому часу должно выйти столько-то статей из DAILY_LIMIT
+    runs_done = len([h for h in RUN_HOURS if h <= now_local.hour])
+    target = math.ceil(DAILY_LIMIT * runs_done / len(RUN_HOURS))
+    return max(0, min(left, target - published_today))
 
 
 def main():
