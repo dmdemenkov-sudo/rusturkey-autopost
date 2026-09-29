@@ -1,0 +1,43 @@
+name: autopost
+
+on:
+  schedule:
+    # каждый час с 08:10 до 23:10 по Стамбулу (UTC+3)
+    - cron: "10 5-20 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Опубликовать N статей сразу (0 = обычный режим)"
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Отбор, перевод, лента
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FEED_PUBLIC_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/feed.xml
+        run: python autopost.py --force "${{ github.event.inputs.force || 0 }}"
+      - name: Сохранить ленту и состояние
+        run: |
+          git config user.name "autopost-bot"
+          git config user.email "autopost-bot@users.noreply.github.com"
+          git add state.json docs/feed.xml
+          git diff --cached --quiet || git commit -m "autopost $(date -u +%F\ %H:%M)"
+          git push
+          
