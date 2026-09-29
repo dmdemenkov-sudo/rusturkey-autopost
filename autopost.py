@@ -38,7 +38,7 @@ SOURCE = "https://gastetv.com"
 CATEGORIES = {2: "Gündem", 9: "Magazin"}          # id рубрик на gastetv
 DAILY_LIMIT = 10                                   # материалов в сутки
 TOPIC_CAPS = {"celebrity": 4, "politics": 3, "life": 3, "incident": 1, "other": 1}
-MIN_SCORE = 6                                      # ниже — не публикуем вообще
+MIN_SCORE = 5                                      # ниже — не публикуем вообще
 MIN_AGE_MIN = 40        # не брать статью моложе 40 минут: часто её ещё дописывают
 MAX_AGE_H = 18          # старше — уже не новость
 MIN_TEXT_CHARS = 450    # короче — заглушка, ждём дописывания
@@ -134,7 +134,9 @@ class LLM:
             return {"skip": False, "title": "[MOCK] " + post["title"],
                     "lead": "Тестовый лид.", "body_html": "".join(f"<p>{escape(p)}</p>" for p in text.split("\n\n")),
                     "tags": ["тест"]}
-        user = f"Рубрика: {post['cat']}\nЗаголовок: {post['title']}\n\nТекст:\n{text}"
+        today = datetime.now(TZ).strftime("%d.%m.%Y")
+        user = (f"Сегодня: {today}. Все даты и годы переноси ТОЧНО как в исходнике.\n"
+                f"Рубрика: {post['cat']}\nЗаголовок: {post['title']}\n\nТекст:\n{text}")
         return self._ask(TRANSLATE_MODEL, TRANSLATE_SYSTEM, user, 6000)
 
 
@@ -244,11 +246,11 @@ def main():
     pub_today = [x for x in state["published"] if x["day"] == today]
     if to_score:
         log(f"Оцениваю заголовков: {len(to_score)}")
-        for s in llm.score(to_score, [x["title_tr"] for x in pub_today]):
+        for s in llm.score(to_score, [f'{x["title_tr"]} [сюжет: {x.get("story","")}]' for x in pub_today]):
             st = state["posts"].get(str(s["id"]))
             if st:
                 st.update(status="scored", score=int(s.get("score", 0)), topic=s.get("topic", "other"),
-                          dup_of=s.get("dup_of"), why=s.get("why", ""))
+                          dup_of=s.get("dup_of"), why=s.get("why", ""), story=s.get("story") or "")
 
     # 2. Сколько можно опубликовать сейчас
     n_allowed = min(args.force, DAILY_LIMIT - len(pub_today)) if args.force else allowed_this_run(now_local, len(pub_today))
@@ -271,6 +273,7 @@ def main():
 
     # 3. Перевод и публикация
     used_src_titles = [state["posts"].get(str(x["id"]), {}).get("title", "") for x in pub_today]
+    used_stories = {x.get("story") for x in pub_today if x.get("story")}
     done = 0
     for p in candidates:
         if done >= n_allowed:
@@ -280,6 +283,10 @@ def main():
         if topic_used.get(topic, 0) >= TOPIC_CAPS.get(topic, 1):
             continue
         # страховка от дублей: почти одинаковые турецкие заголовки за сегодня
+        # одна публикация на один сюжет в сутки
+        if st.get("story") and st["story"] in used_stories:
+            st["status"] = "duplicate"
+            continue
         if any(difflib.SequenceMatcher(None, p["title"].lower(), t.lower()).ratio() > 0.75 for t in used_src_titles):
             st["status"] = "duplicate"
             continue
@@ -308,9 +315,11 @@ def main():
             "tags": tr.get("tags", []),
         })
         state["published"].append({"id": p["id"], "day": today, "at": now_utc.isoformat(),
-                                   "topic": topic, "title_tr": tr["title"]})
+                                   "topic": topic, "title_tr": tr["title"], "story": st.get("story", "")})
         st["status"] = "published"
         used_src_titles.append(p["title"])
+        if st.get("story"):
+            used_stories.add(st["story"])
         topic_used[topic] = topic_used.get(topic, 0) + 1
         done += 1
 
