@@ -539,6 +539,83 @@
    "topic": "celebrity",
    "dup_of": null,
    "why": "Nefise Karatay — реалити-персона, госпитализация, но малоизвестна широкой аудитории"
+  },
+  "204342": {
+   "status": "scored",
+   "seen_at": "2026-09-29T23:40:59.946207+00:00",
+   "title": "Girne feribot felaketi. İki cansız bedenin kimlik tespitleri tamamlandı",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Трагедия с паромом на Кипре, жертвы среди туристов — резонансный случай для нашей аудитории",
+   "story": "girne-ferry-disaster"
+  },
+  "204339": {
+   "status": "scored",
+   "seen_at": "2026-09-29T23:40:59.946207+00:00",
+   "title": "Süper Loto çekiliş sonuçları belli oldu: MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Результаты лотереи — малоинтересно для целевой аудитории, типовая новость",
+   "story": "super-loto-draw"
+  },
+  "204332": {
+   "status": "scored",
+   "seen_at": "2026-09-29T23:40:59.946207+00:00",
+   "title": "Anayasa Mahkemesi’nden süresiz nafaka kararı: ‘Süresiz olarak’ ibaresi iptal edildi",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Судебное решение по закону о содержании — может быть интересно экспатам, но узконишевое",
+   "story": "alimony-law-decision"
+  },
+  "204308": {
+   "status": "scored",
+   "seen_at": "2026-09-29T23:40:59.946207+00:00",
+   "title": "İş insanı Cengiz Avcı hakkında yakalama kararı. Mal varlığına el konuldu",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Дело бизнесмена с арестом имущества — может быть часть более крупного политического скандала",
+   "story": "cengiz-avci-arrest-warrant"
+  },
+  "204305": {
+   "status": "scored",
+   "seen_at": "2026-09-29T23:40:59.946207+00:00",
+   "title": "Burhanettin Duran: Sorumluluğu bulunanlar konumlarına bakılmaksızın hesap verecek",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление политика второго ряда о подотчётности — рутинное выступление, мало деталей",
+   "story": "burhanettin-duran-statement"
+  },
+  "204298": {
+   "status": "scored",
+   "seen_at": "2026-09-29T23:40:59.946207+00:00",
+   "title": "Ataşehir Belediye Meclisi’nde 6 CHP’li üye AK Parti’ye katıldı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Местный муниципальный скандал в Стамбуле — узкий интерес, без резонанса для широкой аудитории",
+   "story": "istanbul-chp-defection"
+  },
+  "204292": {
+   "status": "scored",
+   "seen_at": "2026-09-29T23:40:59.946207+00:00",
+   "title": "Burhanettin Duran: Fon piyasalarındaki sorun finansal sisteme risk oluşturmuyor",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Комментарий политика о финансовых рынках — экономический анализ второго ряда, низкий поисковый потенциал",
+   "story": "burhanettin-duran-markets"
   }
  },
  "published": [
