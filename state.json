@@ -990,6 +990,72 @@
    "dup_of": null,
    "why": "Актриса обиделась на комментарий — микроскопический incidиент, без интереса",
    "story": "ecem-erkek-follower-comment"
+  },
+  "204582": {
+   "status": "scored",
+   "seen_at": "2026-09-30T21:25:01.472599+00:00",
+   "title": "Fon soruşturmasında Nil Özalp’a gözaltı kararı",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Расследование о фонде с арестом известной фигуры — резонансный политический скандал, мало освещается по-русски",
+   "story": "fund-investigation-ozalp"
+  },
+  "204579": {
+   "status": "scored",
+   "seen_at": "2026-09-30T21:25:01.472599+00:00",
+   "title": "AK Parti Genel Başkan Yardımcısı Nihat Zeybekçi’nin parası tasfiye edilen fonda kaldı",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Скандал с замораживанием средств вице-председателя АКП в фонде — высокий резонанс, интересно русскоязычной аудитории",
+   "story": "fund-investigation-zeybekci"
+  },
+  "204576": {
+   "status": "scored",
+   "seen_at": "2026-09-30T21:25:01.472599+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, İzmir Büyükşehir Belediye Başkanı Cemil Tugay’ı kabul etti",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинный приём Эрдогана местного мэра — низкий поисковый потенциал, перескажут все",
+   "story": "erdogan-routine-meeting"
+  },
+  "204570": {
+   "status": "scored",
+   "seen_at": "2026-09-30T21:25:01.472599+00:00",
+   "title": "MGK toplantısı sonrası 8 maddelik açıklama",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление совбеза — важно для политики, но часто рутинно, без конкретных подробностей в заголовке",
+   "story": "mgk-statement"
+  },
+  "204567": {
+   "status": "scored",
+   "seen_at": "2026-09-30T21:25:01.472599+00:00",
+   "title": "Şans Topu sonuçları sorgulama ekranı 2026: 5+1 kazandıran numaralar ve MPİ bilet sorgulama sayfası",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Результаты лотереи — минимальный трафик, рутинное содержание",
+   "story": "lottery-results"
+  },
+  "204564": {
+   "status": "scored",
+   "seen_at": "2026-09-30T21:25:01.472599+00:00",
+   "title": "Altay bebeğin zehirlenerek ölümünde 22 yıl hapis talebi",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Громкий криминальный случай с резонансом (смерть младенца) — интересует аудиторию, но уголовные дела обычно дают средний трафик",
+   "story": "altay-baby-poisoning-case"
   }
  },
  "published": [
