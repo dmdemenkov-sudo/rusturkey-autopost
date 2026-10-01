@@ -1058,7 +1058,7 @@
    "story": "altay-baby-poisoning-case"
   },
   "204805": {
-   "status": "scored",
+   "status": "published",
    "seen_at": "2026-10-01T11:35:26.226606+00:00",
    "title": "Abdullah Güler’den fon krizi açıklaması: Milletimiz müsterih olsun",
    "cat": "Gündem",
@@ -1223,7 +1223,7 @@
    "story": "fund-investor-payments"
   },
   "204801": {
-   "status": "scored",
+   "status": "published",
    "seen_at": "2026-10-01T11:35:26.226606+00:00",
    "title": "Uyuşturucu operasyonunda gözaltına alınmıştı! Oyuncu Nilperi Şahinkaya’nin test sonucu çıktı",
    "cat": "Magazin",
@@ -1234,7 +1234,7 @@
    "story": "nilperi-sahin-kaya-drugs"
   },
   "204779": {
-   "status": "scored",
+   "status": "published",
    "seen_at": "2026-10-01T11:35:26.226606+00:00",
    "title": "İlişkilerini gizliyorlardı! Deniz Can Aktaş, Devrim Özkan aşkını ilan etti",
    "cat": "Magazin",
@@ -1287,6 +1287,182 @@
    "dup_of": null,
    "why": "Мелкая светская сплетня без значительного резонанса",
    "story": "caglar-erturk-watch"
+  },
+  "204916": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Güllü’nün ölümü davasında kızı Tuğyan Ülkem Gülter için ağırlaştırılmış müebbet talebi",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Уголовное дело о смерти певца Гюллю — резонансно, но это старый случай, новость только о приговоре дочери",
+   "story": "gullu-death-case"
+  },
+  "204913": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "TBMM’de yeni yasama yılı resepsiyonu",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинная новость об официальном открытии парламента, не интересна русскоязычной аудитории",
+   "story": "tbmm-opening"
+  },
+  "204907": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Devlet Bahçeli’den Yeni Parti’ye: Cumhurbaşkanı varken gitmeleri doğru olmamıştır",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление лидера НХП Бахчели по резонансной теме раскола в оппозиции — политика второго ряда, хороший трафик",
+   "story": "bahceli-new-party"
+  },
+  "204899": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "İstanbul’da trafik yoğunluğu akşam saatlerinde yüzde 89’a yükseldi",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Пробка в Стамбуле — мелкая локальная новость, неинтересна русскоязычному читателю",
+   "story": "istanbul-traffic"
+  },
+  "204891": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Özgür Özel’in salonu terk etmesi, akıllara İsrail heyetini getirdi",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Действия лидера ОНП Озеля в парламенте — политика второго ряда, может быть интересна, но без деталей сложно оценить",
+   "story": "ozgur-ozel-parliament"
+  },
+  "204886": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "AK Parti’de Fatma Betül Sayan Kaya’nın görevine Hülya Terzioğlu getirildi",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Кадровая ротация в партии Эрдогана — мелкая внутренняя политика, не интересна русскоязычной аудитории",
+   "story": "akp-personnel-change"
+  },
+  "204872": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Alparslan Bayraktar: Nükleer enerji hamlemizi büyüteceğiz",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление министра о ядерной энергии — рутинная технократическая новость, перескажут все СМИ",
+   "story": "nuclear-energy-plan"
+  },
+  "204866": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Cumhurbaşkanı Erdoğan: Gelecek yüzyıla biz damga vuracağız",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинная речь Эрдогана на открытии парламента, такие новости перескажут все федеральные СМИ",
+   "story": "erdogan-parliament-speech"
+  },
+  "204856": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, DEM Parti grubuyla tokalaştı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Мелкая рутинная новость о приветствии в парламенте, не интересна читателю",
+   "story": "erdogan-dem-party"
+  },
+  "204835": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "TBMM açılıyor | Cumhurbaşkanı Erdoğan: Fon konusunu süratle çözüyoruz",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление Эрдогана о фондовом скандале — повтор темы, уже освещалась, рутинная реакция лидера",
+   "story": "erdogan-fund-crisis"
+  },
+  "204818": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "DEM Partili vekiller Devlet Bahçeli ile selamlaşmak için sıraya girdi",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Мелкая рутинная новость о процедурах в парламенте, неинтересна",
+   "story": "dem-party-parliament"
+  },
+  "204815": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "TBMM açılıyor. Cumhurbaşkanı Erdoğan yeni yasama yılı için Meclis’te",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинная новость об открытии сессии парламента, без значимого контента",
+   "story": "parliament-opening"
+  },
+  "204809": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Mehmet Şimşek: Kurumlarımız fonlarla ilgili çalışmalarını titizlikle sürdürüyor",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление министра финансов о расследовании фондов — повтор темы, уже освещалась несколько раз сегодня",
+   "story": "mehmet-simsek-funds"
+  },
+  "204847": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Aşkını yıllardır saklıyordu! Jim Carrey 64 yaşında yeniden evlendi",
+   "cat": "Magazin",
+   "score": 2,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Голливудская звезда, не турецкая — не интересна нашей аудитории, о Кэррее пишут везде",
+   "story": "jim-carrey-wedding"
+  },
+  "204841": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Yasaklı madde test sonucu pozitif çıkmıştı! Afra Saraçoğlu’ndan açıklama geldi",
+   "cat": "Magazin",
+   "score": 5,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Турецкая актриса и позитивный тест на наркотики — резонансная новость, может дать трафик",
+   "story": "afra-saracoglu-drug-test"
+  },
+  "204823": {
+   "status": "scored",
+   "seen_at": "2026-10-01T18:24:05.823419+00:00",
+   "title": "Engincan Ural paylaştı! Sibel Can’ın torunu Lina 1 yaşında",
+   "cat": "Magazin",
+   "score": 3,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Певица Сибел Джан и фото внука — лёгкая светская новость, низкий приоритет",
+   "story": "sibel-can-grandson"
   }
  },
  "published": [
@@ -1414,9 +1590,78 @@
    "topic": "celebrity",
    "title_tr": "Берен Гёкйылдыз отметила 17-летие: кадры с днём рождения",
    "story": "beren-gokyildiz-birthday"
+  },
+  {
+   "id": 204801,
+   "day": "2026-10-01",
+   "at": "2026-10-01T18:24:05.823419+00:00",
+   "topic": "celebrity",
+   "title_tr": "Нилпери Шахинкая: результаты тестов на наркотики отрицательные",
+   "story": "nilperi-sahin-kaya-drugs"
+  },
+  {
+   "id": 204779,
+   "day": "2026-10-01",
+   "at": "2026-10-01T18:24:05.823419+00:00",
+   "topic": "celebrity",
+   "title_tr": "Дениз Джан Акташ впервые подтвердил роман с партнёршей по сериалу",
+   "story": "deniz-can-aktas-devrim-ozkan"
+  },
+  {
+   "id": 204805,
+   "day": "2026-10-01",
+   "at": "2026-10-01T18:24:05.823419+00:00",
+   "topic": "politics",
+   "title_tr": "Абдуллах Гюлер о кризисе фондов: Народ может быть спокоен",
+   "story": "fund-crisis-statement"
   }
  ],
  "feed": [
+  {
+   "guid": "gastetv-204805",
+   "title": "Абдуллах Гюлер о кризисе фондов: Народ может быть спокоен",
+   "link": "https://gastetv.com/abdullah-gulerden-fon-krizi-aciklamasi-milletimiz-musterih-olsun/",
+   "pubDate": "Thu, 01 Oct 2026 18:24:05 +0000",
+   "html": "<p><strong>Глава фракции ПСР в парламенте Абдуллах Гюлер заявил, что вкладчикам с суммами до 1 млн лир будут возвращены средства в рамках расследования махинаций на рынке капитала. Выплаты пройдут за счет конфискованных активов, а не государственных средств.</strong></p>\n<p>Сегодня в Великом национальном собрании Турции (ВНСТ) начинается новый законодательный год.</p>\n\n<p>Перед церемонией открытия глава фракции Партии справедливости и развития Абдуллах Гюлер ответил на вопросы телеканала NTV.</p>\n\n<p>Гюлер заявил, что расследование махинаций на рынке капитала, начатое Стамбульской прокуратурой, будет доведено до конца, и дал важные комментарии по этому поводу.</p>\n\n<h2>«Могу это сказать совершенно открыто»</h2>\n\n<p>Напомнив, что под председательством президента Реджепа Тайипа Эрдогана было проведено совещание по этому вопросу и Комитет государственного контроля получил соответствующие поручения, Гюлер сказал: «Принято решение о возврате средств инвесторам с вложениями до 1 миллиона лир — основная сумма будет выплачена. Скажем это совершенно открыто и четко: народ может быть спокоен».</p>\n\n<h2>«С этими выплатами очень большая часть счетов будет погашена»</h2>\n\n<p>Отметив, что выплаты будут произведены за счет залогов фондовых ресурсов и конфискованного имущества, Гюлер заявил: «Средства не будут выплачиваться из того, что мы можем назвать государственными ресурсами. С этими выплатами очень большая часть счетов будет погашена».</p>\n\n<h2>«По комиссии может быть проведена оценка»</h2>\n\n<p>Напомнив, что в ходе расследования арестованы более 50 подозреваемых, Гюлер отметил, что парламент ранее создавал следственные комиссии по различным вопросам, и пояснил, что после прояснения процесса может быть проведена оценка и по этому вопросу.</p>\n\n<h2>«Создадим рамки, не допускающие таких нарушений»</h2>\n\n<p>Отметив, что президент Эрдоган дал указание довести расследование до конца, Гюлер заявил: «Мы серьезны, мы дадим гарантии общественности. Мы и восстановим доверие к рынкам капитала, и создадим такие рамки, которые больше не допустят нарушений, способных привести к подобному кризису. Наш дорогой народ может быть спокоен».</p>\n<p>Источник: <a href=\"https://gastetv.com/abdullah-gulerden-fon-krizi-aciklamasi-milletimiz-musterih-olsun/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/abdullah-gulerden-fon-krizi-aciklamasi-milletimiz-musterih-olsun-pLtPlhvG.jpg",
+   "tags": [
+    "Абдуллах Гюлер",
+    "рынок капитала",
+    "расследование",
+    "Реджеп Тайип Эрдоган",
+    "парламент Турции"
+   ]
+  },
+  {
+   "guid": "gastetv-204779",
+   "title": "Дениз Джан Акташ впервые подтвердил роман с партнёршей по сериалу",
+   "link": "https://gastetv.com/iliskilerini-gizliyorlardi-deniz-can-aktas-devrim-ozkan-askini-ilan-etti/",
+   "pubDate": "Thu, 01 Oct 2026 18:24:05 +0000",
+   "html": "<p><strong>Актёр Дениз Джан Акташ впервые публично признался, что встречается с коллегой Деврим Озкан, с которой снимается в сериале «Подполье». Пара провела вместе летний отпуск, но до сих пор хранила молчание об отношениях.</strong></p>\n<p>Популярный турецкий актёр Дениз Джан Акташ не выходит из повестки не только благодаря карьере, но и событиям в личной жизни.</p>\n\n<p>Некоторое время назад появились слухи о романе Акташа с Деврим Озкан, его партнёршей по сериалу «Подполье» (Yeraltı). Летний отпуск они тоже провели вместе. И вот актёр, прежде молчавший о личной жизни, наконец сделал признание.</p>\n\n<h2>«В моей жизни есть любовь, которая делает меня счастливым»</h2>\n\n<p>Дениз Джан Акташ впервые открыто заявил, что в его жизни есть особенный человек. В программе актёр подтвердил отношения с Озкан словами: «В моей жизни есть любовь, которая делает меня счастливым».</p>\n\n<h2>«Моя энергия»</h2>\n\n<p>Когда Акташ говорил: «Я становлюсь очень энергичным, глаза горят, меняется взгляд на жизнь. Свою работу я делаю с ещё большей страстью», — Озкан поставила лайк прямому эфиру программы, что не осталось незамеченным.</p>\n\n<p>Завершая разговор, актёр не исключил и возможности женитьбы: «С правильным человеком я готов подумать о браке».</p>\n<p>Источник: <a href=\"https://gastetv.com/iliskilerini-gizliyorlardi-deniz-can-aktas-devrim-ozkan-askini-ilan-etti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/iliskilerini-gizliyorlardi-deniz-can-aktas-devrim-ozkan-askini-ilan-etti-BuCGGqms.jpg",
+   "tags": [
+    "Дениз Джан Акташ",
+    "Деврим Озкан",
+    "турецкие актёры",
+    "Yeraltı",
+    "турецкие сериалы"
+   ]
+  },
+  {
+   "guid": "gastetv-204801",
+   "title": "Нилпери Шахинкая: результаты тестов на наркотики отрицательные",
+   "link": "https://gastetv.com/uyusturucu-operasyonunda-gozaltina-alinmisti-oyuncu-nilperi-sahinkayanin-test-sonucu-cikti/",
+   "pubDate": "Thu, 01 Oct 2026 18:24:05 +0000",
+   "html": "<p><strong>Актриса Нилпери Шахинкая, задержанная в рамках антинаркотической операции, опубликовала результаты экспертизы. Все анализы крови, волос и мочи оказались отрицательными.</strong></p>\n<p>Актриса Нилпери Шахинкая, известная по сериалу «Öyle Bir Geçer Zaman Ki» («Так проходит время»), была задержана жандармерией Стамбула в рамках новой антинаркотической операции, проводимой прокуратурой района Бакыркёй против знаменитостей. Актрису отпустили под подписку о невыезде, и теперь стали известны результаты её анализов.</p><h2>«Все мои тесты отрицательные»</h2><p>Актриса, активная в социальных сетях, опубликовала результаты экспертизы и прокомментировала:</p><blockquote>На сегодняшний день, согласно заключению Института судебной медицины, внесённому в материалы следствия, во всех образцах моей крови, волос и мочи не обнаружено никаких наркотических или стимулирующих веществ. Все мои тесты оказались отрицательными. Крепко обнимаю всех своих близких, кто был рядом со мной в этот период, в первую очередь — мою адвоката Джемре Томрукчу.</blockquote>\n<p>Источник: <a href=\"https://gastetv.com/uyusturucu-operasyonunda-gozaltina-alinmisti-oyuncu-nilperi-sahinkayanin-test-sonucu-cikti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/uyusturucu-operasyonunda-gozaltina-alinmisti-oyuncu-nilperi-sahinkayanin-test-sonucu-cikti-Bw2BJPIh.jpg",
+   "tags": [
+    "Нилпери Шахинкая",
+    "наркотики",
+    "знаменитости",
+    "Стамбул",
+    "турецкий шоу-бизнес"
+   ]
+  },
   {
    "guid": "gastetv-204769",
    "title": "Берен Гёкйылдыз отметила 17-летие: кадры с днём рождения",
