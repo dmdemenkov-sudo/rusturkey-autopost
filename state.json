@@ -992,7 +992,7 @@
    "story": "ecem-erkek-follower-comment"
   },
   "204582": {
-   "status": "scored",
+   "status": "published",
    "seen_at": "2026-09-30T21:25:01.472599+00:00",
    "title": "Fon soruşturmasında Nil Özalp’a gözaltı kararı",
    "cat": "Gündem",
@@ -1003,7 +1003,7 @@
    "story": "fund-investigation-ozalp"
   },
   "204579": {
-   "status": "scored",
+   "status": "published",
    "seen_at": "2026-09-30T21:25:01.472599+00:00",
    "title": "AK Parti Genel Başkan Yardımcısı Nihat Zeybekçi’nin parası tasfiye edilen fonda kaldı",
    "cat": "Gündem",
@@ -1056,6 +1056,237 @@
    "dup_of": null,
    "why": "Громкий криминальный случай с резонансом (смерть младенца) — интересует аудиторию, но уголовные дела обычно дают средний трафик",
    "story": "altay-baby-poisoning-case"
+  },
+  "204805": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Abdullah Güler’den fon krizi açıklaması: Milletimiz müsterih olsun",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление политика второго ряда по резонансной теме фонового скандала, но сам скандал уже освещался",
+   "story": "fund-crisis-statement"
+  },
+  "204793": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Türk yapımı piyade tüfeği MKE-739, Rusların Kalaşnikof’unu geride bıraktı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Военная новость без интереса для целевой аудитории",
+   "story": "mke-739-rifle"
+  },
+  "204786": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Sosyal medyada kavga ve gerilim içerikleriyle gelir elde edenlere 10 ilde operasyon",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Закон/операция, но узкоспециальная тема, мало интереса для русскоязычной аудитории",
+   "story": "social-media-crackdown"
+  },
+  "204775": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Terörsüz Türkiye sürecinde İzleme Komisyonu bu ay oluşturulacak",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Политическая рутина без резонанса",
+   "story": "terror-free-turkey-commission"
+  },
+  "204763": {
+   "status": "published",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Fon soruşturması kapsamında gözaltına alınan 12 şüpheli adliyede",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Развитие громкого скандала с фондами — новые аресты и детали",
+   "story": "fund-crisis-arrests"
+  },
+  "204671": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "CHP’den ayrılan belediye başkanları AK Parti’ye geçmeye devam ediyor",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Местная политическая дрязга без широкого резонанса",
+   "story": "chp-mayors-ak-party"
+  },
+  "204666": {
+   "status": "published",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Mustafa Sandal’dan fon iddialarına yanıt: Hayranlarından alkışlı destek",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Известный турецкий певец Мустафа Сандал — популярен в РФ и СНГ, продолжение громкого скандала",
+   "story": "mustafa-sandal-fund"
+  },
+  "204662": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "İstanbul Havalimanı’nda 34,4 kilo kokain ele geçirildi",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Наркотик на аэропорту — локальный криминал без широкого резонанса для аудитории",
+   "story": "istanbul-airport-cocaine"
+  },
+  "204653": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Reyhanlı saldırısının Suriyeli faili yakalandı",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Арест подозреваемого в громком теракте — резонансное развитие истории",
+   "story": "reyhani-attack-arrest"
+  },
+  "204640": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Fon Koordinasyon Kurulu ikinci toplantısını yarın yapacak",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинная административная новость",
+   "story": "fund-coordination-board"
+  },
+  "204637": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Mersin Belediye Başkanı Vahap Seçer kimdir, neden gözaltına alındı?",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Местный мэр арестован — может быть интересно, но без широкого резонанса для русскоязычной аудитории",
+   "story": "vahap-secer-arrest"
+  },
+  "204611": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "TBMM yeni yasama yılına bugün başlıyor",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинная политическая процедура",
+   "story": "parliament-session-start"
+  },
+  "204608": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Resmi Gazete’de bugün (1 Ekim 2026 Resmi Gazete kararları)",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Бюрократическая информация",
+   "story": ""
+  },
+  "204605": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Yeni yasama yılı başlıyor, TBMM açılıyor",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": 204611,
+   "why": "Дубль новости 204611",
+   "story": "parliament-opening"
+  },
+  "204602": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "SPK harekete geçti: Tasfiye edilen fonların yatırımcılarına ara ödeme yapılacak",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Полезно для инвесторов фондов, но узкоспециальная тема",
+   "story": "fund-investor-payments"
+  },
+  "204801": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Uyuşturucu operasyonunda gözaltına alınmıştı! Oyuncu Nilperi Şahinkaya’nin test sonucu çıktı",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Турецкая актриса в наркоскандале — привлекает внимание фанатов сериалов",
+   "story": "nilperi-sahin-kaya-drugs"
+  },
+  "204779": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "İlişkilerini gizliyorlardı! Deniz Can Aktaş, Devrim Özkan aşkını ilan etti",
+   "cat": "Magazin",
+   "score": 5,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Турецкие актёры, признание отношений — интересно для поклонников сериалов",
+   "story": "deniz-can-aktas-devrim-ozkan"
+  },
+  "204769": {
+   "status": "published",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "17 yaşına girdi! Beren Gökyıldız’dan doğum günü kareleri geldi",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Beren Gökyıldız популярна в России (сериал 'Невероятные'), день рождения — точка для фанатов",
+   "story": "beren-gokyildiz-birthday"
+  },
+  "204646": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Adriana Lima Paris’te görüntülendi! Son hali hayranlarını endişelendirdi",
+   "cat": "Magazin",
+   "score": 1,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Иностранная модель/звезда — не релевантна целевой аудитории",
+   "story": "adriana-lima-paris"
+  },
+  "204598": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Hayko Cepkin vergi rekortmenleri listesinde",
+   "cat": "Magazin",
+   "score": 3,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Турецкий артист в списке налогоплательщиков — мало интереса для целевой аудитории",
+   "story": "hayko-cepkin-taxes"
+  },
+  "204592": {
+   "status": "scored",
+   "seen_at": "2026-10-01T11:35:26.226606+00:00",
+   "title": "Çağlar Ertuğrul’un saatinin geğeri gündem oldu",
+   "cat": "Magazin",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Мелкая светская сплетня без значительного резонанса",
+   "story": "caglar-erturk-watch"
   }
  },
  "published": [
@@ -1143,9 +1374,125 @@
    "topic": "celebrity",
    "title_tr": "Гонджа Вуслатери закрыла соцсети после премьеры сериала",
    "story": "gonca-vuslateri-social-media"
+  },
+  {
+   "id": 204579,
+   "day": "2026-10-01",
+   "at": "2026-10-01T11:35:26.226606+00:00",
+   "topic": "politics",
+   "title_tr": "Замглавы ПСР Нихат Зейбекчи: «Мои деньги застряли в ликвидированном фонде»",
+   "story": "fund-investigation-zeybekci"
+  },
+  {
+   "id": 204582,
+   "day": "2026-10-01",
+   "at": "2026-10-01T11:35:26.226606+00:00",
+   "topic": "politics",
+   "title_tr": "Певица Нил Озалп задержана в рамках «фондового расследования»",
+   "story": "fund-investigation-ozalp"
+  },
+  {
+   "id": 204666,
+   "day": "2026-10-01",
+   "at": "2026-10-01T11:35:26.226606+00:00",
+   "topic": "celebrity",
+   "title_tr": "Мустафа Сандал ответил на обвинения в связи с фондами: поклонники аплодировали",
+   "story": "mustafa-sandal-fund"
+  },
+  {
+   "id": 204763,
+   "day": "2026-10-01",
+   "at": "2026-10-01T11:35:26.226606+00:00",
+   "topic": "incident",
+   "title_tr": "Дело о фондовой афере: 12 подозреваемых направлены в суд",
+   "story": "fund-crisis-arrests"
+  },
+  {
+   "id": 204769,
+   "day": "2026-10-01",
+   "at": "2026-10-01T11:35:26.226606+00:00",
+   "topic": "celebrity",
+   "title_tr": "Берен Гёкйылдыз отметила 17-летие: кадры с днём рождения",
+   "story": "beren-gokyildiz-birthday"
   }
  ],
  "feed": [
+  {
+   "guid": "gastetv-204769",
+   "title": "Берен Гёкйылдыз отметила 17-летие: кадры с днём рождения",
+   "link": "https://gastetv.com/17-yasina-girdi-beren-gokyildizdan-dogum-gunu-kareleri-geldi/",
+   "pubDate": "Thu, 01 Oct 2026 11:35:26 +0000",
+   "html": "<p><strong>Юная актриса Берен Гёкйылдыз, известная по сериалам «Семья моего мужа», «Мама», «Моя дочь» и «Детство», отпраздновала 17-летие и поделилась кадрами с торжества в соцсетях.</strong></p>\n<p>Актриса задула свечи на праздничном торте на фоне Галатской башни и опубликовала снимки с этого особенного момента в своих социальных сетях.</p><p>Публикация Гёкйылдыз с кадрами празднования дня рождения за короткое время собрала множество лайков и поздравлений от подписчиков.</p><p>Пользователи отметили, как изменилась талантливая актриса с детских лет.</p>\n<p>Источник: <a href=\"https://gastetv.com/17-yasina-girdi-beren-gokyildizdan-dogum-gunu-kareleri-geldi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/17-yasina-girdi-beren-gokyildizdan-dogum-gunu-kareleri-geldi-S44FLEzH.jpg",
+   "tags": [
+    "Берен Гёкйылдыз",
+    "день рождения",
+    "турецкие актрисы",
+    "знаменитости"
+   ]
+  },
+  {
+   "guid": "gastetv-204763",
+   "title": "Дело о фондовой афере: 12 подозреваемых направлены в суд",
+   "link": "https://gastetv.com/fon-sorusturmasi-kapsaminda-gozaltina-alinan-12-supheli-adliyede/",
+   "pubDate": "Thu, 01 Oct 2026 11:35:26 +0000",
+   "html": "<p><strong>В рамках расследования мошенничества с инвестиционными фондами в Стамбуле в суд направлены 12 подозреваемых, задержанных в ходе четвёртой волны операции. Всего по делу уже арестованы 61 человек, ещё 88 находятся под судебным контролем.</strong></p>\n<p>По данным прокуратуры Стамбула, расследование дела о фондовой афере продолжается. На данный момент 61 подозреваемый арестован, в отношении 88 человек применена мера пресечения в виде судебного контроля.</p>\n\n<h2>Четвёртая волна задержаний</h2>\n\n<p>Завершены процедуры в полиции в отношении подозреваемых, задержанных в ходе четвёртой волны операции по делу о фондовом мошенничестве. Двенадцать человек направлены в суд.</p>\n\n<p>После медицинского осмотра в стамбульский суд в Чаглаяне доставлены подозреваемые Алтуг Кантарджы, Озгюр Акайоглу, Керим Тосун, Нурай Эльмасташ, Азизе Биннур Тосун, Али Чиль, Тугба Хиджран Атасевен, Дуйгу Сомай, Искендер Балджы, Исмет Огют, Толга Туктекин и Адем Каратепе.</p>\n\n<p>Сообщается, что процедуры в полиции продолжаются ещё в отношении 20 подозреваемых, задержанных в рамках расследования.</p>\n<p>Источник: <a href=\"https://gastetv.com/fon-sorusturmasi-kapsaminda-gozaltina-alinan-12-supheli-adliyede/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/fon-sorusturmasi-kapsaminda-gozaltina-alinan-12-supheli-adliyede-AcmkeVzV.jpg",
+   "tags": [
+    "Стамбул",
+    "фондовая афера",
+    "мошенничество",
+    "задержания",
+    "расследование"
+   ]
+  },
+  {
+   "guid": "gastetv-204666",
+   "title": "Мустафа Сандал ответил на обвинения в связи с фондами: поклонники аплодировали",
+   "link": "https://gastetv.com/mustafa-sandaldan-fon-iddialarina-yanit-hayranlarindan-alkisli-destek/",
+   "pubDate": "Thu, 01 Oct 2026 11:35:26 +0000",
+   "html": "<p><strong>Популярный турецкий певец Мустафа Сандал публично опроверг причастность к скандалу с инвестиционными фондами, в который попали его жена и тесть. На концерте в Анкаре он заявил, что за 33 года карьеры его единственным источником дохода была музыка.</strong></p>\n<p>Расследование на рынке капитала ведётся Бюро по расследованию преступлений, связанных с финансированием терроризма и отмыванием денег при Главной прокуратуре Стамбула.</p><p>Следствие касается фондов, в отношении которых Комитет по рынкам капитала (SPK) принял решение о ликвидации. Обвинения включают «отмывание денежных средств, полученных преступным путём» и нарушение Закона о рынках капитала.</p><h2>Жена и тесть Мустафы Сандала фигурируют в деле</h2><p>В рамках расследования в отношении многочисленных лиц и организаций были запрошены меры по аресту имущества; число задержанных достигло 61 человека.</p><p>Жена Мустафы Сандала Мелис Сандал Сютшуруп и её отец Джихан Сютшуруп проходят по делу в качестве подозреваемых.</p><h2>Утверждается, что выведено 11 миллиардов лир</h2><p>В связи с неявкой на допросы в отношении них были выданы ордера на задержание, а всё имущество арестовано.</p><p>По данным следствия, Мелис Сандал вывела из ликвидируемых фондов около 11 миллиардов 126 миллионов лир, на счетах осталось около 250 миллионов лир.</p><h2>«32 года мой единственный доход — музыка»</h2><p>Мустафа Сандал в письменных заявлениях утверждал, что сам не имел никакого отношения к операциям с фондами или организации подобных схем, что за 32 года его единственным источником дохода была музыка, что с супругой у них нет материальной общности имущества, кроме семейных отношений, а его резидентство в Дубае оформлено по «золотой визе» как члена семьи из-за учёбы сына жены.</p><h2>Продолжает концертную деятельность</h2><p>На фоне этих событий Мустафа Сандал продолжил гастроли.</p><p>Вчера на концерте в Анкаре певец обратился к слушателям и ответил на обвинения, связанные с расследованием по фондам.</p><h2>«У меня нет другого источника дохода»</h2><p>Сандал заявил:</p><blockquote>«Я никогда и ни в коем случае не занимался покупкой или продажей фондов, не имел к ним никакого отношения. Говорю вам это, глядя в глаза. Мой единственный источник дохода уже 33 года — музыка, благодаря вашей поддержке. У меня нет другого источника дохода. Если бы я хотел быстро разбогатеть, я не потратил бы 33 года на то, чтобы выстраивать эти отношения с вами».</blockquote><h2>Поклонники поддержали аплодисментами</h2><p>В видеозаписях с концерта видно, как после этих слов зрители аплодировали артисту.</p><p>Ранее Сандал уже подчёркивал в социальных сетях, что его «совесть чиста» и у него нет материальной общности имущества с супругой.</p>\n<p>Источник: <a href=\"https://gastetv.com/mustafa-sandaldan-fon-iddialarina-yanit-hayranlarindan-alkisli-destek/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/mustafa-sandaldan-fon-iddialarina-yanit-hayranlarindan-alkisli-destek-Gk2O2PvS.jpg",
+   "tags": [
+    "Мустафа Сандал",
+    "Стамбул",
+    "Анкара",
+    "Отмывание денег",
+    "Турецкие звёзды",
+    "Финансовое расследование"
+   ]
+  },
+  {
+   "guid": "gastetv-204582",
+   "title": "Певица Нил Озалп задержана в рамках «фондового расследования»",
+   "link": "https://gastetv.com/fon-sorusturmasinda-nil-ozalpa-gozalti-karari/",
+   "pubDate": "Thu, 01 Oct 2026 11:35:26 +0000",
+   "html": "<p><strong>Стамбульская прокуратура задержала певицу Нил Озалп в рамках резонансного расследования о финансовых фондах. У артистки провели обыск, подозревая в хранении документов, связанных с Мухаммедом Ярызой.</strong></p>\n<p>Расследование о деятельности финансовых фондов, которое ведёт Генеральная прокуратура Стамбула, продолжает развиваться — каждый день появляются новые подробности.</p>\n\n<p>Дело, уже несколько дней занимающее первые полосы, углубляется, и произошло очередное задержание.</p>\n\n<h2>Певица задержана</h2>\n\n<p>В рамках расследования задержана певица Нил Озалп.</p>\n\n<h2>Обыск в квартире</h2>\n\n<p>Утверждается, что у Озалп были обнаружены документы, предположительно принадлежащие Мухаммеду Ярызе.</p>\n\n<p>В связи с этим в стамбульской квартире Нил Озалп был проведён обыск.</p>\n<p>Источник: <a href=\"https://gastetv.com/fon-sorusturmasinda-nil-ozalpa-gozalti-karari/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/09/fon-sorusturmasinda-nil-ozalpa-gozalti-karari-xpeJjMMO.jpg",
+   "tags": [
+    "Нил Озалп",
+    "Стамбул",
+    "расследование",
+    "финансы",
+    "задержание",
+    "Мухаммед Ярыза"
+   ]
+  },
+  {
+   "guid": "gastetv-204579",
+   "title": "Замглавы ПСР Нихат Зейбекчи: «Мои деньги застряли в ликвидированном фонде»",
+   "link": "https://gastetv.com/ak-parti-genel-baskan-yardimcisi-nihat-zeybekcinin-parasi-tasfiye-edilen-fonda-kaldi/",
+   "pubDate": "Thu, 01 Oct 2026 11:35:26 +0000",
+   "html": "<p><strong>Заместитель председателя Партии справедливости и развития Нихат Зейбекчи заявил, что четыре компании, совладельцем которых он является, вложили средства в один из ликвидированных фондов Tera. По его словам, он не знал об инвестициях и является одним из 455 тысяч пострадавших.</strong></p>\n<p>Заместитель председателя Партии справедливости и развития (ПСР) Нихат Зейбекчи заявил журналистам, что четыре компании, совладельцем которых он является, вложили средства в один из ликвидированных фондов Tera, и теперь деньги «застряли внутри».</p>\n\n<p>«Я один из 455 тысяч пострадавших», — сказал Зейбекчи. Он подчеркнул, что не все, у кого были средства в фонде, должны рассматриваться как участники манипулятивных операций, и отметил, что деньги были размещены в фонде без его ведома.</p>\n\n<p>Зейбекчи заявил, что фонд не был связан с манипулятивными операциями, и указал, что месячная доходность фонда «Tera TP2» составляла около 3,5–4%.</p>\n\n<h2>«Если бы я знал, не позволил бы»</h2>\n\n<p>Отметив, что у него есть принципиальная позиция не размещать деньги под проценты, Зейбекчи сказал: «Я должен был об этом знать, но не знал. Коллеги разместили деньги туда, если бы я знал, не позволил бы».</p>\n\n<p>«Граждане держали там свои деньги, думая, что в случае чего государство вмешается. Не следует смешивать 455 тысяч человек с теми, кто проводил манипулятивные операции и заработал миллиарды лир», — заявил Зейбекчи.</p>\n<p>Источник: <a href=\"https://gastetv.com/ak-parti-genel-baskan-yardimcisi-nihat-zeybekcinin-parasi-tasfiye-edilen-fonda-kaldi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/09/ak-parti-genel-baskan-yardimcisi-nihat-zeybekcinin-parasi-tasfiye-edilen-fonda-kaldi-l4gZVTxE.jpg",
+   "tags": [
+    "Нихат Зейбекчи",
+    "ПСР",
+    "Tera",
+    "инвестиционные фонды",
+    "экономика Турции"
+   ]
+  },
   {
    "guid": "gastetv-204362",
    "title": "Гонджа Вуслатери закрыла соцсети после премьеры сериала",
