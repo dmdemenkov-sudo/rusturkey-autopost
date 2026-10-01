@@ -1463,6 +1463,61 @@
    "dup_of": null,
    "why": "Певица Сибел Джан и фото внука — лёгкая светская новость, низкий приоритет",
    "story": "sibel-can-grandson"
+  },
+  "204944": {
+   "status": "scored",
+   "seen_at": "2026-10-01T23:09:25.867693+00:00",
+   "title": "Fon soruşturmasında tutuklu sayısı 65’e yükseldi",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "other",
+   "dup_of": 204941,
+   "why": "дубль новости 204941 с тем же сюжетом",
+   "story": "fund-investigation"
+  },
+  "204941": {
+   "status": "scored",
+   "seen_at": "2026-10-01T23:09:25.867693+00:00",
+   "title": "Fon soruşturmasında 4 şüpheli daha tutuklandı. Tutuklu sayısı 65’e yükseldi",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "расследование фонда с арестами — локальный скандал, но мало резонанса для русской аудитории",
+   "story": "fund-investigation"
+  },
+  "204932": {
+   "status": "scored",
+   "seen_at": "2026-10-01T23:09:25.867693+00:00",
+   "title": "MHK soruşturması kapsamında hakem Yasin Kol gözaltına alındı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "местное спортивное расследование, малый интерес для читателей портала",
+   "story": "referee-investigation"
+  },
+  "204929": {
+   "status": "scored",
+   "seen_at": "2026-10-01T23:09:25.867693+00:00",
+   "title": "Süper Loto çekiliş sonuçları belli oldu: MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "результаты лотереи — минимальный интерес",
+   "story": "lottery-draw"
+  },
+  "204926": {
+   "status": "scored",
+   "seen_at": "2026-10-01T23:09:25.867693+00:00",
+   "title": "KOBİ kredileri için büyüme sınırı yükseltildi",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "life",
+   "dup_of": null,
+   "why": "изменение условий кредитов для МСП — полезно, но специфично для деловых людей",
+   "story": "sme-credit-policy"
   }
  },
  "published": [
