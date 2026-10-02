@@ -1586,7 +1586,7 @@
    "story": "israel-cyprus-greece-project-turkey"
   },
   "205063": {
-   "status": "scored",
+   "status": "published",
    "seen_at": "2026-10-02T11:04:53.422942+00:00",
    "title": "Neco ve kızı Zeynep Özyılmazel 10 yıl sonra barıştı! Sürprizleri var",
    "cat": "Magazin",
@@ -1608,7 +1608,7 @@
    "story": "rapper-sefo-drug-test"
   },
   "205052": {
-   "status": "scored",
+   "status": "published",
    "seen_at": "2026-10-02T11:04:53.422942+00:00",
    "title": "Uyuşturucu testi pozitif çıkmıştı! Oyuncu Melisa Şenolsun’dan açıklama geldi",
    "cat": "Magazin",
@@ -1661,6 +1661,149 @@
    "dup_of": null,
    "why": "Актёр Armağan Çağlayan почтил память коллеги. Мемориальный пост, без практической ценности, локальный интерес.",
    "story": "armagan-caglayan-tribute"
+  },
+  "205184": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Murat Kurum’dan TEKNOFEST Güneydoğu’ya ilişkin paylaşım",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Министр делится новостью о мероприятии — рутинная информация без резонанса",
+   "story": "murat-kurum-teknofest"
+  },
+  "205159": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Osmanlı’nın kuruluş dönemine ait sikke, İngiltere’de satışa sunuldu",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Историческая монета на аукционе — общий интерес, но мало для целевой аудитории",
+   "story": "ottoman-coin-london"
+  },
+  "205153": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Bayrak provokasyonunun altından kendisi çıktı",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Завуалированный заголовок, похоже на местный скандал без деталей — нужен контекст",
+   "story": "flag-provocation-case"
+  },
+  "205144": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Sevda Türküsev’den Mustafa Sandal’a: Sussa iyi olacak",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Известные звёзды, публичный конфликт — высокий трафик из поиска",
+   "story": "sevda-turkusev-mustafa-sandal"
+  },
+  "205134": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Kadıköy’de can pazarı. 8 katlı binada yangın çıktı",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Происшествие в центре Стамбула, опасность — актуально для тех, кто живёт в городе",
+   "story": "kadikoy-building-fire"
+  },
+  "205131": {
+   "status": "published",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "İstanbullular dikkat: Sahil yolu pazar günü kapanacak",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Практическая информация для жителей Стамбула о закрытии дороги",
+   "story": "istanbul-coastal-road-closure"
+  },
+  "205125": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "“Kumarhaneler Kralı” olarak anılan Sudi Özkan hayatını kaybetti",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Смерть известного криминального персонажа, но без резонанса в нашей аудитории",
+   "story": "sudi-ozkan-death"
+  },
+  "205119": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Murat Ağırel ve Levent Gültekin arasında sert kavga: Küfürler havada uçuştu",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Конфликт между малоизвестными персонами — местная сплетня без интереса для русскоязычной аудитории",
+   "story": "murat-ageril-levent-gultekin-fight"
+  },
+  "205110": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "İçişleri Bakanlığı: Piyasa değeri yaklaşık 61 milyon TL olan taklit ürün ele geçirildi",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Стандартное сообщение МВД о конфискации контрафакта — низкий поисковый интерес",
+   "story": "counterfeit-goods-seizure"
+  },
+  "205097": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Almanya’nın en zengin 500 kişi listesinde 3 Türk",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Новость про Германию, а не про Турцию — вне фокуса портала",
+   "story": "german-rich-list-turks"
+  },
+  "205094": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Gaziosmanpaşa Belediyesi davasında tahliye kararı",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Местный муниципальный скандал второго уровня — узкий интерес",
+   "story": "gaziosmanpasa-municipality-case"
+  },
+  "205087": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Özlem Gültekin’in ölümüne ilişkin 5 gözaltı",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Расследование резонансного дела — может быть интересно читателям, следящим за громкими случаями",
+   "story": "ozlem-gultekin-death-investigation"
+  },
+  "205104": {
+   "status": "scored",
+   "seen_at": "2026-10-02T16:37:12.547809+00:00",
+   "title": "Arzum Onan’dan yeni fotoğraf! Formda görüntüsü beğeni topladı",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Известная актриса/телеведущая — контент про звёзд привлекает трафик",
+   "story": "arzum-onan-photo"
   }
  },
  "published": [
@@ -1836,9 +1979,80 @@
    "topic": "celebrity",
    "title_tr": "Кубилай Ака и Хафсанур Санджактутан снова расстались",
    "story": "kubilay-aka-hafsanur-breakup"
+  },
+  {
+   "id": 205063,
+   "day": "2026-10-02",
+   "at": "2026-10-02T16:37:12.547809+00:00",
+   "topic": "celebrity",
+   "title_tr": "Неджо и дочь Зейнеп Озюлмазель помирились спустя 10 лет",
+   "story": "neco-zeynep-ozylmzel-reconciliation"
+  },
+  {
+   "id": 205052,
+   "day": "2026-10-02",
+   "at": "2026-10-02T16:37:12.547809+00:00",
+   "topic": "celebrity",
+   "title_tr": "Мелиса Шенолсун прокомментировала положительный тест на наркотики",
+   "story": "actress-melisa-senolsun-drug-test"
+  },
+  {
+   "id": 205131,
+   "day": "2026-10-02",
+   "at": "2026-10-02T16:37:12.547809+00:00",
+   "topic": "life",
+   "title_tr": "Стамбул: набережная перекрыта в воскресенье из-за забега",
+   "story": "istanbul-coastal-road-closure"
   }
  ],
  "feed": [
+  {
+   "guid": "gastetv-205131",
+   "title": "Стамбул: набережная перекрыта в воскресенье из-за забега",
+   "link": "https://gastetv.com/istanbullular-dikkat-sahil-yolu-pazar-gunu-kapanacak/",
+   "pubDate": "Fri, 02 Oct 2026 16:37:12 +0000",
+   "html": "<p><strong>4 октября из-за забега «Бегу по Стамбулу» участок набережной Sahil Yolu между Еникапы и Сарайбурну будет закрыт для транспорта с 06:00 до 12:00.</strong></p>\n<p>В воскресенье, 4 октября, в Стамбуле пройдёт забег «Бегу по Стамбулу» (İstanbul'u Koşuyorum), в связи с чем часть набережной будет перекрыта для движения.</p>\n\n<p>По сообщению мэрии Стамбула, движение транспорта закроют на участке Sahil Yolu между районами Еникапы и Сарайбурну.</p>\n\n<p>Ограничения начнут действовать с 06:00 утра и продлятся предположительно до 12:00.</p>\n\n<p>В это время движение будет организовано по альтернативным маршрутам. После завершения забега дорога вновь откроется для транспорта.</p>\n<p>Источник: <a href=\"https://gastetv.com/istanbullular-dikkat-sahil-yolu-pazar-gunu-kapanacak/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/istanbullular-dikkat-sahil-yolu-pazar-gunu-kapanacak-SaZXmuZe.jpg",
+   "tags": [
+    "Стамбул",
+    "транспорт",
+    "перекрытие дорог",
+    "забег",
+    "Еникапы",
+    "Сарайбурну"
+   ]
+  },
+  {
+   "guid": "gastetv-205052",
+   "title": "Мелиса Шенолсун прокомментировала положительный тест на наркотики",
+   "link": "https://gastetv.com/uyusturucu-testi-pozitif-cikmisti-oyuncu-melisa-senolsundan-aciklama-geldi/",
+   "pubDate": "Fri, 02 Oct 2026 16:37:12 +0000",
+   "html": "<p><strong>Турецкая актриса Мелиса Шенолсун впервые прокомментировала результаты теста на наркотики в рамках расследования прокуратуры Бакыркёй. По данным следствия, анализ волос показал положительный результат, хотя кровь и моча оказались чистыми.</strong></p>\n<p>В рамках расследования по делу о запрещённых веществах, которое ведёт прокуратура Бакыркёй, начали поступать результаты тестов знаменитостей.</p>\n\n<h2>Положительный результат у Мелисы</h2>\n\n<p>Мелиса Шенолсун, задержанная в рамках расследования, после оформления документов была направлена в Институт судебной медицины для сдачи анализов.</p>\n\n<p>Стало известно, что тест актрисы, освобождённой после задержания, дал положительный результат.</p>\n\n<h2>«Я была шокирована»</h2>\n\n<p>Шенолсун впервые прокомментировала ситуацию в социальных сетях. Актриса заявила следующее:</p>\n\n<blockquote>«Я с огорчением слежу за новостями обо мне, которые появились сегодня в прессе. С шоком узнала, что, хотя мои анализы крови и мочи показали отрицательный результат, в образце волос была обнаружена положительная находка».</blockquote>\n\n<h2>«Требую пересмотра»</h2>\n\n<blockquote>«Хочу ещё раз чётко и ясно заявить, что я не употребляю никаких наркотических или стимулирующих веществ. Поэтому считаю, что находка в образце волос при отрицательных результатах крови и мочи должна быть пересмотрена.</blockquote>\n\n<blockquote>Через своего адвоката обращусь в соответствующие судебные органы с просьбой о повторной экспертизе. С грустью слежу за комментариями обо мне, в то время как процесс ещё продолжается.</blockquote>\n\n<blockquote>Полностью уверена, что правда выяснится в ближайшее время. С любовью, Мелиса Шенолсун».</blockquote>\n<p>Источник: <a href=\"https://gastetv.com/uyusturucu-testi-pozitif-cikmisti-oyuncu-melisa-senolsundan-aciklama-geldi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/uyusturucu-testi-pozitif-cikmisti-oyuncu-melisa-senolsundan-aciklama-geldi-MRFWg6T7.jpg",
+   "tags": [
+    "Мелиса Шенолсун",
+    "актриса",
+    "наркотики",
+    "расследование",
+    "Турция",
+    "знаменитости"
+   ]
+  },
+  {
+   "guid": "gastetv-205063",
+   "title": "Неджо и дочь Зейнеп Озюлмазель помирились спустя 10 лет",
+   "link": "https://gastetv.com/neco-ve-kizi-zeynep-ozyilmazel-10-yil-sonra-baristi-surprizleri-var/",
+   "pubDate": "Fri, 02 Oct 2026 16:37:12 +0000",
+   "html": "<p><strong>Известный певец Неджо и его дочь Зейнеп Озюлмазель, не общавшиеся около 10 лет, недавно воссоединились. Теперь отец и дочь готовят сюрприз для поклонников — они впервые выступят вместе на одной сцене.</strong></p>\n<p>Известный турецкий певец Неджо на днях встретился со своей дочерью Зейнеп, с которой долгое время не общался. Встреча отца и дочери прошла в очень тёплой атмосфере.</p>\n\n<h2>Выступят на одной сцене</h2>\n\n<p>После примирения, состоявшегося спустя примерно 10 лет ссоры, Неджо и его дочь Зейнеп Озюлмазель готовят сюрприз для любителей музыки.</p>\n\n<p>В августе отец и дочь протянули друг другу руку примирения в Каз-Даглары (Казских горах), оставив позади старые обиды. Теперь же они планируют впервые выступить вместе на одной сцене.</p>\n<p>Источник: <a href=\"https://gastetv.com/neco-ve-kizi-zeynep-ozyilmazel-10-yil-sonra-baristi-surprizleri-var/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/neco-ve-kizi-zeynep-ozyilmazel-10-yil-sonra-baristi-surprizleri-var-nJULa6UC.jpg",
+   "tags": [
+    "Неджо",
+    "Зейнеп Озюлмазель",
+    "турецкие певцы",
+    "примирение",
+    "шоу-бизнес"
+   ]
+  },
   {
    "guid": "gastetv-205006",
    "title": "Кубилай Ака и Хафсанур Санджактутан снова расстались",
