@@ -1804,6 +1804,50 @@
    "dup_of": null,
    "why": "Известная актриса/телеведущая — контент про звёзд привлекает трафик",
    "story": "arzum-onan-photo"
+  },
+  "205204": {
+   "status": "scored",
+   "seen_at": "2026-10-02T21:18:30.388527+00:00",
+   "title": "Filozof İoanna Kuçuradi hayatını kaybetti",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Смерть философа — локальная новость, нет интереса для целевой аудитории",
+   "story": "philosopher-ionna-kucuradi-death"
+  },
+  "205200": {
+   "status": "scored",
+   "seen_at": "2026-10-02T21:18:30.388527+00:00",
+   "title": "Devlet Bahçeli’den 3 Ekim Türk Dünyası Günü mesajı",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление Бахчели по традиционной дате (3 октября). Рутинное поздравление, мало поискового потенциала",
+   "story": "bahceli-turkish-world-day-message"
+  },
+  "205194": {
+   "status": "scored",
+   "seen_at": "2026-10-02T21:18:30.388527+00:00",
+   "title": "Devlet Bahçeli’den “Türk Dünyası Günü” mesajı",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "politics",
+   "dup_of": 205200,
+   "why": "Дубль: то же самое заявление Бахчели о Дне турецкого мира",
+   "story": "bahceli-turkish-world-day-message"
+  },
+  "205191": {
+   "status": "scored",
+   "seen_at": "2026-10-02T21:18:30.388527+00:00",
+   "title": "Yasa dışı bahis sitelerine operasyon: 28 kişi tutuklandı",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Операция против нелегальных букмекеров — полезно для жизни, актуально для живущих в Турции, хороший трафик из поиска",
+   "story": "illegal-betting-sites-operation"
   }
  },
  "published": [
