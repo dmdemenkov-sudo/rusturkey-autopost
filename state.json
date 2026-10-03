@@ -1993,7 +1993,7 @@
    "story": "ankara-betting-bust"
   },
   "205342": {
-   "status": "scored",
+   "status": "published",
    "seen_at": "2026-10-03T10:22:35.039125+00:00",
    "title": "Yıldız Tilbe’den yapay zeka tepkisi: Çok usandım",
    "cat": "Magazin",
@@ -2013,6 +2013,160 @@
    "dup_of": null,
    "why": "Первое заявление актрисы по скандалу с положительным тестом на наркотики — резонансный инцидент со звездой турецких сериалов, известной в России",
    "story": "cagla-boz-drug-test"
+  },
+  "205427": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "Çiğli Belediye Meclisinde gerginlik: Onur Emrah Yıldız’a su şişesi fırlatıldı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Местный скандал в совете — вода в стакан, резонанса нет",
+   "story": "cigli-council-incident"
+  },
+  "205418": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "Şemsiyeye tabanca süsü verdi, çaldığı altınlar sahte çıktı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Мелкая кража с оружием-зонтиком — местный криминал без резонанса",
+   "story": "umbrella-gun-fake-gold"
+  },
+  "205411": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "Ensonhaber vatandaşlara mikrofon uzattı: Aldatan arkadaşınızı ifşalar mısınız",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Развлекательный стрит-интервью, без ценной информации",
+   "story": "ensonhaber-street-interview"
+  },
+  "205408": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "7 ana yol birbirine bağlanıyor. Yeni çevre yoluyla yolculuk süresi 40 dakika kısalacak",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Инфраструктура: новая развязка сокращает время в пути — полезно жителям Турции",
+   "story": "new-ring-road-infrastructure"
+  },
+  "205405": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, TEKNOFEST Güneydoğu’da",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Рутинное посещение мероприятия Эрдоганом — перескажут все федеральные СМИ",
+   "story": "erdogan-teknofest-southeast"
+  },
+  "205400": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "Mersin Büyükşehir Belediyesi soruşturmasında şüphelinin evinden servet çıktı",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Коррупция мэра — есть резонанс, но нужны подробности для трафика",
+   "story": "mersin-mayor-investigation"
+  },
+  "205397": {
+   "status": "published",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "KKTC’deki feribot faciasında bir cansız bedene daha ulaşıldı",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "ККТС паром: новая жертва в трагедии — резонансное происшествие с туристами",
+   "story": "ncc-ferry-disaster"
+  },
+  "205394": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "İmralı heyeti, Cumhurbaşkanı Yardımcısı Yılmaz’la görüştü",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Встреча делегации — рутинная политическая процедура без новых развитий",
+   "story": "imrali-delegation-meeting"
+  },
+  "205383": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "DEM Parti heyeti, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ile görüştü",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Встреча делегации ДЕМ — рутинная политическая процедура",
+   "story": "dem-party-delegation-meeting"
+  },
+  "205377": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "İkinci çocuk isterken, dördüzleri oldu: “Şaşkınız”",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Рождение четырёх близнецов — трогательная история, но низкий поисковый спрос",
+   "story": "quadruplets-birth-story"
+  },
+  "205372": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "Rapçi Ceza, Teknofest için gittiği Şanlıurfa’da sıra gecesine katıldı",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Рэпер Джеза на мероприятии — известен, но это рутинное появление на сцене",
+   "story": "ceza-teknofest-performance"
+  },
+  "205361": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "Büşra bebek soruşturmasında korkunç itiraf: “Babam annemi darbedince bebek yere düşüp öldü”",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Дело Бушры: новые показания о смерти младенца — резонансное уголовное дело",
+   "story": "busra-baby-investigation"
+  },
+  "205349": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "Burhanettin Duran’dan, Şanlıurfa’da açılışı yapılacak hastaneye ilişkin paylaşım",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Пост чиновника об открытии больницы — рутинный пиар, без новостной ценности",
+   "story": "burhanettin-duran-hospital"
+  },
+  "205346": {
+   "status": "scored",
+   "seen_at": "2026-10-03T15:08:00.449383+00:00",
+   "title": "Akın Gürlek duyurdu: Soma’da göçük altında kalan işçilerimiz için çalışmalar sürüyor",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Сома: спасение при обвале — трагедия, но это повторное сообщение об одном событии",
+   "story": "soma-mine-collapse-rescue"
   }
  },
  "published": [
@@ -2244,9 +2398,56 @@
    "topic": "life",
    "title_tr": "Операция против нелегальных букмекерских сайтов: 28 человек арестованы",
    "story": "illegal-betting-sites-operation"
+  },
+  {
+   "id": 205342,
+   "day": "2026-10-03",
+   "at": "2026-10-03T15:08:00.449383+00:00",
+   "topic": "celebrity",
+   "title_tr": "Йылдыз Тильбе устала от дипфейков с её участием",
+   "story": "yildiz-tilbe-ai-criticism"
+  },
+  {
+   "id": 205397,
+   "day": "2026-10-03",
+   "at": "2026-10-03T15:08:00.449383+00:00",
+   "topic": "incident",
+   "title_tr": "Катастрофа парома в ТРСК: найдено ещё одно тело",
+   "story": "ncc-ferry-disaster"
   }
  ],
  "feed": [
+  {
+   "guid": "gastetv-205397",
+   "title": "Катастрофа парома в ТРСК: найдено ещё одно тело",
+   "link": "https://gastetv.com/kktcdeki-feribot-faciasinda-bir-cansiz-bedene-daha-ulasildi/",
+   "pubDate": "Sat, 03 Oct 2026 15:08:00 +0000",
+   "html": "<p><strong>У берегов Гирне в Турецкой Республике Северного Кипра продолжаются поисковые работы после крушения парома Filo Jet. Число жертв растёт — обнаружено ещё одно тело.</strong></p>\n<p>В премьер-министерстве Турецкой Республики Северного Кипра (ТРСК) сообщили, что поисковые работы после крушения парома Filo Jet у берегов Гирне продолжаются без перерыва. В ходе операции обнаружено ещё одно тело.</p><h2>Начата идентификация по ДНК</h2><p>Для установления личности погибшего начато исследование ДНК. Власти подчеркнули, что с первого дня трагедии задействованы все возможности государства для поиска пропавших без вести, работы ведутся круглосуточно.</p><p>«Мы продолжим использовать все ресурсы государства, чтобы найти всех пропавших», — говорится в заявлении.</p><p>Личность последнего найденного тела пока не установлена. Окончательные данные о числе погибших ожидаются после завершения анализа ДНК.</p><h2>Что произошло</h2><p>Паром Filo Jet, курсировавший между портом Гирне и турецким портом Ташуджу (Мерсин), 30 августа вскоре после отправления из Гирне начал получать воду в носовой части. Судно перевернулось, когда пыталось вернуться в порт Гирне. Спасены были 239 человек.</p><p>В ходе поисково-спасательной операции обломки судна обнаружены на глубине 554 метра у берегов Гирне. По данным на момент публикации, в результате катастрофы погибли 18 человек, поиски 10 пропавших без вести продолжаются.</p>\n<p>Источник: <a href=\"https://gastetv.com/kktcdeki-feribot-faciasinda-bir-cansiz-bedene-daha-ulasildi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/kktcdeki-feribot-faciasinda-bir-cansiz-bedene-daha-ulasildi-QJzIDwBp.png",
+   "tags": [
+    "ТРСК",
+    "Гирне",
+    "катастрофа",
+    "паром",
+    "Северный Кипр",
+    "Filo Jet"
+   ]
+  },
+  {
+   "guid": "gastetv-205342",
+   "title": "Йылдыз Тильбе устала от дипфейков с её участием",
+   "link": "https://gastetv.com/yildiz-tilbeden-yapay-zeka-tepkisi-cok-usandim/",
+   "pubDate": "Sat, 03 Oct 2026 15:08:00 +0000",
+   "html": "<p><strong>Турецкая певица Йылдыз Тильбе резко высказалась против использования её изображений в видео, созданных с помощью искусственного интеллекта, и попросила поклонников прекратить присылать ей подобный контент.</strong></p>\n<p>Известная певица Йылдыз Тильбе, которая в последнее время привлекает внимание своими заявлениями и благотворительной деятельностью, сделала громкое заявление в связи с популярными материалами, созданными с помощью искусственного интеллекта.</p>\n\n<p>Активная пользовательница социальных сетей резко отреагировала на появление контента с её участием, созданного с помощью нейросетей. Йылдыз Тильбе выразила недовольство тем, что её изображения и видео обрабатываются технологиями искусственного интеллекта, и заявила, что устала от этого.</p>\n\n<h2>«Устала от вашего ИИ»</h2>\n\n<p>Певица обратилась к своим подписчикам с просьбой: «Устала от вашего искусственного интеллекта», — и попросила не присылать ей подобные видео.</p>\n\n<h2>«Не присылайте мне такие видео»</h2>\n\n<p>В публикации в социальных сетях Тильбе написала: «Я очень устала от того, что люди используют искусственный интеллект, чтобы добавлять мои изображения в видео и фотографии. Устала от вашего ИИ. Больше не присылайте мне такие видео».</p>\n<p>Источник: <a href=\"https://gastetv.com/yildiz-tilbeden-yapay-zeka-tepkisi-cok-usandim/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/yildiz-tilbeden-yapay-zeka-tepkisi-cok-usandim-UIQVxQB4.jpg",
+   "tags": [
+    "Йылдыз Тильбе",
+    "искусственный интеллект",
+    "дипфейки",
+    "турецкие звёзды",
+    "социальные сети"
+   ]
+  },
   {
    "guid": "gastetv-205191",
    "title": "Операция против нелегальных букмекерских сайтов: 28 человек арестованы",
