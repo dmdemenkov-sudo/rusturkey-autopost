@@ -2222,6 +2222,39 @@
    "dup_of": 205437,
    "why": "Дубль заявления Бахчели из id 205437",
    "story": "bahceli-purification"
+  },
+  "205483": {
+   "status": "scored",
+   "seen_at": "2026-10-03T22:06:56.473769+00:00",
+   "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? MPİ Çılgın Sayısal Loto sorgulama",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Лотерея — классический low-priority контент. Низкий трафик, не интересует целевую аудиторию портала.",
+   "story": "lottery-draw"
+  },
+  "205480": {
+   "status": "scored",
+   "seen_at": "2026-10-03T22:06:56.473769+00:00",
+   "title": "Şehit oğluna anlamlı hediye. Babasının adının verildiği TOMA sünnet arabası oldu",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Человеческий интерес, но это локальный турецкий сюжет без резонанса для русскоязычных читателей. Не туризм, не звёзды, не скандал.",
+   "story": "martyr-son-gift"
+  },
+  "205468": {
+   "status": "scored",
+   "seen_at": "2026-10-03T22:06:56.473769+00:00",
+   "title": "Pırlanta şirketi sahiplerini tehdit ettiler. “Sizi bindiğiniz arabalarla havaya uçururuz”",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Угрозы бизнесменам — локальный криминал без широкого резонанса. Может быть интересно как местная криминальная хроника, но трафика мало.",
+   "story": "diamond-company-threat"
   }
  },
  "published": [
