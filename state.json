@@ -2034,6 +2034,50 @@
    "dup_of": null,
    "why": "Дубликат: землетрясения в Адане и Osmaniye уже опубликованы сегодня под тем же сюжетом",
    "story": "earthquake-forecast-adana"
+  },
+  "205771": {
+   "status": "scored",
+   "seen_at": "2026-10-04T23:04:51.866701+00:00",
+   "title": "Adana ve Osmaniye’de peş peşe depremler. AFAD’dan ön değerlendirme raporları",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Землетрясения в Адане и Osmaniye — для русскоязычных в Турции это критичная информация о безопасности и стихиях. Официальный отчёт AFAD важен для туристов и жителей.",
+   "story": "adana-osmaniye-earthquakes"
+  },
+  "205765": {
+   "status": "scored",
+   "seen_at": "2026-10-04T23:04:51.866701+00:00",
+   "title": "Gürbulak Sınır Kapısında memura bıçaklı tehdit",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Бытовой криминал на пограничном посту — локальное происшествие без резонанса, не интересно аудитории портала.",
+   "story": "gurkbulak-border-threat"
+  },
+  "205750": {
+   "status": "scored",
+   "seen_at": "2026-10-04T23:04:51.866701+00:00",
+   "title": "Fon soruşturmasında son durum: 85 kişi tutuklu, milyarlarca liralık varlığa el konuldu",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Крупное расследование с масштабными арестами и конфискацией имущества — серьёзное политическое дело с резонансом. По-русски об этом пишут мало, есть потенциал поиска.",
+   "story": "fund-investigation-arrests"
+  },
+  "205747": {
+   "status": "scored",
+   "seen_at": "2026-10-04T23:04:51.866701+00:00",
+   "title": "Süper Loto çekiliş sonuçları belli oldu: MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Результаты лотереи — рутинное объявление без интереса для целевой аудитории портала.",
+   "story": "super-loto-draw"
   }
  },
  "published": [
