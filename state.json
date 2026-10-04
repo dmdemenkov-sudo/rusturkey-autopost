@@ -2255,6 +2255,160 @@
    "dup_of": null,
    "why": "Угрозы бизнесменам — локальный криминал без широкого резонанса. Может быть интересно как местная криминальная хроника, но трафика мало.",
    "story": "diamond-company-threat"
+  },
+  "205613": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Fon soruşturmasında yeni gelişme. Eski SPK Başkanı için soruşturma izni istendi",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Резонансное дело о фондах, расследование экс-главы SPK — интересует русскоязычную аудиторию, мало освещается в РФ СМИ",
+   "story": "fund-investigation-spk"
+  },
+  "205607": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "BEDAŞ saat verip uyardı, 8 saat sürecek. İstanbul’un 21 ilçesinde elektrik kesintisi yaşanacak",
+   "cat": "Gündem",
+   "score": 8,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Плановые отключения электричества в Стамбуле на 8 часов — критично для живущих в городе и путешественников",
+   "story": "istanbul-power-outage"
+  },
+  "205591": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Akın Gürlek’ten “Alo Adalet 135” paylaşımı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Пост политика второго ряда о системе справедливости — малозначительный местный резонанс",
+   "story": "akin-gurlek-justice"
+  },
+  "205575": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "MSB paylaştı: Ege’de Deniz Hücum Harekâtı Eğitimi",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Военные учения в Эгейском море — стандартная новость, не представляет интереса для целевой аудитории",
+   "story": "military-training"
+  },
+  "205554": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Türkiye’deki sokak hayvanlarının yüzde 99,7’sinin toplandı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Статистика по бездомным животным — не релевантна основной аудитории портала",
+   "story": "street-animals-collection"
+  },
+  "205548": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Yeni Parti’nin vekili söyledi: Cemil Tugay, AK Parti yolunda",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление депутата небольшой партии — минимальный политический резонанс",
+   "story": "yeni-parti-deputy"
+  },
+  "205539": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Firstpost: TAYFUN Blok-4, Yunanistan’ın her yerine ulaşabiliyor",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Информация о военной разработке без особого резонанса — не представляет интереса",
+   "story": "tayfun-missile"
+  },
+  "205514": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Bankerler Krizinden Fon Vurgununa: Yeni Banker Kastelli’ler",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Аналитический материал о финансовых скандалах — интересен, но общего характера",
+   "story": "bankers-crisis-fund-scandal"
+  },
+  "205511": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Resmi Gazete’de bugün (4 Ekim 2026 Resmi Gazete kararları)",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Ежедневная рубрика решений официального вестника — рутинный контент без ценности",
+   "story": "official-gazette"
+  },
+  "205499": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Benzin bidonuyla geldi, galerideki 6 aracı kundakladı",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Криминальный случай с поджогом автомобилей — локальное происшествие без резонанса",
+   "story": "arson-cars-salon"
+  },
+  "205496": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "İki yolcu otobüsüne baskın: 22 milyon lira değerinde uyuşturucu ele geçirildi",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Задержание наркотиков на автобусах — криминальная новость, но типичная для региона",
+   "story": "drug-bust-buses"
+  },
+  "205489": {
+   "status": "published",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Özgür Özel’in kahvaltısı gündem oldu: Vatandaş yağmur altında seyretti",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Критика лидера оппозиционной партии с символическим элементом — имеет резонанс в обществе",
+   "story": "ozgur-ozel-breakfast"
+  },
+  "205619": {
+   "status": "scored",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "İlyas Salman’dan “Çarpıldın” sözlerine yanıt: Teğet geçti, Ankara’ya uğrayacaktı",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Ответ известного актёра на критику — средний интерес, но актеры Турции дают трафик",
+   "story": "ilyas-salman-response"
+  },
+  "205585": {
+   "status": "published",
+   "seen_at": "2026-10-04T11:05:10.187124+00:00",
+   "title": "Aşkını ilan etti! Devim Özkan, ünlü oyuncuyla ilk karesini paylaştı",
+   "cat": "Magazin",
+   "score": 7,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Объявление о романе известного актёра — высокий интерес русскоязычной аудитории поклонников турецких звёзд",
+   "story": "devim-ozkan-relationship"
   }
  },
  "published": [
@@ -2526,9 +2680,55 @@
    "topic": "politics",
    "title_tr": "Бахчели: Турция проходит через процесс очищения",
    "story": "bahceli-purification"
+  },
+  {
+   "id": 205585,
+   "day": "2026-10-04",
+   "at": "2026-10-04T11:05:10.187124+00:00",
+   "topic": "celebrity",
+   "title_tr": "Девrim Озкан подтвердила роман с Deniz Can Aktaş",
+   "story": "devim-ozkan-relationship"
+  },
+  {
+   "id": 205489,
+   "day": "2026-10-04",
+   "at": "2026-10-04T11:05:10.187124+00:00",
+   "topic": "politics",
+   "title_tr": "Озгюр Озель позавтракал, пока граждане ждали под дождём",
+   "story": "ozgur-ozel-breakfast"
   }
  ],
  "feed": [
+  {
+   "guid": "gastetv-205489",
+   "title": "Озгюр Озель позавтракал, пока граждане ждали под дождём",
+   "link": "https://gastetv.com/ozgur-ozelin-kahvaltisi-gundem-oldu-vatandas-yagmur-altinda-seyretti/",
+   "pubDate": "Sun, 04 Oct 2026 11:05:10 +0000",
+   "html": "<p><strong>Лидер Республиканской народной партии Озгюр Озель прибыл в Ризе с рабочим визитом. Кадры его завтрака в местном кафе, пока сторонники стояли под ливнем на улице, вызвали обсуждение в соцсетях.</strong></p>\n<p>Председатель Республиканской народной партии (НРП) Озгюр Озель прибыл в Ризе для проведения ряда встреч.</p>\n\n<p>Встреченный однопартийцами в аэропорту Ризе-Артвин, Озель первым делом посетил район Пазар, пострадавший от наводнения 19 сентября.</p>\n\n<h2>Граждане наблюдали под дождём</h2>\n\n<p>Видеозаписи завтрака Озеля в одном из заведений вызвали широкий резонанс в социальных сетях.</p>\n\n<p>Пока политик завтракал, собравшиеся на улице граждане наблюдали за происходящим под проливным дождём. Обратило на себя внимание, что ожидавшим людям даже не предложили чай.</p>\n<p>Источник: <a href=\"https://gastetv.com/ozgur-ozelin-kahvaltisi-gundem-oldu-vatandas-yagmur-altinda-seyretti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/ozgur-ozelin-kahvaltisi-gundem-oldu-vatandas-yagmur-altinda-seyretti-DXBLeiw3.jpg",
+   "tags": [
+    "Озгюр Озель",
+    "НРП",
+    "Ризе",
+    "наводнение",
+    "политика"
+   ]
+  },
+  {
+   "guid": "gastetv-205585",
+   "title": "Девrim Озкан подтвердила роман с Deniz Can Aktaş",
+   "link": "https://gastetv.com/askini-ilan-etti-devim-ozkan-unlu-oyuncuyla-ilk-karesini-paylasti/",
+   "pubDate": "Sun, 04 Oct 2026 11:05:10 +0000",
+   "html": "<p><strong>Актриса Девrim Озкан официально подтвердила отношения с коллегой Deniz Can Aktaş, опубликовав их совместное фото. Пара познакомилась на съёмках сериала «Yeraltı».</strong></p>\n<p>Популярная актриса Девrim Озкан продолжает привлекать внимание не только работой, но и личной жизнью.</p><p>Звезда, о романе которой с актёром Deniz Can Aktaş — партнёром по сериалу «Yeraltı» — ходили слухи, сделала красноречивую публикацию в соцсетях.</p><p>Озкан поделилась фотографией с Акташем, фактически подтвердив отношения. Снимок с эмодзи белого сердца вызвал большой интерес и стал темой обсуждения в соцсетях.</p><p>Пользователи отметили, что пара прекрасно смотрится вместе.</p><h2>«В моей жизни есть любовь, которая делает меня счастливым»</h2><p>Незадолго до этого Deniz Can Aktaş впервые публично признался, что встречается с кем-то. В одной из программ актёр сказал: «В моей жизни есть любовь, которая делает меня счастливым».</p>\n<p>Источник: <a href=\"https://gastetv.com/askini-ilan-etti-devim-ozkan-unlu-oyuncuyla-ilk-karesini-paylasti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/askini-ilan-etti-devim-ozkan-unlu-oyuncuyla-ilk-karesini-paylasti-K6AQRGZz.jpg",
+   "tags": [
+    "Девrim Озкан",
+    "Deniz Can Aktaş",
+    "турецкие актёры",
+    "Yeraltı",
+    "турецкие сериалы"
+   ]
+  },
   {
    "guid": "gastetv-205437",
    "title": "Бахчели: Турция проходит через процесс очищения",
