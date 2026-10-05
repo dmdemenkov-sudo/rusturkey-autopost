@@ -1,203 +1,5 @@
 {
  "posts": {
-  "204551": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Fon soruşturmasında 5 firma TMSF’ye devredildi",
-   "cat": "Gündem",
-   "score": 4,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Продолжение скандала с фондами (уже была статья о бизнесмене), но рутинное развитие — передача фирм в TMSF",
-   "story": "fund-investigation-firms-tmsf"
-  },
-  "204548": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Fon soruşturmasında 5 fon şirketi TMSF’ye devredildi",
-   "cat": "Gündem",
-   "score": 0,
-   "topic": "politics",
-   "dup_of": 204551,
-   "why": "Практически идентичный заголовок к 204551",
-   "story": "fund-investigation-firms-tmsf"
-  },
-  "204532": {
-   "status": "published",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "CHP’li Ruhtan Başkaya, Çin’de 18 yaşın altında bir kız çocuğuyla otel odasında basıldı: 2 aydır Çin’de tutuklu",
-   "cat": "Gündem",
-   "score": 7,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Громкий скандал с политиком CHP (второй ряд): задержание в Китае с девочкой — резонансный инцидент, мало информации в русских СМИ",
-   "story": "chp-ruhtan-baskaya-china-scandal"
-  },
-  "204522": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "CHP, Kadıköy, Sancaktepe ve Sarıyer belediye başkanları için ihraç kararı aldı",
-   "cat": "Gündem",
-   "score": 4,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Партийная процедура исключения мэров — низкий интерес для русскоязычной аудитории, рутинно",
-   "story": "chp-expulsion-mayors"
-  },
-  "204519": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Cumhurbaşkanına hakaret suçlamasıyla gözaltına alınan Dilan Polat hakkında karar",
-   "cat": "Gündem",
-   "score": 5,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Развитие дела о задержании Дилан Полат по статье о посягательстве на честь президента — резонансный случай",
-   "story": "dilan-polat-insult-investigation"
-  },
-  "204513": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Avrupa’da ‘Cehennem Melekleri’ çetesi operasyonu: 100’den fazla adrese baskın yapıldı",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Криминальная операция в Европе — интересно, но фокус не на Турции, трафика не даст",
-   "story": "hell-angels-operation"
-  },
-  "204507": {
-   "status": "published",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Eski futbolcu Hasan Şaş ile oyuncu Afra Saraçoğlu’nun uyuşturucu testi pozitif çıktı",
-   "cat": "Gündem",
-   "score": 6,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Известные люди в турецком шоу-бизе с позитивными наркотестами — скандал с поиском трафика",
-   "story": "hasan-sas-afra-saracoglu-drugs"
-  },
-  "204502": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "İstanbul Bahçelievler’deki lüks sitenin 28 milyon liralık aidatları fon kurbanı: Özgür Çelik’in oturduğu site",
-   "cat": "Gündem",
-   "score": 5,
-   "topic": "life",
-   "dup_of": null,
-   "why": "История о 28 млн лир задолженности в элитном комплексе — интересно для живущих в Турции",
-   "story": "bahcelievler-luxury-site-dues-fund-victims"
-  },
-  "204494": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Mehmetçiğin beylik tabancası değişiyor. Zorlu testleri başarıyla geçti: İşte SAR9 METE CE",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Смена военного оружия — очень местная тема, без интереса для русскоязычной аудитории",
-   "story": "sar9-mete-military-pistol"
-  },
-  "204484": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Fon soruşturmasında yeni gelişme. 26 hisse senedi inceleniyor",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Еще одно развитие дела о фондах (проверка акций) — техническое, не приносит новых уникальных деталей",
-   "story": "fund-investigation-shares"
-  },
-  "204475": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Özgür Özel’in ezan okunurken alem yaptığı görüntüler ortaya çıktı",
-   "cat": "Gündem",
-   "score": 6,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Скандальные видео политика второго ряда (лидер CHP) во время азана — резонансное, малоизвестно в русских СМИ",
-   "story": "ozgur-ozel-scandal"
-  },
-  "204469": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Türkiye Sigorta Birliği: BES’te herhangi sistemik bir sorun bulunmuyor",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "life",
-   "dup_of": null,
-   "why": "Заявление о стабильности пенсионной системы — техническое, без новостной ценности",
-   "story": "insurance-union-bes-statement"
-  },
-  "204466": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Dilan Polat’a Cumhurbaşkanına hakaret soruşturması: İfade verirken fenalaştı",
-   "cat": "Gündem",
-   "score": 4,
-   "topic": "incident",
-   "dup_of": 204519,
-   "why": "То же дело о Дилан Полат, новые подробности (обморок при даче показаний)",
-   "story": "dilan-polat-insult-investigation"
-  },
-  "204459": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "TESK Başkanı Bendevi Palandöken liste çıkarmayacağını duyurdu",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Заявление председателя торговой ассоциации — бюрократическое, без интереса",
-   "story": "tesk-chairman-statement"
-  },
-  "204453": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Dilan Polat gözaltına alındı",
-   "cat": "Gündem",
-   "score": 4,
-   "topic": "incident",
-   "dup_of": 204519,
-   "why": "Задержание Дилан Полат — основная новость, но уже опубликовано, это ранний рапорт",
-   "story": "dilan-polat-arrest"
-  },
-  "204543": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Oyuncu Melis Sezen’in uyuşturucu test sonucu çıktı",
-   "cat": "Magazin",
-   "score": 5,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Актриса и результат теста на наркотики — известная персона, скандальная новость",
-   "story": "melis-sezen-drug-test"
-  },
-  "204490": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Şarkıcı Zara’dan nostaljik paylaşım geldi: Minik bir kız çocuğu",
-   "cat": "Magazin",
-   "score": 2,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Ностальгический пост певицы — развлекательный контент без новостной ценности",
-   "story": "zara-nostalgia-post"
-  },
-  "204480": {
-   "status": "scored",
-   "seen_at": "2026-09-30T16:49:27.966081+00:00",
-   "title": "Takipçisinin yorumu Ecem Erkek’i sinirlendirdi:",
-   "cat": "Magazin",
-   "score": 1,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Актриса обиделась на комментарий — микроскопический incidиент, без интереса",
-   "story": "ecem-erkek-follower-comment"
-  },
   "204582": {
    "status": "published",
    "seen_at": "2026-09-30T21:25:01.472599+00:00",
@@ -2034,41 +1836,185 @@
    "dup_of": null,
    "why": "Инфлюенсер, фэшн-контент — низкий поисковый потенциал",
    "story": "sumeyye-aydogan-style"
+  },
+  "206074": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Akın Gürlek’in avukatından Ahmet Şık’a: İddialarına hukuk önünde cevap verilecek",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Юридический спор между политическими фигурами, может быть интересно русскоязычной аудитории, но требует контекста",
+   "story": "gurlek-şık-legal-dispute"
+  },
+  "206071": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Mekke Savunma İttifakı’ndan kritik karar: Kolektif savunma için harekete geçiliyor",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинное решение оборонного альянца, малый интерес для русскоязычной аудитории",
+   "story": "mecca-defense-alliance-decision"
+  },
+  "206067": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "İzmir sokaklarında vandalizme geçit yok: Polis ekipleri müdahale etti",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Локальный инцидент без резонанса, стандартная работа полиции",
+   "story": "izmir-vandalism-police"
+  },
+  "206061": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Mekke İttifakı’ndan ortak caydırıcılık vurgusu: Üç ülkenin güvenliği birbirinden ayrı düşünülemez",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Повторение темы оборонного альянса, низкий интерес для целевой аудитории",
+   "story": "mecca-defense-alliance-deterrence"
+  },
+  "206055": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Fidan ve Güler, Mekke Ortak Savunma Anlaşması’nın Komite Toplantısı’na katıldı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Еще одна новость об оборонном альянсе, повторение темы",
+   "story": "mecca-defense-agreement-committee"
+  },
+  "206052": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, SpaceX üst düzey yöneticilerini kabul etti",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": 206031,
+   "why": "Дубликат следующей новости",
+   "story": "erdogan-spacex-meeting"
+  },
+  "206045": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Ataşehir Belediyesi’ne operasyon: 5 tutuklama talebi",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Локальная операция против муниципалитета, без резонанса",
+   "story": "atasehir-municipality-operation"
+  },
+  "206037": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Fon soruşturmasında hisse virmanları inceleme altına alındı",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Расследование по фондам, может быть связано со скандалом, но контекст неясен",
+   "story": "fund-investigation-shares"
+  },
+  "206031": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, SpaceX yöneticilerini kabul etti",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Встреча Эрдогана со SpaceX, интересно для деловой аудитории, но типичное дипломатическое событие",
+   "story": "erdogan-spacex-meeting"
+  },
+  "206019": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Bakan Ersoy, Bursevî’nin 300 yıllık mirasını Cumhurbaşkanı Erdoğan’a takdim etti",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Культурное событие, низкий интерес для поиска",
+   "story": "bursevi-heritage-ceremony"
+  },
+  "206009": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Kaşif Kozinoğlu’nun mezarından alınan örnekler yerine konuldu",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Рутинное новостное сообщение о процедуре, минимальный интерес",
+   "story": "kozinoglu-tomb-samples"
+  },
+  "206000": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, 77. Uluslararası Uzay Kongresi Açılış Töreni’nde",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Типичное мероприятие Эрдогана, перескажут все федеральные СМИ",
+   "story": "erdogan-space-congress"
+  },
+  "205994": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Cumhurbaşkanı Erdoğan AileFest’i ziyaret etti",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": 205972,
+   "why": "Дубликат следующей новости",
+   "story": "erdogan-ailefest-visit"
+  },
+  "205983": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Bakan Gürlek: Türkiye’ye iade edilen kişilerin sayısı 294 oldu",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Официальный доклад министра о депортациях, есть конкретные цифры",
+   "story": "gurlek-deportations-294"
+  },
+  "205972": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, AileFest alanını ziyaret etti",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинный визит Эрдогана на мероприятие, не несет новостной ценности",
+   "story": "erdogan-ailefest-visit"
+  },
+  "205967": {
+   "status": "scored",
+   "seen_at": "2026-10-05T21:10:47.297881+00:00",
+   "title": "Akın Gürlek duyurdu: 2026 yılının ilk 9 ayında 294 kişi Türkiye’ye getirildi",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "life",
+   "dup_of": 205983,
+   "why": "Дубликат новости о депортациях",
+   "story": "gurlek-deportations-294"
   }
  },
  "published": [
-  {
-   "id": 204442,
-   "day": "2026-09-30",
-   "at": "2026-09-30T16:49:27.966081+00:00",
-   "topic": "celebrity",
-   "title_tr": "Озлем Ада Шахин устроила дочери традиционную «сороковую» церемонию",
-   "story": "ozlem-ada-sahin-baby"
-  },
-  {
-   "id": 204532,
-   "day": "2026-09-30",
-   "at": "2026-09-30T16:49:27.966081+00:00",
-   "topic": "politics",
-   "title_tr": "Член горсовета из Фетхие арестован в Китае за связь с несовершеннолетней",
-   "story": "chp-ruhtan-baskaya-china-scandal"
-  },
-  {
-   "id": 204507,
-   "day": "2026-09-30",
-   "at": "2026-09-30T16:49:27.966081+00:00",
-   "topic": "celebrity",
-   "title_tr": "Положительный тест на наркотики у футболиста Хасана Шаша и актрисы Афры Сарачоглу",
-   "story": "hasan-sas-afra-saracoglu-drugs"
-  },
-  {
-   "id": 204362,
-   "day": "2026-09-30",
-   "at": "2026-09-30T16:49:27.966081+00:00",
-   "topic": "celebrity",
-   "title_tr": "Гонджа Вуслатери закрыла соцсети после премьеры сериала",
-   "story": "gonca-vuslateri-social-media"
-  },
   {
    "id": 204579,
    "day": "2026-10-01",
