@@ -1,302 +1,5 @@
 {
  "posts": {
-  "204582": {
-   "status": "published",
-   "seen_at": "2026-09-30T21:25:01.472599+00:00",
-   "title": "Fon soruşturmasında Nil Özalp’a gözaltı kararı",
-   "cat": "Gündem",
-   "score": 7,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Расследование о фонде с арестом известной фигуры — резонансный политический скандал, мало освещается по-русски",
-   "story": "fund-investigation-ozalp"
-  },
-  "204579": {
-   "status": "published",
-   "seen_at": "2026-09-30T21:25:01.472599+00:00",
-   "title": "AK Parti Genel Başkan Yardımcısı Nihat Zeybekçi’nin parası tasfiye edilen fonda kaldı",
-   "cat": "Gündem",
-   "score": 7,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Скандал с замораживанием средств вице-председателя АКП в фонде — высокий резонанс, интересно русскоязычной аудитории",
-   "story": "fund-investigation-zeybekci"
-  },
-  "204576": {
-   "status": "scored",
-   "seen_at": "2026-09-30T21:25:01.472599+00:00",
-   "title": "Cumhurbaşkanı Erdoğan, İzmir Büyükşehir Belediye Başkanı Cemil Tugay’ı kabul etti",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Рутинный приём Эрдогана местного мэра — низкий поисковый потенциал, перескажут все",
-   "story": "erdogan-routine-meeting"
-  },
-  "204570": {
-   "status": "scored",
-   "seen_at": "2026-09-30T21:25:01.472599+00:00",
-   "title": "MGK toplantısı sonrası 8 maddelik açıklama",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Заявление совбеза — важно для политики, но часто рутинно, без конкретных подробностей в заголовке",
-   "story": "mgk-statement"
-  },
-  "204567": {
-   "status": "scored",
-   "seen_at": "2026-09-30T21:25:01.472599+00:00",
-   "title": "Şans Topu sonuçları sorgulama ekranı 2026: 5+1 kazandıran numaralar ve MPİ bilet sorgulama sayfası",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Результаты лотереи — минимальный трафик, рутинное содержание",
-   "story": "lottery-results"
-  },
-  "204564": {
-   "status": "scored",
-   "seen_at": "2026-09-30T21:25:01.472599+00:00",
-   "title": "Altay bebeğin zehirlenerek ölümünde 22 yıl hapis talebi",
-   "cat": "Gündem",
-   "score": 5,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Громкий криминальный случай с резонансом (смерть младенца) — интересует аудиторию, но уголовные дела обычно дают средний трафик",
-   "story": "altay-baby-poisoning-case"
-  },
-  "204805": {
-   "status": "published",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Abdullah Güler’den fon krizi açıklaması: Milletimiz müsterih olsun",
-   "cat": "Gündem",
-   "score": 5,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Заявление политика второго ряда по резонансной теме фонового скандала, но сам скандал уже освещался",
-   "story": "fund-crisis-statement"
-  },
-  "204793": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Türk yapımı piyade tüfeği MKE-739, Rusların Kalaşnikof’unu geride bıraktı",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Военная новость без интереса для целевой аудитории",
-   "story": "mke-739-rifle"
-  },
-  "204786": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Sosyal medyada kavga ve gerilim içerikleriyle gelir elde edenlere 10 ilde operasyon",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "life",
-   "dup_of": null,
-   "why": "Закон/операция, но узкоспециальная тема, мало интереса для русскоязычной аудитории",
-   "story": "social-media-crackdown"
-  },
-  "204775": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Terörsüz Türkiye sürecinde İzleme Komisyonu bu ay oluşturulacak",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Политическая рутина без резонанса",
-   "story": "terror-free-turkey-commission"
-  },
-  "204763": {
-   "status": "published",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Fon soruşturması kapsamında gözaltına alınan 12 şüpheli adliyede",
-   "cat": "Gündem",
-   "score": 6,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Развитие громкого скандала с фондами — новые аресты и детали",
-   "story": "fund-crisis-arrests"
-  },
-  "204671": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "CHP’den ayrılan belediye başkanları AK Parti’ye geçmeye devam ediyor",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Местная политическая дрязга без широкого резонанса",
-   "story": "chp-mayors-ak-party"
-  },
-  "204666": {
-   "status": "published",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Mustafa Sandal’dan fon iddialarına yanıt: Hayranlarından alkışlı destek",
-   "cat": "Gündem",
-   "score": 7,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Известный турецкий певец Мустафа Сандал — популярен в РФ и СНГ, продолжение громкого скандала",
-   "story": "mustafa-sandal-fund"
-  },
-  "204662": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "İstanbul Havalimanı’nda 34,4 kilo kokain ele geçirildi",
-   "cat": "Gündem",
-   "score": 4,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Наркотик на аэропорту — локальный криминал без широкого резонанса для аудитории",
-   "story": "istanbul-airport-cocaine"
-  },
-  "204653": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Reyhanlı saldırısının Suriyeli faili yakalandı",
-   "cat": "Gündem",
-   "score": 5,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Арест подозреваемого в громком теракте — резонансное развитие истории",
-   "story": "reyhani-attack-arrest"
-  },
-  "204640": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Fon Koordinasyon Kurulu ikinci toplantısını yarın yapacak",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Рутинная административная новость",
-   "story": "fund-coordination-board"
-  },
-  "204637": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Mersin Belediye Başkanı Vahap Seçer kimdir, neden gözaltına alındı?",
-   "cat": "Gündem",
-   "score": 4,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Местный мэр арестован — может быть интересно, но без широкого резонанса для русскоязычной аудитории",
-   "story": "vahap-secer-arrest"
-  },
-  "204611": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "TBMM yeni yasama yılına bugün başlıyor",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Рутинная политическая процедура",
-   "story": "parliament-session-start"
-  },
-  "204608": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Resmi Gazete’de bugün (1 Ekim 2026 Resmi Gazete kararları)",
-   "cat": "Gündem",
-   "score": 0,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Бюрократическая информация",
-   "story": ""
-  },
-  "204605": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Yeni yasama yılı başlıyor, TBMM açılıyor",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "politics",
-   "dup_of": 204611,
-   "why": "Дубль новости 204611",
-   "story": "parliament-opening"
-  },
-  "204602": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "SPK harekete geçti: Tasfiye edilen fonların yatırımcılarına ara ödeme yapılacak",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "life",
-   "dup_of": null,
-   "why": "Полезно для инвесторов фондов, но узкоспециальная тема",
-   "story": "fund-investor-payments"
-  },
-  "204801": {
-   "status": "published",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Uyuşturucu operasyonunda gözaltına alınmıştı! Oyuncu Nilperi Şahinkaya’nin test sonucu çıktı",
-   "cat": "Magazin",
-   "score": 6,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Турецкая актриса в наркоскандале — привлекает внимание фанатов сериалов",
-   "story": "nilperi-sahin-kaya-drugs"
-  },
-  "204779": {
-   "status": "published",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "İlişkilerini gizliyorlardı! Deniz Can Aktaş, Devrim Özkan aşkını ilan etti",
-   "cat": "Magazin",
-   "score": 5,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Турецкие актёры, признание отношений — интересно для поклонников сериалов",
-   "story": "deniz-can-aktas-devrim-ozkan"
-  },
-  "204769": {
-   "status": "published",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "17 yaşına girdi! Beren Gökyıldız’dan doğum günü kareleri geldi",
-   "cat": "Magazin",
-   "score": 6,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Beren Gökyıldız популярна в России (сериал 'Невероятные'), день рождения — точка для фанатов",
-   "story": "beren-gokyildiz-birthday"
-  },
-  "204646": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Adriana Lima Paris’te görüntülendi! Son hali hayranlarını endişelendirdi",
-   "cat": "Magazin",
-   "score": 1,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Иностранная модель/звезда — не релевантна целевой аудитории",
-   "story": "adriana-lima-paris"
-  },
-  "204598": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Hayko Cepkin vergi rekortmenleri listesinde",
-   "cat": "Magazin",
-   "score": 3,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Турецкий артист в списке налогоплательщиков — мало интереса для целевой аудитории",
-   "story": "hayko-cepkin-taxes"
-  },
-  "204592": {
-   "status": "scored",
-   "seen_at": "2026-10-01T11:35:26.226606+00:00",
-   "title": "Çağlar Ertuğrul’un saatinin geğeri gündem oldu",
-   "cat": "Magazin",
-   "score": 2,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Мелкая светская сплетня без значительного резонанса",
-   "story": "caglar-erturk-watch"
-  },
   "204916": {
    "status": "scored",
    "seen_at": "2026-10-01T18:24:05.823419+00:00",
@@ -2012,49 +1715,251 @@
    "dup_of": 205983,
    "why": "Дубликат новости о депортациях",
    "story": "gurlek-deportations-294"
+  },
+  "206220": {
+   "status": "published",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Akın Gürlek fon soruşturmasındaki verileri açıkladı: 206 kişi hakkında adli işlem yapıldı, 85’i tutuklandı",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Громкое расследование о фонде с конкретными цифрами (206 лиц, 85 задержаны). Второй ряд политики, резонансный скандал — привлечёт поисковый трафик",
+   "story": "akın-gürlek-fund-investigation"
+  },
+  "206208": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Düğün günü evlenmekten vazgeçen tazminat ödeyecek",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Бытовой юридический случай, интереса аудитории недостаточно",
+   "story": "wedding-cancellation-compensation"
+  },
+  "206202": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Kurtuluşun 103. yılı! 6 Ekim İstanbul’un kurtuluşunda neler yaşandı?",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Историческая дата, локальный интерес Стамбула. Для русскоязычной аудитории — справочный материал, но не особо привлекательно",
+   "story": "istanbul-liberation-anniversary"
+  },
+  "206197": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Ahmet Şık’ın ‘İş ortağım’ dediği Ahmet Saymadi terör örgütü hükümlüsü çıktı: Uyuşturucu suçundan tutuklandı",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Политический скандал: известная фигура (Ахмет Шик) связана с лицом, осуждённым за терроризм и наркотики. Резонансно, даст трафик",
+   "story": "ahmet-şık-business-partner-scandal"
+  },
+  "206188": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "VGM ortaöğrenim burs başvuru ekranı 2026: VGM burs başvuruları başladı mı, nasıl yapılır?",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Полезно для живущих в Турции или планирующих: информация о стипендиях и грантах. Практический интерес",
+   "story": "vgm-scholarship-2026"
+  },
+  "206174": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Emine Erdoğan, Güzel İşler Fabrikası 2027 sezon açılışında konuştu",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Мероприятие первой леди, рутинное событие, не даст трафик",
+   "story": "emine-erdogan-factory-opening"
+  },
+  "206171": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "MHP Lideri Bahçeli’den önemli açıklamalar",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Лидер MHP (второй ряд политики) делает важное заявление. По-русски об этом пишут редко, потенциал трафика хороший",
+   "story": "bahçeli-statement"
+  },
+  "206154": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Polis, bilinci kapanan bebeği motosikletle hastaneye yetiştirdi",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Положительный локальный случай, но узкий интерес. Не резонансно",
+   "story": "policeman-baby-rescue"
+  },
+  "206151": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Başakşehir’de ortaokulda kavga. 5 öğrenci hastaneye kaldırıldı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Локальный криминал (школьная драка), без резонанса и значимости",
+   "story": "school-fight-basaksehir"
+  },
+  "206134": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "6 Ekim ne günü, bugün okullar tatil mi? 6 Ekim İstanbul’un Kurtuluşu resmi tatil mi?",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Справочная информация о праздничном дне, полезна, но рутинна",
+   "story": "istanbul-liberation-holiday"
+  },
+  "206130": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Meclis yeni yasama yılına yoğun gündemle başlıyor",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинное политическое событие (начало сессии), перескажут все СМИ",
+   "story": "parliament-new-session"
+  },
+  "206127": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Resmi Gazete’de bugün (6 Ekim 2026 Resmi Gazete kararları)",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Справочная информация для специалистов, не для широкой аудитории",
+   "story": "official-gazette-decisions"
+  },
+  "206124": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Gözler yarına çevrildi. Cemil Tugay AK Parti’ye mi geçecek?",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Политический слух о смене партии известной фигурой. Интересно для поиска, но требует подтверждения",
+   "story": "cemil-tugay-ak-party"
+  },
+  "206121": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "İzmir Bayraklı Belediyesi’ne operasyon. Eski başkan dahil 40 kişi gözaltı kararı",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Крупная антикоррупционная операция против экс-главы муниципалитета (40 человек). Резонансный скандал",
+   "story": "izmir-bayrakli-corruption-operation"
+  },
+  "206118": {
+   "status": "published",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Mersin’de 3 belediyeye yolsuzluk operasyonu. Vahap Seçer dahil 49 kişi için tutuklama talebi",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Масштабная операция с 49 задержаниями, включая политика Сечера. Громкий скандал, даст трафик",
+   "story": "mersin-corruption-operation"
+  },
+  "206097": {
+   "status": "published",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Motorine 4,95 TL’lik indirim geldi. Gece yarısı tabelalar değişti",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Практическая информация для водителей: снижение цены на дизель. Высокий поисковый интерес",
+   "story": "diesel-price-cut"
+  },
+  "206081": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Fatma Betül Sayan Kaya ve eşinin fon kazancını iade başvurusuna savcılıktan izin çıktı",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Развитие истории с фондом министра. Важно, но ждём больших новостей, чем разрешение на возврат",
+   "story": "fatma-betül-sayan-kaya-fund"
+  },
+  "206191": {
+   "status": "published",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Sahra Işık’tan olaylı bir şekilde boşanmıştı! İdris Aybirdi, Seray Kaya’ya aşkını haykırdı",
+   "cat": "Magazin",
+   "score": 7,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Турецкие знаменитости, драма любви-развода. Высокий трафик от поклонников сериалов",
+   "story": "idris-aybirdi-seray-kaya"
+  },
+  "206157": {
+   "status": "published",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Sevda Dalgıç boşanma kararı almıştı! İmaj değiştirdi",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Турецкая актриса, развод и переосмысление. Интерес аудитории звёзд сериалов",
+   "story": "sevda-dalgıç-divorce"
+  },
+  "206137": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Vasiyetini hazırlamıştı! Nuri Alço hastaneye kaldırıldı",
+   "cat": "Magazin",
+   "score": 5,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Здоровье известного актёра. Умеренный интерес, но здоровье звёзд привлекает внимание",
+   "story": "nuri-alço-hospitalization"
+  },
+  "206112": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Çağla Şıkel geçmişten bir kare paylaştı! Çocukluk hali gündem oldu",
+   "cat": "Magazin",
+   "score": 4,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Старая фотография актрисы, лёгкое развлекательное содержание. Низкий трафик",
+   "story": "çağla-şıkel-childhood"
+  },
+  "206106": {
+   "status": "scored",
+   "seen_at": "2026-10-06T12:00:01.027210+00:00",
+   "title": "Beyza Şekerci ve Engin Hepileri’in mutlu günü! Oğulları 8 yaşına girdi",
+   "cat": "Magazin",
+   "score": 2,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "День рождения ребёнка знаменитостей, очень локальный интерес, не даст трафик",
+   "story": "beyza-şekerci-engin-son"
   }
  },
  "published": [
-  {
-   "id": 204579,
-   "day": "2026-10-01",
-   "at": "2026-10-01T11:35:26.226606+00:00",
-   "topic": "politics",
-   "title_tr": "Замглавы ПСР Нихат Зейбекчи: «Мои деньги застряли в ликвидированном фонде»",
-   "story": "fund-investigation-zeybekci"
-  },
-  {
-   "id": 204582,
-   "day": "2026-10-01",
-   "at": "2026-10-01T11:35:26.226606+00:00",
-   "topic": "politics",
-   "title_tr": "Певица Нил Озалп задержана в рамках «фондового расследования»",
-   "story": "fund-investigation-ozalp"
-  },
-  {
-   "id": 204666,
-   "day": "2026-10-01",
-   "at": "2026-10-01T11:35:26.226606+00:00",
-   "topic": "celebrity",
-   "title_tr": "Мустафа Сандал ответил на обвинения в связи с фондами: поклонники аплодировали",
-   "story": "mustafa-sandal-fund"
-  },
-  {
-   "id": 204763,
-   "day": "2026-10-01",
-   "at": "2026-10-01T11:35:26.226606+00:00",
-   "topic": "incident",
-   "title_tr": "Дело о фондовой афере: 12 подозреваемых направлены в суд",
-   "story": "fund-crisis-arrests"
-  },
-  {
-   "id": 204769,
-   "day": "2026-10-01",
-   "at": "2026-10-01T11:35:26.226606+00:00",
-   "topic": "celebrity",
-   "title_tr": "Берен Гёкйылдыз отметила 17-летие: кадры с днём рождения",
-   "story": "beren-gokyildiz-birthday"
-  },
   {
    "id": 204801,
    "day": "2026-10-01",
@@ -2286,9 +2191,128 @@
    "topic": "politics",
    "title_tr": "Мэр Измира Джемиль Тугай может перейти в правящую партию 7 октября",
    "story": "izmir-akp-tugay"
+  },
+  {
+   "id": 206118,
+   "day": "2026-10-06",
+   "at": "2026-10-06T12:00:01.027210+00:00",
+   "topic": "politics",
+   "title_tr": "Мэр Мерсина Вахап Сечер и ещё 48 человек — под арест. Расследование коррупции в трёх мэриях",
+   "story": "mersin-corruption-operation"
+  },
+  {
+   "id": 206191,
+   "day": "2026-10-06",
+   "at": "2026-10-06T12:00:01.027210+00:00",
+   "topic": "celebrity",
+   "title_tr": "Идрис Айбирди публично признался в любви к Серай Кая после скандального развода",
+   "story": "idris-aybirdi-seray-kaya"
+  },
+  {
+   "id": 206220,
+   "day": "2026-10-06",
+   "at": "2026-10-06T12:00:01.027210+00:00",
+   "topic": "politics",
+   "title_tr": "Акын Гюрлек раскрыл данные по расследованию фондов: возбуждены дела против 206 человек, 85 арестованы",
+   "story": "akın-gürlek-fund-investigation"
+  },
+  {
+   "id": 206097,
+   "day": "2026-10-06",
+   "at": "2026-10-06T12:00:01.027210+00:00",
+   "topic": "life",
+   "title_tr": "Дизельное топливо в Турции подешевело на 4,95 лиры за литр",
+   "story": "diesel-price-cut"
+  },
+  {
+   "id": 206157,
+   "day": "2026-10-06",
+   "at": "2026-10-06T12:00:01.027210+00:00",
+   "topic": "celebrity",
+   "title_tr": "Севда Далгыч сменила имидж после решения о разводе",
+   "story": "sevda-dalgıç-divorce"
   }
  ],
  "feed": [
+  {
+   "guid": "gastetv-206157",
+   "title": "Севда Далгыч сменила имидж после решения о разводе",
+   "link": "https://gastetv.com/sevda-dalgic-bosanma-karari-almisti-imaj-degistirdi/",
+   "pubDate": "Tue, 06 Oct 2026 12:00:01 +0000",
+   "html": "<p><strong>Актриса Севда Далгыч, известная по роли Озге в сериале «Задние парты», объявившая о разводе с бизнесменом Дильге Эмиром Гювенчем, появилась с новой причёской.</strong></p>\n<p>Севда Далгыч, прославившаяся благодаря роли Озге в популярном сериале «Задние парты» (Arka Sıradakiler), недавно объявила о решении развестись с бизнесменом Дильге Эмиром Гювенчем.</p><h2>«Не получилось»</h2><p>Актриса прокомментировала ситуацию: «Не получилось! Я бесконечно уважаю своего супруга, но иногда так бывает. Надеюсь, мы разойдёмся по-хорошему, мирно».</p><p>Вскоре после новости о расставании Севда Далгыч привлекла внимание новым имиджем.</p><h2>«Прощаюсь с тёмными волосами»</h2><p>Севда Далгыч, которую зрители помнили с длинными светлыми волосами во времена «Задних парт», коротко подстриглась и выбрала рыжие оттенки. Актриса представила новый образ в социальных сетях, появившись перед подписчиками с рыжими волосами. К публикации она добавила подпись: «Через 12 лет прощаюсь с тёмными волосами».</p><p>Новый имидж вызвал неоднозначную реакцию у подписчиков: были как те, кому понравилось, так и те, кто остался недоволен.</p>\n<p>Источник: <a href=\"https://gastetv.com/sevda-dalgic-bosanma-karari-almisti-imaj-degistirdi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/sevda-dalgic-bosanma-karari-almisti-imaj-degistirdi-GGcuyAdr.jpg",
+   "tags": [
+    "Севда Далгыч",
+    "развод",
+    "турецкие актрисы",
+    "турецкие сериалы",
+    "шоу-бизнес"
+   ]
+  },
+  {
+   "guid": "gastetv-206097",
+   "title": "Дизельное топливо в Турции подешевело на 4,95 лиры за литр",
+   "link": "https://gastetv.com/motorine-495-tllik-indirim-geldi-gece-yarisi-tabelalar-degisti/",
+   "pubDate": "Tue, 06 Oct 2026 12:00:01 +0000",
+   "html": "<p><strong>С полуночи цены на дизельное топливо в Турции снизились на 4,95 лиры за литр на фоне падения мировых цен на нефть. Цены на бензин остались без изменений.</strong></p>\n<p>На фоне продолжающегося снижения мировых цен на нефть подешевело топливо и на турецких АЗС. С полуночи стоимость дизельного топлива упала на 4,95 лиры за литр.</p><p>Цены на бензин не изменились. После снижения стоимости дизтоплива разница в цене между бензином и дизелем сократилась до 5 лир. 17 сентября этот разрыв достигал 20 лир.</p><h2>Сколько стоит дизельное топливо</h2><p>Цены на дизтопливо снизились и составили: в Стамбуле — 90,09 лиры, в Анкаре — 91,16 лиры, в Измире — 91,47 лиры, в восточных провинциях — 92,89 лиры.</p><h2>Сколько стоит бензин</h2><p>Цены на бензин ожидаются на уровне: в Стамбуле — 84,65 лиры, в Анкаре — 85,6 лиры, в Измире — 85,89 лиры, в восточных провинциях — 87,23 лиры.</p>\n<p>Источник: <a href=\"https://gastetv.com/motorine-495-tllik-indirim-geldi-gece-yarisi-tabelalar-degisti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/motorine-495-tllik-indirim-geldi-gece-yarisi-tabelalar-degisti-EYt19jHT.jpg",
+   "tags": [
+    "топливо",
+    "цены",
+    "дизель",
+    "бензин",
+    "экономика",
+    "Турция"
+   ]
+  },
+  {
+   "guid": "gastetv-206220",
+   "title": "Акын Гюрлек раскрыл данные по расследованию фондов: возбуждены дела против 206 человек, 85 арестованы",
+   "link": "https://gastetv.com/akin-gurlek-fon-sorusturmasindaki-verileri-acikladi-206-kisi-hakkinda-adli-islem-yapildi-85i-tutuklandi/",
+   "pubDate": "Tue, 06 Oct 2026 12:00:01 +0000",
+   "html": "<p><strong>Министр юстиции Турции Акын Гюрлек сообщил новые подробности о расследовании скандала с хищениями в инвестиционных фондах. По делу проходят 206 подозреваемых, 85 из них находятся под арестом.</strong></p>\n<p>Расследование скандала с хищениями в инвестиционных фондах продолжается.</p>\n\n<h2>85 арестованных среди 206 подозреваемых</h2>\n\n<p>Министр Гюрлек сообщил, что после принятия 17 сентября Советом по рынкам капитала (SPK) решения о ликвидации фондов Главная прокуратура Стамбула в рамках следственных полномочий приняла все необходимые меры предосторожности.</p>\n\n<p>Напомнив, что по делу проходят 206 подозреваемых, министр Гюрлек отметил, что 85 из них арестованы.</p>\n\n<h2>Приняты меры для предотвращения вывода активов</h2>\n\n<p>Министр Гюрлек подчеркнул, что имущество многих подозреваемых заморожено.</p>\n\n<p>Акцентируя внимание на том, что приняты необходимые меры для предотвращения вывода активов подозреваемыми, министр Гюрлек сообщил, что сразу после открытия расследования была пресечена одна попытка вывода имущества.</p>\n\n<h2>Предотвращён перевод 40 миллионов</h2>\n\n<p>Министр Гюрлек рассказал, что через два дня после начала расследования супруга одного из арестованных по делу о фондах подозреваемых дала распоряжение о переводе за границу 40 миллионов турецких лир. Эта операция была предотвращена благодаря письму Главной прокуратуры Стамбула.</p>\n<p>Источник: <a href=\"https://gastetv.com/akin-gurlek-fon-sorusturmasindaki-verileri-acikladi-206-kisi-hakkinda-adli-islem-yapildi-85i-tutuklandi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/akin-gurlek-fon-sorusturmasindaki-verileri-acikladi-206-kisi-hakkinda-adli-islem-yapildi-85i-tutuklandi-A6LsmfQn.jpg",
+   "tags": [
+    "Акын Гюрлек",
+    "инвестиционные фонды",
+    "коррупция",
+    "арест",
+    "экономика",
+    "Турция"
+   ]
+  },
+  {
+   "guid": "gastetv-206191",
+   "title": "Идрис Айбирди публично признался в любви к Серай Кая после скандального развода",
+   "link": "https://gastetv.com/sahra-isiktan-olayli-bir-sekilde-bosanmisti-idris-aybirdi-seray-kayaya-askini-haykirdi/",
+   "pubDate": "Tue, 06 Oct 2026 12:00:01 +0000",
+   "html": "<p><strong>Идрис Айбирди, бывший муж участницы реалити-шоу Survivor Сахры Ишик, официально объявил об отношениях с актрисой Серай Кая, опубликовав совместное фото в соцсетях.</strong></p>\n<p>Сахра Ишик, ставшая известной благодаря участию в шоу Survivor, несколько месяцев назад скандально развелась с Идрисом Айбирди, отцом своего сына.</p><p>Ишик утверждала, что Айбирди изменял ей с актрисой Серай Кая, и заявляла, что бывший муж продолжает её беспокоить.</p><p>После развода Идрис Айбирди сделал громкий шаг: он опубликовал в соцсетях фото с Серай Кая, тем самым официально подтвердив их отношения.</p><h2>«Поворотный момент моей жизни»</h2><p>Айбирди разместил в своём аккаунте снимок, где целует Серай Кая, и написал: «Ты — сама любовь, поворотный момент моей жизни».</p>\n<p>Источник: <a href=\"https://gastetv.com/sahra-isiktan-olayli-bir-sekilde-bosanmisti-idris-aybirdi-seray-kayaya-askini-haykirdi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/sahra-isiktan-olayli-bir-sekilde-bosanmisti-idris-aybirdi-seray-kayaya-askini-haykirdi-ybWJGtnN.jpg",
+   "tags": [
+    "Идрис Айбирди",
+    "Серай Кая",
+    "Сахра Ишик",
+    "Survivor",
+    "светская хроника",
+    "развод"
+   ]
+  },
+  {
+   "guid": "gastetv-206118",
+   "title": "Мэр Мерсина Вахап Сечер и ещё 48 человек — под арест. Расследование коррупции в трёх мэриях",
+   "link": "https://gastetv.com/mersinde-3-belediyeye-yolsuzluk-operasyonu-vahap-secer-dahil-49-kisi-icin-tutuklama-talebi/",
+   "pubDate": "Tue, 06 Oct 2026 12:00:01 +0000",
+   "html": "<p><strong>Прокуратура Мерсина начала расследование коррупции в мэрии мегаполиса и двух районных управах. Задержаны 60 подозреваемых, включая мэра Мерсина Вахапа Сечера и двух районных мэров. Прокуратура требует ареста для 50 человек, включая всех троих градоначальников.</strong></p>\n<p>Прокуратура Мерсина возбудила уголовное дело по факту коррупции в мэрии крупнейшего города, а также в районных управах Енишехир и Мезитли. В рамках операции задержаны глава мегаполиса Вахап Сечер (представитель Республиканской народной партии, НРП), мэр Енишехира Абдуллах Озйигит и мэр Мезитли Ахмет Серкан Тунджер.</p>\n\n<p>Всего задержан 60 подозреваемых. В ходе обысков в зданиях мэрий полиция выставила оцепление.</p>\n\n<h2>Один мэр арестован, для двух других — требование об аресте</h2>\n\n<p>После проверок в полиции и медицинского осмотра все подозреваемые доставлены в суд. По итогам допросов прокуратура направила 50 человек, включая трёх мэров, на судебное заседание с требованием об аресте, для 10 других просит применить меру пресечения в виде подписки о невыезде.</p>\n\n<p>Мэр Енишехира Абдуллах Озйигит арестован. Разбирательство по остальным подозреваемым продолжается.</p>\n\n<h2>В чём обвиняют чиновников</h2>\n\n<p>Согласно заключению экспертов из Генеральной дирекции государственного учёта от 14 июля, в результате нарушений при проведении 13 тендеров и 63 закупок методом прямого приобретения ущерб казне по мэрии Мерсина составил 330 миллионов 945 тысяч лир.</p>\n\n<p>В отчёте перечислены нарушения: в условиях тендеров указывались конкретные марки и модели, что ограничивало конкуренцию; закупки, которые должны были проводиться через тендер, разбивались на части и оформлялись прямыми приобретениями; прямые закупки превышали установленные лимиты; по некоторым договорам аренды транспорта счета-фактуры в материалах дела отсутствуют.</p>\n\n<p>Свидетели и осведомлённые лица заявили, что часть тендеров и закупок в мэрии направлялась определённым компаниям, в процессе формирования заявок и расчёта стоимости допускались нарушения, а некоторые чиновники мэрии действовали совместно с руководителями фирм.</p>\n\n<h2>Мезитли и Енишехир</h2>\n\n<p>По предварительным данным, ущерб казне в мэрии Мезитли достиг 1 миллиарда 10 миллионов 914 тысяч лир, в мэрии Енишехира — 105 миллионов лир.</p>\n\n<h2>Против Тунджера — обвинение в руководстве вооружённой преступной организацией</h2>\n\n<p>В отношении мэра Мезитли Тунджера возбуждено отдельное дело: его подозревают в том, что он организовал вооружённые нападения на офисы враждебных ему лиц. Обвинение квалифицируется как «руководство вооружённой преступной организацией». Среди объектов нападений — офис местного отделения партии «Ени» (Новая партия) и помещение одного из СМИ.</p>\n\n<p>Корреспондент NTV Мустафа Бербер сообщил: «Причина операции — коррупция. Решение о задержании было принято сегодня утром, обыски прошли одновременно в нескольких местах. В отношении Вахапа Сечера уже велось расследование ранее — он был арестован и затем освобождён».</p>\n\n<h2>Кто такой Вахап Сечер</h2>\n\n<p>Вахап Сечер родился 5 октября 1963 года в Тарсусе (провинция Мерсин). Окончил сельскохозяйственный факультет Университета Чукурова, работал агрономом, состоял в профессиональной палате. Основал благотворительный фонд «Тарсус Гюч Бирлиги», где занимал пост председателя попечительского совета.</p>\n\n<p>С 2007 по 2015 год был депутатом парламента Турции от НРП 23-го и 24-го созывов. На местных выборах 31 марта 2019 года избран мэром Мерсина. 31 марта 2024 года переизбран на второй срок. В июле 2025 года стал заместителем председателя Союза муниципалитетов Турции, а 2 мая 2026 года избран его председателем.</p>\n<p>Источник: <a href=\"https://gastetv.com/mersinde-3-belediyeye-yolsuzluk-operasyonu-vahap-secer-dahil-49-kisi-icin-tutuklama-talebi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/mersinde-3-belediyeye-yolsuzluk-operasyonu-vahap-secer-dahil-49-kisi-icin-tutuklama-talebi-ZDLhtMUW.jpg",
+   "tags": [
+    "Мерсин",
+    "Вахап Сечер",
+    "коррупция",
+    "мэрии",
+    "НРП",
+    "задержания"
+   ]
+  },
   {
    "guid": "gastetv-205737",
    "title": "Мэр Измира Джемиль Тугай может перейти в правящую партию 7 октября",
@@ -2827,83 +2851,6 @@
     "турецкие актрисы",
     "соцсети",
     "Ömür Usta"
-   ]
-  },
-  {
-   "guid": "gastetv-204507",
-   "title": "Положительный тест на наркотики у футболиста Хасана Шаша и актрисы Афры Сарачоглу",
-   "link": "https://gastetv.com/eski-futbolcu-hasan-sas-ile-oyuncu-afra-saracoglunun-uyusturucu-testi-pozitif-cikti/",
-   "pubDate": "Wed, 30 Sep 2026 16:49:27 +0000",
-   "html": "<p><strong>В рамках расследования о наркотиках среди известных личностей положительные результаты тестов получили бывший футболист Хасан Шаш и актриса Афра Сарачоглу. У Шаша обнаружен кокаин в крови, моче и волосах, а также кодеин в волосах. У Сарачоглу в волосах найден кокаин.</strong></p>\n<p>Прокуратура района Бакыркёй ведёт расследование в отношении известных личностей по делу о наркотиках. 18 сентября жандармерия провела операцию, в ходе которой были задержаны несколько знаменитостей, в том числе актёр Арас Булут Ийнемли, певец Сейфуллах Сагыр, известный как «Сефо», и актриса Мелис Сезен.</p><p>В рамках расследования задержанных направили в Институт судебной медицины для взятия образцов крови, волос и мочи. После процедур их отпустили из здания суда. Теперь стали известны результаты анализов Хасана Шаша. В его крови, моче и волосах обнаружено вещество кокаин, а в волосах — также кодеин.</p><p>Результаты получены и по актрисе Афре Сарачоглу, которая находилась за границей и была задержана в аэропорту Стамбула после возвращения. В её волосах найден кокаин.</p><p>Между тем у Ягыза Сабунджуоглу и Араса Булута Ийнемли, также задержанных в ходе операции и отпущенных после процедур в Институте судебной медицины, наркотических веществ не обнаружено.</p><h2>Операции против знаменитостей начались в октябре прошлого года</h2><p>Прокуратура Стамбула ведёт расследование о наркотиках среди знаменитостей. С 8 октября 2025 года проведено множество операций. Образцы крови и волос для анализа на наркотики сдали музыканты, менеджеры, бизнесмены и многие другие известные публике имена. В рамках расследования в отношении ряда известных личностей вынесены решения об аресте.</p>\n<p>Источник: <a href=\"https://gastetv.com/eski-futbolcu-hasan-sas-ile-oyuncu-afra-saracoglunun-uyusturucu-testi-pozitif-cikti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/09/eski-futbolcu-hasan-sas-ile-oyuncu-afra-saracoglunun-uyusturucu-testi-pozitif-cikti-szs3FmDO.png",
-   "tags": [
-    "Хасан Шаш",
-    "Афра Сарачоглу",
-    "Арас Булут Ийнемли",
-    "наркотики",
-    "Стамбул",
-    "расследование"
-   ]
-  },
-  {
-   "guid": "gastetv-204532",
-   "title": "Член горсовета из Фетхие арестован в Китае за связь с несовершеннолетней",
-   "link": "https://gastetv.com/chpli-ruhtan-baskaya-cinde-18-yasin-altinda-bir-kiz-cocuguyla-otel-odasinda-basildi-2-aydir-cinde-tutuklu/",
-   "pubDate": "Wed, 30 Sep 2026 16:49:27 +0000",
-   "html": "<p><strong>Рухтан Башкая, член городского совета Фетхие от Республиканской народной партии (НРП), уже два месяца находится под арестом в Китае. Его задержали после того, как он привёл в номер отеля несовершеннолетнюю девушку, с которой познакомился в развлекательном заведении.</strong></p>\n<p>В июле делегация муниципалитета Фетхие (провинция Мугла) посетила китайские города Цзиньхуа, Шанхай и Хучжоу. Когда группа возвращалась в Турцию, выяснилось, что один из её участников — член городского совета от НРП Рухтан Башкая — не смог вылететь.</p><p>Как стало известно, Башкая познакомился в развлекательном заведении с девушкой младше 18 лет и вернулся вместе с ней в отель. Вскоре после этого он был задержан.</p><p>Сообщается, что Башкая находится под арестом в Китае уже два месяца.</p><h2>Исключён из партии</h2><p>Областное отделение НРП в Мугле объявило, что по решению дисциплинарной комиссии Башкая окончательно исключён из партии.</p><p>В заявлении муниципалитета Фетхие отмечается, что остальные участники поездки не имеют никакого отношения к инциденту.</p>\n<p>Источник: <a href=\"https://gastetv.com/chpli-ruhtan-baskaya-cinde-18-yasin-altinda-bir-kiz-cocuguyla-otel-odasinda-basildi-2-aydir-cinde-tutuklu/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/09/chpli-ruhtan-baskaya-cinde-18-yasin-altinda-bir-kiz-cocuguyla-otel-odasinda-basildi-2-nzD32GA6.jpg",
-   "tags": [
-    "Китай",
-    "Фетхие",
-    "НРП",
-    "уголовное дело",
-    "Мугла"
-   ]
-  },
-  {
-   "guid": "gastetv-204442",
-   "title": "Озлем Ада Шахин устроила дочери традиционную «сороковую» церемонию",
-   "link": "https://gastetv.com/ozlem-ada-sahin-bebegine-40-ucurma-banyosu-yaptirdi/",
-   "pubDate": "Wed, 30 Sep 2026 16:49:27 +0000",
-   "html": "<p><strong>Супруга турецкого поп-исполнителя Беркая Шахина отметила 40 дней со дня рождения третьей дочери по всем турецким обычаям — с особой церемонией купания и символическими предметами на счастье.</strong></p>\n<p>Беркай Шахин и Озлем Ада Шахин заключили брак в 2016 году. У пары родились две дочери — Арья и Зейнеп Мира.</p>\n\n<h2>«40 дней миновало»</h2>\n\n<p>Популярный турецкий поп-исполнитель Беркай в третий раз стал отцом. Озлем Ада Шахин поделилась новостью о том, что младшей дочери исполнилось 40 дней. Ранее она говорила, что последние роды прошли тяжело.</p>\n\n<p>Опубликовав фотографию дочери, Шахин написала: «Сегодня отмечаем 40-й день. Нам исполнилось 40 дней. У нас был и осмотр у врача, и семейный завтрак».</p>\n\n<h2>Символы церемонии</h2>\n\n<p>Озлем Ада Шахин устроила дочери традиционную церемонию купания «кырк уçурма» (буквально — «выпустить сорок»), сопроводив её такими словами:</p>\n\n<blockquote>«Улетел, улетел сороковой день Михре. Коран — чтобы была верующей, мука — на долгую жизнь, соль — чтобы жизнь была полна вкуса и смысла, вата — чтобы красиво старела, мелкие монеты — чтобы не знала нужды, нить — на здоровье и долголетие, бусина от сглаза — чтобы жизнь наполнилась светлой энергией и обошли её стороной дурные силы».</blockquote>\n\n<h2>Даже золотая соска</h2>\n\n<p>Список символов продолжался:</p>\n\n<blockquote>«Кофе — чтобы встретила верных друзей и 40-летние дружбы, чтобы встречались на пути хорошие люди. Мыло — чтобы судьба была чиста. Сахар — чтобы была сладкоречива. 40 камешков — чтобы всю жизнь везло. Сезонные цветы — чтобы жизнь благоухала, чтобы всё, к чему прикоснётся, расцветало. Ножницы — чтобы разрезала все преграды, чтобы руки были умелыми и талантливыми. Золотая соска — чтобы рот был сладок, душа спокойна, а удел — богат. Паспорт — чтобы объездила мир, увидела красивые места, чтобы путь и судьба были открыты. Золото — чтобы жизнь была драгоценна, как золото, полна достатка и изобилия. Пусть жизнь твоя благоухает, пусть всё, к чему прикоснёшься, расцветает. Пусть живёшь долго, как вода течёт. И пусть такое счастье будет у всех, кто о нём мечтает».</blockquote>\n<p>Источник: <a href=\"https://gastetv.com/ozlem-ada-sahin-bebegine-40-ucurma-banyosu-yaptirdi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/09/ozlem-ada-sahin-bebegine-40-ucurma-banyosu-yaptirdi-tknZpjk1.jpg",
-   "tags": [
-    "Беркай Шахин",
-    "Озлем Ада Шахин",
-    "турецкие традиции",
-    "знаменитости",
-    "музыканты",
-    "семья"
-   ]
-  },
-  {
-   "guid": "gastetv-204358",
-   "title": "Серенай Сарыкая появилась на показе в платье за 530 тысяч лир",
-   "link": "https://gastetv.com/serenay-sarikayanin-elbisesinin-fiyati-ortaya-cikti/",
-   "pubDate": "Wed, 30 Sep 2026 11:08:42 +0000",
-   "html": "<p><strong>Турецкая актриса Серенай Сарыкая привлекла внимание своим образом на специальном показе в рамках Парижской недели моды. Стоимость её платья стала предметом обсуждения.</strong></p>\n<p>Серенай Сарыкая выбрала для особого вечера на Парижской неделе моды золотое платье с бахромой от испанского модного бренда. Наряд актрисы полностью состоял из золотых цепочек.</p><h2>530 тысяч лир</h2><p>Цена дизайнерского платья, в котором Сарыкая вышла на подиум, также стала темой обсуждений. Стоимость наряда составила 9496 евро, что по текущему курсу соответствует примерно 530 тысячам турецких лир.</p>\n<p>Источник: <a href=\"https://gastetv.com/serenay-sarikayanin-elbisesinin-fiyati-ortaya-cikti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/09/serenay-sarikayanin-elbisesinin-fiyati-ortaya-cikti-SLn6sCyx.jpg",
-   "tags": [
-    "Серенай Сарыкая",
-    "Парижская неделя моды",
-    "мода",
-    "знаменитости"
-   ]
-  },
-  {
-   "guid": "gastetv-204308",
-   "title": "Бизнесмен Дженгиз Авджи объявлен в розыск. Имущество арестовано",
-   "link": "https://gastetv.com/is-insani-cengiz-avci-hakkinda-yakalama-karari-mal-varligina-el-konuldu/",
-   "pubDate": "Wed, 30 Sep 2026 11:08:42 +0000",
-   "html": "<p><strong>Стамбульская прокуратура выдала ордер на арест бизнесмена Дженгиза Авджи в рамках расследования по финансированию терроризма и отмыванию денег. Его имущество, включая банковские счета и недвижимость, арестовано.</strong></p>\n<p>В рамках расследования, которое ведёт Бюро по расследованию преступлений, связанных с финансированием терроризма и отмыванием денег при Стамбульской главной республиканской прокуратуре, выдан очередной ордер на арест.</p><p>По имеющимся данным, ордер выдан на бизнесмена Дженгиза Авджи, известного крупными операциями на рынках капитала.</p><p>В рамках того же расследования вынесено постановление о мерах обеспечения в отношении имущества Авджи. Наложен арест на банковские счета, движимое и недвижимое имущество, а также на другие выявленные активы.</p><h2>Установлен доход в 15 миллиардов лир</h2><p>Как отмечается, в записях Платформы раскрытия информации общественности (KAP) на имя Авджи содержится множество уведомлений о покупке и продаже акций ODINE.</p><p>По имеющимся данным, у Дженгиза Авджи, который, как утверждается, поддерживает близкие дружеские отношения с депутатом парламента от Новой партии от Эрзинджана Мустафой Сарыгюлем, за последний год установлен доход примерно в 15 миллиардов лир только от акций ODINE.</p><h2>Установлено, что он покинул страну</h2><p>Определено, что около 12 миллиардов лир из этого дохода были в течение того же периода конвертированы в наличные и выведены с рынка капитала.</p><p>Установлено, что Авджи после указанных операций покинул страну и в настоящее время находится за рубежом.</p>\n<p>Источник: <a href=\"https://gastetv.com/is-insani-cengiz-avci-hakkinda-yakalama-karari-mal-varligina-el-konuldu/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/09/is-insani-cengiz-avci-hakkinda-yakalama-karari-mal-varligina-el-konuldu-6Fc466xg.jpg",
-   "tags": [
-    "Дженгиз Авджи",
-    "финансирование терроризма",
-    "отмывание денег",
-    "Стамбул",
-    "арест имущества",
-    "рынок капитала"
    ]
   }
  ]
