@@ -1,181 +1,5 @@
 {
  "posts": {
-  "204916": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Güllü’nün ölümü davasında kızı Tuğyan Ülkem Gülter için ağırlaştırılmış müebbet talebi",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Уголовное дело о смерти певца Гюллю — резонансно, но это старый случай, новость только о приговоре дочери",
-   "story": "gullu-death-case"
-  },
-  "204913": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "TBMM’de yeni yasama yılı resepsiyonu",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Рутинная новость об официальном открытии парламента, не интересна русскоязычной аудитории",
-   "story": "tbmm-opening"
-  },
-  "204907": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Devlet Bahçeli’den Yeni Parti’ye: Cumhurbaşkanı varken gitmeleri doğru olmamıştır",
-   "cat": "Gündem",
-   "score": 6,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Заявление лидера НХП Бахчели по резонансной теме раскола в оппозиции — политика второго ряда, хороший трафик",
-   "story": "bahceli-new-party"
-  },
-  "204899": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "İstanbul’da trafik yoğunluğu akşam saatlerinde yüzde 89’a yükseldi",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "life",
-   "dup_of": null,
-   "why": "Пробка в Стамбуле — мелкая локальная новость, неинтересна русскоязычному читателю",
-   "story": "istanbul-traffic"
-  },
-  "204891": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Özgür Özel’in salonu terk etmesi, akıllara İsrail heyetini getirdi",
-   "cat": "Gündem",
-   "score": 5,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Действия лидера ОНП Озеля в парламенте — политика второго ряда, может быть интересна, но без деталей сложно оценить",
-   "story": "ozgur-ozel-parliament"
-  },
-  "204886": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "AK Parti’de Fatma Betül Sayan Kaya’nın görevine Hülya Terzioğlu getirildi",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Кадровая ротация в партии Эрдогана — мелкая внутренняя политика, не интересна русскоязычной аудитории",
-   "story": "akp-personnel-change"
-  },
-  "204872": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Alparslan Bayraktar: Nükleer enerji hamlemizi büyüteceğiz",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Заявление министра о ядерной энергии — рутинная технократическая новость, перескажут все СМИ",
-   "story": "nuclear-energy-plan"
-  },
-  "204866": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Cumhurbaşkanı Erdoğan: Gelecek yüzyıla biz damga vuracağız",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Рутинная речь Эрдогана на открытии парламента, такие новости перескажут все федеральные СМИ",
-   "story": "erdogan-parliament-speech"
-  },
-  "204856": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Cumhurbaşkanı Erdoğan, DEM Parti grubuyla tokalaştı",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Мелкая рутинная новость о приветствии в парламенте, не интересна читателю",
-   "story": "erdogan-dem-party"
-  },
-  "204835": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "TBMM açılıyor | Cumhurbaşkanı Erdoğan: Fon konusunu süratle çözüyoruz",
-   "cat": "Gündem",
-   "score": 4,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Заявление Эрдогана о фондовом скандале — повтор темы, уже освещалась, рутинная реакция лидера",
-   "story": "erdogan-fund-crisis"
-  },
-  "204818": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "DEM Partili vekiller Devlet Bahçeli ile selamlaşmak için sıraya girdi",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Мелкая рутинная новость о процедурах в парламенте, неинтересна",
-   "story": "dem-party-parliament"
-  },
-  "204815": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "TBMM açılıyor. Cumhurbaşkanı Erdoğan yeni yasama yılı için Meclis’te",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Рутинная новость об открытии сессии парламента, без значимого контента",
-   "story": "parliament-opening"
-  },
-  "204809": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Mehmet Şimşek: Kurumlarımız fonlarla ilgili çalışmalarını titizlikle sürdürüyor",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Заявление министра финансов о расследовании фондов — повтор темы, уже освещалась несколько раз сегодня",
-   "story": "mehmet-simsek-funds"
-  },
-  "204847": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Aşkını yıllardır saklıyordu! Jim Carrey 64 yaşında yeniden evlendi",
-   "cat": "Magazin",
-   "score": 2,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Голливудская звезда, не турецкая — не интересна нашей аудитории, о Кэррее пишут везде",
-   "story": "jim-carrey-wedding"
-  },
-  "204841": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Yasaklı madde test sonucu pozitif çıkmıştı! Afra Saraçoğlu’ndan açıklama geldi",
-   "cat": "Magazin",
-   "score": 5,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Турецкая актриса и позитивный тест на наркотики — резонансная новость, может дать трафик",
-   "story": "afra-saracoglu-drug-test"
-  },
-  "204823": {
-   "status": "scored",
-   "seen_at": "2026-10-01T18:24:05.823419+00:00",
-   "title": "Engincan Ural paylaştı! Sibel Can’ın torunu Lina 1 yaşında",
-   "cat": "Magazin",
-   "score": 3,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Певица Сибел Джан и фото внука — лёгкая светская новость, низкий приоритет",
-   "story": "sibel-can-grandson"
-  },
   "204944": {
    "status": "scored",
    "seen_at": "2026-10-01T23:09:25.867693+00:00",
@@ -2144,33 +1968,108 @@
    "dup_of": null,
    "why": "Актриса Демет Шенер, известная личность, но просто публикация фото с тренировки, слабый материал",
    "story": "demet-sener-training"
+  },
+  "206413": {
+   "status": "scored",
+   "seen_at": "2026-10-06T23:01:14.108793+00:00",
+   "title": "Ankara’da uygulama noktasında polislere ateş açıldı. Bir polis şehit oldu",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Резонансный инцидент с жертвой, но локальный, без связи с туристами/иностранцами",
+   "story": "ankara-police-shooting"
+  },
+  "206401": {
+   "status": "scored",
+   "seen_at": "2026-10-06T23:01:14.108793+00:00",
+   "title": "KKTC’deki feribot faciası. Ulaşılan iki cesedin kimliği belirlendi",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Трагедия с туристическим контекстом, но скупые детали о жертвах",
+   "story": "kktc-ferry-disaster"
+  },
+  "206395": {
+   "status": "scored",
+   "seen_at": "2026-10-06T23:01:14.108793+00:00",
+   "title": "İçişleri açıkladı: 4 belediye başkanı ve 1 başkanvekili görevden uzaklaştırıldı",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Бюрократический ход среднего уровня, слабый поисковый потенциал",
+   "story": "mayors-removed"
+  },
+  "206392": {
+   "status": "scored",
+   "seen_at": "2026-10-06T23:01:14.108793+00:00",
+   "title": "Ferdi Zeyrek’in elektrik akımına kapılarak ölmesine ilişkin ek bilirkişi raporu tamamlandı",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Уточняющие детали известного инцидента, низкий трафик от повторных публикаций",
+   "story": "ferdi-zeyrek-death"
+  },
+  "206383": {
+   "status": "scored",
+   "seen_at": "2026-10-06T23:01:14.108793+00:00",
+   "title": "Ataşehir ve Eyüpsultan’da başkanvekili seçimi 10 Ekim’de",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Местные административные выборы без резонанса и интереса для русскоязычной аудитории",
+   "story": "deputy-elections"
+  },
+  "206379": {
+   "status": "scored",
+   "seen_at": "2026-10-06T23:01:14.108793+00:00",
+   "title": "Eyyüp Kadir İnan’dan Özgür Özel’e: Pavyon siyasetinin temsilcisidir",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление политика второго ряда (лидер MHP-фракции) с критикой оппозиции, политический скандал",
+   "story": "inan-vs-ozel"
+  },
+  "206376": {
+   "status": "scored",
+   "seen_at": "2026-10-06T23:01:14.108793+00:00",
+   "title": "AK Parti’den dikkat çeken İzmir paylaşımı: 7 Ekim detayı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинный предвыборный контент партии, дублирует следующую новость",
+   "story": "akp-izmir-campaign"
+  },
+  "206368": {
+   "status": "scored",
+   "seen_at": "2026-10-06T23:01:14.108793+00:00",
+   "title": "AK Parti’den İzmir paylaşımı: Çöp dağlarından çiçekli yollara",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": 206376,
+   "why": "Дубль: то же предвыборное заявление AK Parti об Измире",
+   "story": "akp-izmir-campaign"
+  },
+  "206407": {
+   "status": "scored",
+   "seen_at": "2026-10-06T23:01:14.108793+00:00",
+   "title": "Derin Mermerci’nin yalısına yolcu vapuru çarptı",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Турецкая звезда в инциденте с яхтой, высокий интерес аудитории к её жизни",
+   "story": "derin-mermerci-yacht-incident"
   }
  },
  "published": [
-  {
-   "id": 204801,
-   "day": "2026-10-01",
-   "at": "2026-10-01T18:24:05.823419+00:00",
-   "topic": "celebrity",
-   "title_tr": "Нилпери Шахинкая: результаты тестов на наркотики отрицательные",
-   "story": "nilperi-sahin-kaya-drugs"
-  },
-  {
-   "id": 204779,
-   "day": "2026-10-01",
-   "at": "2026-10-01T18:24:05.823419+00:00",
-   "topic": "celebrity",
-   "title_tr": "Дениз Джан Акташ впервые подтвердил роман с партнёршей по сериалу",
-   "story": "deniz-can-aktas-devrim-ozkan"
-  },
-  {
-   "id": 204805,
-   "day": "2026-10-01",
-   "at": "2026-10-01T18:24:05.823419+00:00",
-   "topic": "politics",
-   "title_tr": "Абдуллах Гюлер о кризисе фондов: Народ может быть спокоен",
-   "story": "fund-crisis-statement"
-  },
   {
    "id": 204986,
    "day": "2026-10-02",
