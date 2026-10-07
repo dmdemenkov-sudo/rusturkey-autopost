@@ -1,203 +1,5 @@
 {
  "posts": {
-  "204944": {
-   "status": "scored",
-   "seen_at": "2026-10-01T23:09:25.867693+00:00",
-   "title": "Fon soruşturmasında tutuklu sayısı 65’e yükseldi",
-   "cat": "Gündem",
-   "score": 0,
-   "topic": "other",
-   "dup_of": 204941,
-   "why": "дубль новости 204941 с тем же сюжетом",
-   "story": "fund-investigation"
-  },
-  "204941": {
-   "status": "scored",
-   "seen_at": "2026-10-01T23:09:25.867693+00:00",
-   "title": "Fon soruşturmasında 4 şüpheli daha tutuklandı. Tutuklu sayısı 65’e yükseldi",
-   "cat": "Gündem",
-   "score": 4,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "расследование фонда с арестами — локальный скандал, но мало резонанса для русской аудитории",
-   "story": "fund-investigation"
-  },
-  "204932": {
-   "status": "scored",
-   "seen_at": "2026-10-01T23:09:25.867693+00:00",
-   "title": "MHK soruşturması kapsamında hakem Yasin Kol gözaltına alındı",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "местное спортивное расследование, малый интерес для читателей портала",
-   "story": "referee-investigation"
-  },
-  "204929": {
-   "status": "scored",
-   "seen_at": "2026-10-01T23:09:25.867693+00:00",
-   "title": "Süper Loto çekiliş sonuçları belli oldu: MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "other",
-   "dup_of": null,
-   "why": "результаты лотереи — минимальный интерес",
-   "story": "lottery-draw"
-  },
-  "204926": {
-   "status": "scored",
-   "seen_at": "2026-10-01T23:09:25.867693+00:00",
-   "title": "KOBİ kredileri için büyüme sınırı yükseltildi",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "life",
-   "dup_of": null,
-   "why": "изменение условий кредитов для МСП — полезно, но специфично для деловых людей",
-   "story": "sme-credit-policy"
-  },
-  "205042": {
-   "status": "scored",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Soma’daki maden kazasına ilişkin 9 şüpheli gözaltına alındı",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Историческое происшествие (Сома 2014), но без новых деталей — только рутинный арест подозреваемых спустя годы. Локальный криминал.",
-   "story": "soma-mine-accident-arrests"
-  },
-  "205022": {
-   "status": "published",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Fon krizinde parasından olan yatırımcılar, kaybını nasıl geri alacak: 10 soru-10 cevap",
-   "cat": "Gündem",
-   "score": 6,
-   "topic": "life",
-   "dup_of": null,
-   "why": "Полезный гайд для инвестора: как вернуть деньги при кризисе фонда. Актуально для живущих в Турции и инвесторов. Есть поисковый потенциал.",
-   "story": "investment-fund-crisis-guide"
-  },
-  "205019": {
-   "status": "scored",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Arif Ahmet Denizolgun’un ölümüne 3 dava açıldı",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Локальный криминал, открытие исков. Без резонанса и значимости для аудитории.",
-   "story": "arif-ahmet-denizolgun-lawsuits"
-  },
-  "205012": {
-   "status": "scored",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Trafikte motosiklet sayısı 7,6 milyonu geçti: Kazalardaki payı yüzde 50’yi aştı",
-   "cat": "Gündem",
-   "score": 4,
-   "topic": "life",
-   "dup_of": null,
-   "why": "Статистика по мотоциклам и ДТП. Имеет практическое значение, но не срочно. Скорее информационный материал.",
-   "story": "motorcycle-accidents-statistics"
-  },
-  "204971": {
-   "status": "scored",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen gözaltına alındı",
-   "cat": "Gündem",
-   "score": 6,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Арест главы района в Стамбуле (второй уровень политики). Резонансный случай, потенциал в поиске по Турции и политике.",
-   "story": "eyupsultan-mayor-arrest"
-  },
-  "204947": {
-   "status": "scored",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "İsrail, Güney Kıbrıs ve Yunanistan’ın projesi Türkiye engeline takıldı",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Международная политика/геополитика. Не целевая аудитория; тема рутинна для федеральных СМИ.",
-   "story": "israel-cyprus-greece-project-turkey"
-  },
-  "205063": {
-   "status": "published",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Neco ve kızı Zeynep Özyılmazel 10 yıl sonra barıştı! Sürprizleri var",
-   "cat": "Magazin",
-   "score": 7,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Турецкая медиаперсона Neco (TV-ведущий известный в Турции) и его дочь Зейнеп (актриса, социальные сети). Семейная драма после 10 лет. Высокий трафик.",
-   "story": "neco-zeynep-ozylmzel-reconciliation"
-  },
-  "205058": {
-   "status": "scored",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Gözaltına alınmıştı! Rapçi Sefo test sonucunu paylaştı",
-   "cat": "Magazin",
-   "score": 5,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Турецкий рэпер Sefo: скандал с наркотестом и результат. Резонансный случай, актуально для поиска 'Sefo', но рапер не топ-звезда.",
-   "story": "rapper-sefo-drug-test"
-  },
-  "205052": {
-   "status": "published",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Uyuşturucu testi pozitif çıkmıştı! Oyuncu Melisa Şenolsun’dan açıklama geldi",
-   "cat": "Magazin",
-   "score": 6,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Турецкая актриса Melisa Şenolsun: наркотест и её объяснение. Скандал привлекает трафик, актриса известна в сериалах.",
-   "story": "actress-melisa-senolsun-drug-test"
-  },
-  "205027": {
-   "status": "scored",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "62’lik oyuncu Monica Bellucci fit kalma sırrını açıkladı",
-   "cat": "Magazin",
-   "score": 1,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Голливудская актриса Monica Bellucci (иностранная звезда). О ней пишут везде, низкий приоритет для турецкого контента.",
-   "story": "monica-bellucci-fitness"
-  },
-  "205006": {
-   "status": "published",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Kubilay Aka ile Hafsanur Sancaktutan yine ayrıldı",
-   "cat": "Magazin",
-   "score": 5,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Турецкие актёры: Kubilay Aka и Hafsanur Sancaktutan снова расстались. Пара известна по сериалам, драма привлекает трафик.",
-   "story": "kubilay-aka-hafsanur-breakup"
-  },
-  "204986": {
-   "status": "published",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Demet Özdemir Paris’te! Tarzı beğeni topladı",
-   "cat": "Magazin",
-   "score": 7,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Demet Özdemir (звезда сериала 'Черная любовь', известна в России). В Париже, стиль. Сильный трафик на её имя.",
-   "story": "demet-ozdemir-paris-style"
-  },
-  "204964": {
-   "status": "scored",
-   "seen_at": "2026-10-02T11:04:53.422942+00:00",
-   "title": "Armağan Çağlayan Seyfi Dursunoğlu’nu unutmadı",
-   "cat": "Magazin",
-   "score": 2,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Актёр Armağan Çağlayan почтил память коллеги. Мемориальный пост, без практической ценности, локальный интерес.",
-   "story": "armagan-caglayan-tribute"
-  },
   "205184": {
    "status": "scored",
    "seen_at": "2026-10-02T16:37:12.547809+00:00",
@@ -2067,33 +1869,207 @@
    "dup_of": null,
    "why": "Турецкая звезда в инциденте с яхтой, высокий интерес аудитории к её жизни",
    "story": "derin-mermerci-yacht-incident"
+  },
+  "206567": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Berna Laçin hakkında ‘halkı kin ve düşmanlığa tahrik’ suçundan soruşturma",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Актриса Берна Лачин (известна в России), уголовное дело о разжигании розни — интересно русскоязычной аудитории",
+   "story": "berna-lacin-investigation"
+  },
+  "206538": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Emine Erdoğan’dan Gazze videosu: Bir halkın kökleri sökülmeye çalışılıyor",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Видео жены Эрдогана о Газе — пересажут все федеральные СМИ, мало трафика из поиска",
+   "story": "emine-erdogan-gaza"
+  },
+  "206530": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Cemil Tugay AK Parti toplantısına katıldı: Cumhurbaşkanı Erdoğan, ‘İzmir bugün çok coşkulu’ dedi",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинное событие политика местного уровня, Эрдоган произносит типичные фразы",
+   "story": "cemil-tugay-akp"
+  },
+  "206527": {
+   "status": "published",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "900 gram 50 lira, denizden fışkırdı. Tezgah önünde kuyruk oldu, yirmişer tane alıyorlar",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Полезно для жизни: цены на морепродукты в Турции, очереди покупателей — интересно экспатам и туристам",
+   "story": "fish-price-queue"
+  },
+  "206514": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Kızılay’ın Gazze’deki yardım çalışmaları üçüncü yılında: 25 bin tonu aşkın yardım ulaştırıldı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Тема Газы пересажут везде, новости гуманитарных организаций — низкий поиск",
+   "story": "kizilak-gaza-aid"
+  },
+  "206507": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Cemil Tugay, AK Parti Genel Merkezi’ne geldi",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "politics",
+   "dup_of": 206530,
+   "why": "Дублирует id 206530 (более полный заголовок)",
+   "story": "cemil-tugay-akp"
+  },
+  "206499": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Cemil Tugay AK Parti Genel Merkezi’nde",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "politics",
+   "dup_of": 206530,
+   "why": "Дублирует id 206530",
+   "story": "cemil-tugay-akp"
+  },
+  "206480": {
+   "status": "published",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Fon soruşturmasında adı geçen şirket yöneticisi Ali Emre Ballı ölü bulundu",
+   "cat": "Gündem",
+   "score": 7,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Резонансное дело: фигурант скандала найден мёртвым — высокий интерес",
+   "story": "fund-case-death"
+  },
+  "206463": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Çeşme Belediyesi’ne yolsuzluk operasyonu. Başkan yardımcısı ve imar müdürü gözaltında",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Коррупция в муниципалитете Чешме — туристический район, интересно экспатам",
+   "story": "cesme-corruption"
+  },
+  "206457": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Resmi Gazete’de bugün neler var? (7 Ekim 2026 Resmi Gazete kararları)",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Официальный вестник — узкая аудитория, низкий трафик",
+   "story": "official-gazette"
+  },
+  "206431": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Bakan Kurum’dan CAP31 mesajı. “Artık yaptıklarımızı değil, yapacaklarımızı konuşmalıyız”",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление министра на конференции — рутинное политическое событие",
+   "story": "minister-kurum-cap31"
+  },
+  "206425": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Çorum’daki feci kazada 4 kişi hayatını kaybetti",
+   "cat": "Gündem",
+   "score": 4,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "ДТП с жертвами — печальное событие, но локальное, без международного резонанса",
+   "story": "corum-accident"
+  },
+  "206419": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği Resmi Gazete’de",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "life",
+   "dup_of": null,
+   "why": "Нормативный документ, узкая аудитория",
+   "story": "disability-care-regulation"
+  },
+  "206488": {
+   "status": "published",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Tuğba Özay’dan dikkat çeken açıklama: Bir İspanyol erkeğiyle evlenebilirim",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Актриса Туба Озай, личные отношения — интересует фанатов турецких сериалов",
+   "story": "tugba-ozay-spanish-marriage"
+  },
+  "206484": {
+   "status": "published",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Murat Yıldırım ve Iman Elbani yeni aile pozu! Kızları Miray 4 yaşında",
+   "cat": "Magazin",
+   "score": 7,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Актёр Мурат Йилдирим (известен в России), семейное фото — хороший трафик",
+   "story": "murat-yildirim-family"
+  },
+  "206469": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Pelin Karahan yıllar öncesine götürdü",
+   "cat": "Magazin",
+   "score": 5,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Актриса Пелин Караган, ностальгичный контент — интересует фанатов",
+   "story": "pelin-karahan-memory"
+  },
+  "206448": {
+   "status": "scored",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Aliye Uzunatağan’dan yıllar sonra gelen aşk itirafı",
+   "cat": "Magazin",
+   "score": 5,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Актриса Алиэ Узунатаган, интимное признание — интересует аудиторию сериалов",
+   "story": "aliye-uzunatagan-love"
+  },
+  "206440": {
+   "status": "published",
+   "seen_at": "2026-10-07T11:45:15.247004+00:00",
+   "title": "Hazal Kaya’dan duygusal paylaşım! 12 yıllık dostuna veda etti",
+   "cat": "Magazin",
+   "score": 6,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Актриса Хазал Кая (известна в России по сериалам), эмоциональный контент о потере друга",
+   "story": "hazal-kaya-farewell"
   }
  },
  "published": [
-  {
-   "id": 204986,
-   "day": "2026-10-02",
-   "at": "2026-10-02T11:04:53.422942+00:00",
-   "topic": "celebrity",
-   "title_tr": "Демет Оздемир на Парижской неделе моды: новый образ актрисы покорил публику",
-   "story": "demet-ozdemir-paris-style"
-  },
-  {
-   "id": 205022,
-   "day": "2026-10-02",
-   "at": "2026-10-02T11:04:53.422942+00:00",
-   "topic": "life",
-   "title_tr": "Кризис турецких инвестфондов: кто и как получит деньги обратно",
-   "story": "investment-fund-crisis-guide"
-  },
-  {
-   "id": 205006,
-   "day": "2026-10-02",
-   "at": "2026-10-02T11:04:53.422942+00:00",
-   "topic": "celebrity",
-   "title_tr": "Кубилай Ака и Хафсанур Санджактутан снова расстались",
-   "story": "kubilay-aka-hafsanur-breakup"
-  },
   {
    "id": 205063,
    "day": "2026-10-02",
@@ -2349,9 +2325,124 @@
    "topic": "life",
    "title_tr": "Стипендии VGM на 2026-2027 год: начался приём заявок от школьников",
    "story": "vgm-scholarship-2026"
+  },
+  {
+   "id": 206480,
+   "day": "2026-10-07",
+   "at": "2026-10-07T11:45:15.247004+00:00",
+   "topic": "incident",
+   "title_tr": "Али Эмре Баллы, фигурант дела о финансовых махинациях, найден мёртвым",
+   "story": "fund-case-death"
+  },
+  {
+   "id": 206484,
+   "day": "2026-10-07",
+   "at": "2026-10-07T11:45:15.247004+00:00",
+   "topic": "celebrity",
+   "title_tr": "Мурат Йылдырым и Иман Эльбани отметили четырёхлетие дочери Мирай",
+   "story": "murat-yildirim-family"
+  },
+  {
+   "id": 206440,
+   "day": "2026-10-07",
+   "at": "2026-10-07T11:45:15.247004+00:00",
+   "topic": "celebrity",
+   "title_tr": "Хазал Кая простилась с 12-летним другом: актриса потеряла собаку Мёрфи",
+   "story": "hazal-kaya-farewell"
+  },
+  {
+   "id": 206488,
+   "day": "2026-10-07",
+   "at": "2026-10-07T11:45:15.247004+00:00",
+   "topic": "celebrity",
+   "title_tr": "Тугба Озай: «Могу выйти замуж за испанца»",
+   "story": "tugba-ozay-spanish-marriage"
+  },
+  {
+   "id": 206527,
+   "day": "2026-10-07",
+   "at": "2026-10-07T11:45:15.247004+00:00",
+   "topic": "life",
+   "title_tr": "Пеламида подешевела до 50 лир: турки скупают её десятками",
+   "story": "fish-price-queue"
   }
  ],
  "feed": [
+  {
+   "guid": "gastetv-206527",
+   "title": "Пеламида подешевела до 50 лир: турки скупают её десятками",
+   "link": "https://gastetv.com/900-gram-50-lira-denizden-fiskirdi-tezgah-onunde-kuyruk-oldu-yirmiser-tane-aliyorlar/",
+   "pubDate": "Wed, 07 Oct 2026 11:45:15 +0000",
+   "html": "<p><strong>После начала рыболовного сезона 1 сентября обильный улов пеламиды привёл к падению цен. Рыба, которая в начале сезона стоила 100 лир за штуку, теперь продаётся по 50 лир.</strong></p>\n<p>На некоторых прилавках четыре пеламиды продают за 200 лир, а более мелкую — пять штук за 200 лир. Весом каждая рыба около 800–900 граммов. С падением цен жители буквально штурмуют рыбные лавки, многие покупают пеламиду впрок — на зиму. Возле прилавков выстроились очереди, покупатели делятся друг с другом рецептами приготовления.</p><p>Рыбопродавец Айдын Джейлан рассказал, что изобилие улова отразилось на ценах: «Мы и сами пошли на уступки, сегодня начали продавать по 50 лир. Снизили наценку, пусть народ ест вдоволь. Те, что по четыре штуки за 200 лир, весят по 800–900 граммов. Спрос потрясающий».</p><p>Его коллега Гёкмен Джейлан отметил, что из-за обилия рыбы люди берут её десятками: «Дешевле фундука, люди покупают по двадцать штук. Пеламида прямо хлещет из моря, пусть народ ест вдоволь. Десять пеламид — 500 лир».</p><h2>Довольны изобилием и ценами</h2><p>Покупатели подтверждают, что цены очень приемлемые, и говорят, что довольны нынешним изобилием. Некоторые отмечают, что пеламида по 50 лир за штуку — доступный продукт особенно для многодетных семей.</p>\n<p>Источник: <a href=\"https://gastetv.com/900-gram-50-lira-denizden-fiskirdi-tezgah-onunde-kuyruk-oldu-yirmiser-tane-aliyorlar/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/900-gram-50-lira-denizden-fiskirdi-tezgah-onunde-kuyruk-oldu-yirmiser-tane-aliyorlar-mrY8YwlC.jpg",
+   "tags": [
+    "пеламида",
+    "рыба",
+    "цены",
+    "Турция",
+    "рынок"
+   ]
+  },
+  {
+   "guid": "gastetv-206488",
+   "title": "Тугба Озай: «Могу выйти замуж за испанца»",
+   "link": "https://gastetv.com/tugba-ozaydan-dikkat-ceken-aciklama-bir-ispanyol-erkegiyle-evlenebilirim/",
+   "pubDate": "Wed, 07 Oct 2026 11:45:15 +0000",
+   "html": "<p><strong>48-летняя модель и певица Тугба Озай, единственный раз состоявшая в браке с итальянским бизнесменом, рассказала о своей личной жизни и симпатии к испанским мужчинам.</strong></p>\n<p>48-летняя модель и певица Тугба Озай была замужем лишь однажды — в 2009 году она вышла за итальянского бизнесмена Лудовика Фаттиццо.</p><p><strong>«Я его поклонница»</strong></p><p>Озай призналась, что после смерти отца закрыла сердце для любви, но в разговоре о личной жизни отметила: «Сейчас у меня никого нет». Она рассказала, что ей нравятся испанские мужчины: «Я поклонница премьер-министра Испании Педро Санчеса. Обожаю его».</p><p><strong>«Могу выйти замуж за испанца»</strong></p><p>Свои слова о том, что может выйти замуж за испанца, Озай назвала шуткой, но добавила: «Жизнь непредсказуема. Глядишь — и вышла замуж за испанца». Так актриса оставила дверь для любви приоткрытой.</p><p>О любви и жизни Озай высказалась философски:</p><blockquote>«У любви и смерти нет ни возраста, ни адреса, ни подлежащего».</blockquote>\n<p>Источник: <a href=\"https://gastetv.com/tugba-ozaydan-dikkat-ceken-aciklama-bir-ispanyol-erkegiyle-evlenebilirim/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/tugba-ozaydan-dikkat-ceken-aciklama-bir-ispanyol-erkegiyle-evlenebilirim-HyqEE8Me.jpg",
+   "tags": [
+    "Тугба Озай",
+    "личная жизнь",
+    "знаменитости",
+    "Турция",
+    "Испания"
+   ]
+  },
+  {
+   "guid": "gastetv-206440",
+   "title": "Хазал Кая простилась с 12-летним другом: актриса потеряла собаку Мёрфи",
+   "link": "https://gastetv.com/hazal-kayadan-duygusal-paylasim-12-yillik-dostuna-veda-etti/",
+   "pubDate": "Wed, 07 Oct 2026 11:45:15 +0000",
+   "html": "<p><strong>Турецкая актриса Хазал Кая, переехавшая в Нидерланды, поделилась горем с подписчиками: её пёс Мёрфи, с которым она прожила 12 лет, внезапно умер. Эмоциональный пост актрисы вызвал волну поддержки.</strong></p>\n<p>Хазал Кая, известная своей любовью к животным, опубликовала в соцсетях трогательное прощание со своим четвероногим другом.</p><h2>12 лет вместе</h2><p>Актриса, покинувшая Турцию и переехавшая в Нидерланды, тяжело переживает внезапную смерть своей собаки по кличке Мёрфи, которая была рядом с ней 12 лет. Хазал поделилась своими переживаниями с подписчиками, и под её постом появились сотни слов поддержки.</p><p>Напомним, Хазал Кая вышла замуж за актёра Али Атая в 2019 году — пара сыграла скромную свадьбу. Актриса не сходит с повесток как благодаря личной жизни, так и своей карьере.</p><h2>«Он проверил дом»</h2><p>Хазал Кая так описала свою боль в соцсетях:</p><blockquote>«Мой Мёрфи ушёл. Внезапно. Он помог нам обустроиться, проверил дом, словно убедился, что нам здесь будет хорошо. И ушёл. А я порезалась об осколки стекла на той улице, где гуляла с ним в последний раз. Мёрфи славился тем, что подолгу смотрел вдаль, и мы все гадали, о чём он думает. Теперь я сижу на скамейке и перебираю в памяти наши 12 лет вместе».</blockquote>\n<p>Источник: <a href=\"https://gastetv.com/hazal-kayadan-duygusal-paylasim-12-yillik-dostuna-veda-etti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/hazal-kayadan-duygusal-paylasim-12-yillik-dostuna-veda-etti-OmhvmMM6.jpg",
+   "tags": [
+    "Хазал Кая",
+    "Али Атай",
+    "Нидерланды",
+    "знаменитости",
+    "животные"
+   ]
+  },
+  {
+   "guid": "gastetv-206484",
+   "title": "Мурат Йылдырым и Иман Эльбани отметили четырёхлетие дочери Мирай",
+   "link": "https://gastetv.com/murat-yildirim-ve-iman-elbani-yeni-aile-pozu-kizlari-miray-4-yasinda/",
+   "pubDate": "Wed, 07 Oct 2026 11:45:15 +0000",
+   "html": "<p><strong>Популярный турецкий актёр Мурат Йылдырым с женой марокканкой Иман Эльбани отпраздновали день рождения старшей дочери Мирай, которой исполнилось четыре года. Пара поделилась снимками с праздника в соцсетях.</strong></p>\n<p>Актёр Мурат Йылдырым женился на марокканке Иман Эльбани в 2016 году. В октябре 2022 года пара впервые стала родителями — у них родилась дочь, которую назвали Мирай.</p>\n\n<p>Сейчас у знаменитой четы двое детей. Старшей дочери Мирай исполнилось четыре года. Родители устроили для неё праздничную вечеринку и опубликовали фотографии с торжества в своих социальных сетях.</p>\n\n<p>Мурат Йылдырым подписал снимки с дня рождения дочери: «Моя любимая девочка, с днём рождения тебя. Дыхание моё».</p>\n<p>Источник: <a href=\"https://gastetv.com/murat-yildirim-ve-iman-elbani-yeni-aile-pozu-kizlari-miray-4-yasinda/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/murat-yildirim-ve-iman-elbani-yeni-aile-pozu-kizlari-miray-4-yasinda-eSpZmCTn.jpg",
+   "tags": [
+    "Мурат Йылдырым",
+    "Иман Эльбани",
+    "турецкие актёры",
+    "звёздные семьи"
+   ]
+  },
+  {
+   "guid": "gastetv-206480",
+   "title": "Али Эмре Баллы, фигурант дела о финансовых махинациях, найден мёртвым",
+   "link": "https://gastetv.com/fon-sorusturmasinda-adi-gecen-sirket-yoneticisi-ali-emre-balli-olu-bulundu/",
+   "pubDate": "Wed, 07 Oct 2026 11:45:15 +0000",
+   "html": "<p><strong>Али Эмре Баллы, глава совета директоров компании Adil Varlık Yönetim A.Ş., упоминавшейся в расследовании о незаконных операциях с фондами, найден мёртвым в автомобиле с огнестрельным ранением головы. 30 сентября на его имущество накладывался арест, который позже был снят.</strong></p>\n<p>Али Эмре Баллы был обнаружен мёртвым в своей машине в районе Омерли (Чекмекёй, Стамбул) с огнестрельным ранением головы. Предварительно рассматривается версия самоубийства.</p><p>Баллы занимал пост председателя совета директоров компании Adil Varlık Yönetim A.Ş., фигурирующей в расследовании о финансовых махинациях с фондами.</p><p>30 сентября на имущество Баллы по решению следствия был наложен арест, который впоследствии был отменён.</p><h2>Заместитель главы совета директоров — сын вице-спикера ПСР</h2><p>Заместителем председателя совета директоров Adil Varlık Yönetim A.Ş. является Мустафа Языджи.</p><p>Мустафа Языджи также входил в число лиц, на имущество которых 30 сентября запрашивался арест, но позднее эта мера была снята.</p><p>Языджи — сын заместителя председателя Партии справедливости и развития Хаяти Языджи.</p>\n<p>Источник: <a href=\"https://gastetv.com/fon-sorusturmasinda-adi-gecen-sirket-yoneticisi-ali-emre-balli-olu-bulundu/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/fon-sorusturmasinda-adi-gecen-sirket-yoneticisi-ali-emre-balli-olu-bulundu-l1vwdIzb.jpg",
+   "tags": [
+    "Али Эмре Баллы",
+    "финансовые махинации",
+    "Adil Varlık Yönetim",
+    "Стамбул",
+    "Хаяти Языджи",
+    "ПСР"
+   ]
+  },
   {
    "guid": "gastetv-206188",
    "title": "Стипендии VGM на 2026-2027 год: начался приём заявок от школьников",
@@ -2896,80 +2987,6 @@
     "Неделя моды",
     "турецкие актрисы",
     "мода"
-   ]
-  },
-  {
-   "guid": "gastetv-204805",
-   "title": "Абдуллах Гюлер о кризисе фондов: Народ может быть спокоен",
-   "link": "https://gastetv.com/abdullah-gulerden-fon-krizi-aciklamasi-milletimiz-musterih-olsun/",
-   "pubDate": "Thu, 01 Oct 2026 18:24:05 +0000",
-   "html": "<p><strong>Глава фракции ПСР в парламенте Абдуллах Гюлер заявил, что вкладчикам с суммами до 1 млн лир будут возвращены средства в рамках расследования махинаций на рынке капитала. Выплаты пройдут за счет конфискованных активов, а не государственных средств.</strong></p>\n<p>Сегодня в Великом национальном собрании Турции (ВНСТ) начинается новый законодательный год.</p>\n\n<p>Перед церемонией открытия глава фракции Партии справедливости и развития Абдуллах Гюлер ответил на вопросы телеканала NTV.</p>\n\n<p>Гюлер заявил, что расследование махинаций на рынке капитала, начатое Стамбульской прокуратурой, будет доведено до конца, и дал важные комментарии по этому поводу.</p>\n\n<h2>«Могу это сказать совершенно открыто»</h2>\n\n<p>Напомнив, что под председательством президента Реджепа Тайипа Эрдогана было проведено совещание по этому вопросу и Комитет государственного контроля получил соответствующие поручения, Гюлер сказал: «Принято решение о возврате средств инвесторам с вложениями до 1 миллиона лир — основная сумма будет выплачена. Скажем это совершенно открыто и четко: народ может быть спокоен».</p>\n\n<h2>«С этими выплатами очень большая часть счетов будет погашена»</h2>\n\n<p>Отметив, что выплаты будут произведены за счет залогов фондовых ресурсов и конфискованного имущества, Гюлер заявил: «Средства не будут выплачиваться из того, что мы можем назвать государственными ресурсами. С этими выплатами очень большая часть счетов будет погашена».</p>\n\n<h2>«По комиссии может быть проведена оценка»</h2>\n\n<p>Напомнив, что в ходе расследования арестованы более 50 подозреваемых, Гюлер отметил, что парламент ранее создавал следственные комиссии по различным вопросам, и пояснил, что после прояснения процесса может быть проведена оценка и по этому вопросу.</p>\n\n<h2>«Создадим рамки, не допускающие таких нарушений»</h2>\n\n<p>Отметив, что президент Эрдоган дал указание довести расследование до конца, Гюлер заявил: «Мы серьезны, мы дадим гарантии общественности. Мы и восстановим доверие к рынкам капитала, и создадим такие рамки, которые больше не допустят нарушений, способных привести к подобному кризису. Наш дорогой народ может быть спокоен».</p>\n<p>Источник: <a href=\"https://gastetv.com/abdullah-gulerden-fon-krizi-aciklamasi-milletimiz-musterih-olsun/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/10/abdullah-gulerden-fon-krizi-aciklamasi-milletimiz-musterih-olsun-pLtPlhvG.jpg",
-   "tags": [
-    "Абдуллах Гюлер",
-    "рынок капитала",
-    "расследование",
-    "Реджеп Тайип Эрдоган",
-    "парламент Турции"
-   ]
-  },
-  {
-   "guid": "gastetv-204779",
-   "title": "Дениз Джан Акташ впервые подтвердил роман с партнёршей по сериалу",
-   "link": "https://gastetv.com/iliskilerini-gizliyorlardi-deniz-can-aktas-devrim-ozkan-askini-ilan-etti/",
-   "pubDate": "Thu, 01 Oct 2026 18:24:05 +0000",
-   "html": "<p><strong>Актёр Дениз Джан Акташ впервые публично признался, что встречается с коллегой Деврим Озкан, с которой снимается в сериале «Подполье». Пара провела вместе летний отпуск, но до сих пор хранила молчание об отношениях.</strong></p>\n<p>Популярный турецкий актёр Дениз Джан Акташ не выходит из повестки не только благодаря карьере, но и событиям в личной жизни.</p>\n\n<p>Некоторое время назад появились слухи о романе Акташа с Деврим Озкан, его партнёршей по сериалу «Подполье» (Yeraltı). Летний отпуск они тоже провели вместе. И вот актёр, прежде молчавший о личной жизни, наконец сделал признание.</p>\n\n<h2>«В моей жизни есть любовь, которая делает меня счастливым»</h2>\n\n<p>Дениз Джан Акташ впервые открыто заявил, что в его жизни есть особенный человек. В программе актёр подтвердил отношения с Озкан словами: «В моей жизни есть любовь, которая делает меня счастливым».</p>\n\n<h2>«Моя энергия»</h2>\n\n<p>Когда Акташ говорил: «Я становлюсь очень энергичным, глаза горят, меняется взгляд на жизнь. Свою работу я делаю с ещё большей страстью», — Озкан поставила лайк прямому эфиру программы, что не осталось незамеченным.</p>\n\n<p>Завершая разговор, актёр не исключил и возможности женитьбы: «С правильным человеком я готов подумать о браке».</p>\n<p>Источник: <a href=\"https://gastetv.com/iliskilerini-gizliyorlardi-deniz-can-aktas-devrim-ozkan-askini-ilan-etti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/10/iliskilerini-gizliyorlardi-deniz-can-aktas-devrim-ozkan-askini-ilan-etti-BuCGGqms.jpg",
-   "tags": [
-    "Дениз Джан Акташ",
-    "Деврим Озкан",
-    "турецкие актёры",
-    "Yeraltı",
-    "турецкие сериалы"
-   ]
-  },
-  {
-   "guid": "gastetv-204801",
-   "title": "Нилпери Шахинкая: результаты тестов на наркотики отрицательные",
-   "link": "https://gastetv.com/uyusturucu-operasyonunda-gozaltina-alinmisti-oyuncu-nilperi-sahinkayanin-test-sonucu-cikti/",
-   "pubDate": "Thu, 01 Oct 2026 18:24:05 +0000",
-   "html": "<p><strong>Актриса Нилпери Шахинкая, задержанная в рамках антинаркотической операции, опубликовала результаты экспертизы. Все анализы крови, волос и мочи оказались отрицательными.</strong></p>\n<p>Актриса Нилпери Шахинкая, известная по сериалу «Öyle Bir Geçer Zaman Ki» («Так проходит время»), была задержана жандармерией Стамбула в рамках новой антинаркотической операции, проводимой прокуратурой района Бакыркёй против знаменитостей. Актрису отпустили под подписку о невыезде, и теперь стали известны результаты её анализов.</p><h2>«Все мои тесты отрицательные»</h2><p>Актриса, активная в социальных сетях, опубликовала результаты экспертизы и прокомментировала:</p><blockquote>На сегодняшний день, согласно заключению Института судебной медицины, внесённому в материалы следствия, во всех образцах моей крови, волос и мочи не обнаружено никаких наркотических или стимулирующих веществ. Все мои тесты оказались отрицательными. Крепко обнимаю всех своих близких, кто был рядом со мной в этот период, в первую очередь — мою адвоката Джемре Томрукчу.</blockquote>\n<p>Источник: <a href=\"https://gastetv.com/uyusturucu-operasyonunda-gozaltina-alinmisti-oyuncu-nilperi-sahinkayanin-test-sonucu-cikti/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/10/uyusturucu-operasyonunda-gozaltina-alinmisti-oyuncu-nilperi-sahinkayanin-test-sonucu-cikti-Bw2BJPIh.jpg",
-   "tags": [
-    "Нилпери Шахинкая",
-    "наркотики",
-    "знаменитости",
-    "Стамбул",
-    "турецкий шоу-бизнес"
-   ]
-  },
-  {
-   "guid": "gastetv-204769",
-   "title": "Берен Гёкйылдыз отметила 17-летие: кадры с днём рождения",
-   "link": "https://gastetv.com/17-yasina-girdi-beren-gokyildizdan-dogum-gunu-kareleri-geldi/",
-   "pubDate": "Thu, 01 Oct 2026 11:35:26 +0000",
-   "html": "<p><strong>Юная актриса Берен Гёкйылдыз, известная по сериалам «Семья моего мужа», «Мама», «Моя дочь» и «Детство», отпраздновала 17-летие и поделилась кадрами с торжества в соцсетях.</strong></p>\n<p>Актриса задула свечи на праздничном торте на фоне Галатской башни и опубликовала снимки с этого особенного момента в своих социальных сетях.</p><p>Публикация Гёкйылдыз с кадрами празднования дня рождения за короткое время собрала множество лайков и поздравлений от подписчиков.</p><p>Пользователи отметили, как изменилась талантливая актриса с детских лет.</p>\n<p>Источник: <a href=\"https://gastetv.com/17-yasina-girdi-beren-gokyildizdan-dogum-gunu-kareleri-geldi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/10/17-yasina-girdi-beren-gokyildizdan-dogum-gunu-kareleri-geldi-S44FLEzH.jpg",
-   "tags": [
-    "Берен Гёкйылдыз",
-    "день рождения",
-    "турецкие актрисы",
-    "знаменитости"
-   ]
-  },
-  {
-   "guid": "gastetv-204763",
-   "title": "Дело о фондовой афере: 12 подозреваемых направлены в суд",
-   "link": "https://gastetv.com/fon-sorusturmasi-kapsaminda-gozaltina-alinan-12-supheli-adliyede/",
-   "pubDate": "Thu, 01 Oct 2026 11:35:26 +0000",
-   "html": "<p><strong>В рамках расследования мошенничества с инвестиционными фондами в Стамбуле в суд направлены 12 подозреваемых, задержанных в ходе четвёртой волны операции. Всего по делу уже арестованы 61 человек, ещё 88 находятся под судебным контролем.</strong></p>\n<p>По данным прокуратуры Стамбула, расследование дела о фондовой афере продолжается. На данный момент 61 подозреваемый арестован, в отношении 88 человек применена мера пресечения в виде судебного контроля.</p>\n\n<h2>Четвёртая волна задержаний</h2>\n\n<p>Завершены процедуры в полиции в отношении подозреваемых, задержанных в ходе четвёртой волны операции по делу о фондовом мошенничестве. Двенадцать человек направлены в суд.</p>\n\n<p>После медицинского осмотра в стамбульский суд в Чаглаяне доставлены подозреваемые Алтуг Кантарджы, Озгюр Акайоглу, Керим Тосун, Нурай Эльмасташ, Азизе Биннур Тосун, Али Чиль, Тугба Хиджран Атасевен, Дуйгу Сомай, Искендер Балджы, Исмет Огют, Толга Туктекин и Адем Каратепе.</p>\n\n<p>Сообщается, что процедуры в полиции продолжаются ещё в отношении 20 подозреваемых, задержанных в рамках расследования.</p>\n<p>Источник: <a href=\"https://gastetv.com/fon-sorusturmasi-kapsaminda-gozaltina-alinan-12-supheli-adliyede/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/10/fon-sorusturmasi-kapsaminda-gozaltina-alinan-12-supheli-adliyede-AcmkeVzV.jpg",
-   "tags": [
-    "Стамбул",
-    "фондовая афера",
-    "мошенничество",
-    "задержания",
-    "расследование"
    ]
   }
  ]
