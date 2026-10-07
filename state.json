@@ -1,148 +1,5 @@
 {
  "posts": {
-  "205184": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Murat Kurum’dan TEKNOFEST Güneydoğu’ya ilişkin paylaşım",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Министр делится новостью о мероприятии — рутинная информация без резонанса",
-   "story": "murat-kurum-teknofest"
-  },
-  "205159": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Osmanlı’nın kuruluş dönemine ait sikke, İngiltere’de satışa sunuldu",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Историческая монета на аукционе — общий интерес, но мало для целевой аудитории",
-   "story": "ottoman-coin-london"
-  },
-  "205153": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Bayrak provokasyonunun altından kendisi çıktı",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Завуалированный заголовок, похоже на местный скандал без деталей — нужен контекст",
-   "story": "flag-provocation-case"
-  },
-  "205144": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Sevda Türküsev’den Mustafa Sandal’a: Sussa iyi olacak",
-   "cat": "Gündem",
-   "score": 7,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Известные звёзды, публичный конфликт — высокий трафик из поиска",
-   "story": "sevda-turkusev-mustafa-sandal"
-  },
-  "205134": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Kadıköy’de can pazarı. 8 katlı binada yangın çıktı",
-   "cat": "Gündem",
-   "score": 6,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Происшествие в центре Стамбула, опасность — актуально для тех, кто живёт в городе",
-   "story": "kadikoy-building-fire"
-  },
-  "205131": {
-   "status": "published",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "İstanbullular dikkat: Sahil yolu pazar günü kapanacak",
-   "cat": "Gündem",
-   "score": 5,
-   "topic": "life",
-   "dup_of": null,
-   "why": "Практическая информация для жителей Стамбула о закрытии дороги",
-   "story": "istanbul-coastal-road-closure"
-  },
-  "205125": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "“Kumarhaneler Kralı” olarak anılan Sudi Özkan hayatını kaybetti",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Смерть известного криминального персонажа, но без резонанса в нашей аудитории",
-   "story": "sudi-ozkan-death"
-  },
-  "205119": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Murat Ağırel ve Levent Gültekin arasında sert kavga: Küfürler havada uçuştu",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Конфликт между малоизвестными персонами — местная сплетня без интереса для русскоязычной аудитории",
-   "story": "murat-ageril-levent-gultekin-fight"
-  },
-  "205110": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "İçişleri Bakanlığı: Piyasa değeri yaklaşık 61 milyon TL olan taklit ürün ele geçirildi",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "life",
-   "dup_of": null,
-   "why": "Стандартное сообщение МВД о конфискации контрафакта — низкий поисковый интерес",
-   "story": "counterfeit-goods-seizure"
-  },
-  "205097": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Almanya’nın en zengin 500 kişi listesinde 3 Türk",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Новость про Германию, а не про Турцию — вне фокуса портала",
-   "story": "german-rich-list-turks"
-  },
-  "205094": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Gaziosmanpaşa Belediyesi davasında tahliye kararı",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Местный муниципальный скандал второго уровня — узкий интерес",
-   "story": "gaziosmanpasa-municipality-case"
-  },
-  "205087": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Özlem Gültekin’in ölümüne ilişkin 5 gözaltı",
-   "cat": "Gündem",
-   "score": 5,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Расследование резонансного дела — может быть интересно читателям, следящим за громкими случаями",
-   "story": "ozlem-gultekin-death-investigation"
-  },
-  "205104": {
-   "status": "scored",
-   "seen_at": "2026-10-02T16:37:12.547809+00:00",
-   "title": "Arzum Onan’dan yeni fotoğraf! Formda görüntüsü beğeni topladı",
-   "cat": "Magazin",
-   "score": 6,
-   "topic": "celebrity",
-   "dup_of": null,
-   "why": "Известная актриса/телеведущая — контент про звёзд привлекает трафик",
-   "story": "arzum-onan-photo"
-  },
   "205204": {
    "status": "scored",
    "seen_at": "2026-10-02T21:18:30.388527+00:00",
@@ -1871,7 +1728,7 @@
    "story": "derin-mermerci-yacht-incident"
   },
   "206567": {
-   "status": "scored",
+   "status": "published",
    "seen_at": "2026-10-07T11:45:15.247004+00:00",
    "title": "Berna Laçin hakkında ‘halkı kin ve düşmanlığa tahrik’ suçundan soruşturma",
    "cat": "Gündem",
@@ -2067,33 +1924,141 @@
    "dup_of": null,
    "why": "Актриса Хазал Кая (известна в России по сериалам), эмоциональный контент о потере друга",
    "story": "hazal-kaya-farewell"
+  },
+  "206683": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Fatma Betül Sayan Kaya ve eşi İlyas Kaya suçlamaları kabul etmedi",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинное отрицание обвинений политиком второго ряда, малый интерес аудитории",
+   "story": "fatma-betul-sayan-kaya-charges"
+  },
+  "206680": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Bakan Güler: Kıbrıs Türkü’ne yönelik sindirme politikası sürüyor",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Заявление министра Гюлера о Кипре — важная тема, но стандартное политическое высказывание",
+   "story": "cyprus-pressure-policy"
+  },
+  "206671": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "AK Parti’nin, SPK kanununda düzenleme içeren kanun teklifi imzaya açıldı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Технический законопроект, не интересен массовой аудитории",
+   "story": "ak-parti-spk-law"
+  },
+  "206657": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Akın Gürlek: Türk Devletleri arasındaki adalet iş birliğini güçlendirmeye devam edeceğiz",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Формальное заявление о сотрудничестве между странами, низкий интерес читателей",
+   "story": "turkic-states-justice"
+  },
+  "206644": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Çeşme Belediyesi’ndeki rüşvet pazarlığının videosu ortaya çıktı",
+   "cat": "Gündem",
+   "score": 5,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Видео взяток мэрии — резонансный местный скандал, интересен для аудитории",
+   "story": "ceşme-bribery-video"
+  },
+  "206637": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "PKK üyeliğiyle suçlanan belediye meclisi üyeleri davasında karar: 2 sanığa hapis cezası",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Местное судебное решение по обвинениям в связях с ППК, ограниченный интерес",
+   "story": "pkk-municipal-case"
+  },
+  "206632": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Ömer Çelik: Cumhur İttifakı’nın adayı Recep Tayyip Erdoğan’dır",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Стандартное объявление о кандидате Эрдогана, перепечатают все, без поискового потенциала",
+   "story": "cumhur-ittifaki-erdogan"
+  },
+  "206612": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Mert Başaran’dan parası olanlara tavsiyeler",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Советы от звезды без конкретного контекста, слабый информационный повод",
+   "story": "mert-basaran-advice"
+  },
+  "206605": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Başakşehir’deki saldırıda yaşamını yitiren Eslem Sare’ye gözyaşlarıyla veda",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Траурная новость о жертве нападения, низкий поисковый потенциал",
+   "story": "basaksehir-attack-victim"
+  },
+  "206594": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, Recai Kutan’ı andı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Рутинное скорбное упоминание, без новостной ценности",
+   "story": "erdogan-recai-kutan"
+  },
+  "206590": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Cumhurbaşkanı Erdoğan, Vladimir Putin ile telefonda görüştü",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Стандартное уведомление о телефонном разговоре, освещается всеми СМИ",
+   "story": "erdogan-putin-call"
+  },
+  "206574": {
+   "status": "scored",
+   "seen_at": "2026-10-07T18:55:33.019640+00:00",
+   "title": "Saçlarını boyattı! Oyuncu Nilperi Şahinkaya son halini paylaştı",
+   "cat": "Magazin",
+   "score": 2,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Актриса покрасила волосы — слабый поводок для знаменитости, малоинформативно",
+   "story": "nilperi-sahin-kaya-hair"
   }
  },
  "published": [
-  {
-   "id": 205063,
-   "day": "2026-10-02",
-   "at": "2026-10-02T16:37:12.547809+00:00",
-   "topic": "celebrity",
-   "title_tr": "Неджо и дочь Зейнеп Озюлмазель помирились спустя 10 лет",
-   "story": "neco-zeynep-ozylmzel-reconciliation"
-  },
-  {
-   "id": 205052,
-   "day": "2026-10-02",
-   "at": "2026-10-02T16:37:12.547809+00:00",
-   "topic": "celebrity",
-   "title_tr": "Мелиса Шенолсун прокомментировала положительный тест на наркотики",
-   "story": "actress-melisa-senolsun-drug-test"
-  },
-  {
-   "id": 205131,
-   "day": "2026-10-02",
-   "at": "2026-10-02T16:37:12.547809+00:00",
-   "topic": "life",
-   "title_tr": "Стамбул: набережная перекрыта в воскресенье из-за забега",
-   "story": "istanbul-coastal-road-closure"
-  },
   {
    "id": 205326,
    "day": "2026-10-03",
@@ -2365,9 +2330,33 @@
    "topic": "life",
    "title_tr": "Пеламида подешевела до 50 лир: турки скупают её десятками",
    "story": "fish-price-queue"
+  },
+  {
+   "id": 206567,
+   "day": "2026-10-07",
+   "at": "2026-10-07T18:55:33.019640+00:00",
+   "topic": "celebrity",
+   "title_tr": "Против актрисы Берны Лачин возбудили дело за «разжигание вражды»",
+   "story": "berna-lacin-investigation"
   }
  ],
  "feed": [
+  {
+   "guid": "gastetv-206567",
+   "title": "Против актрисы Берны Лачин возбудили дело за «разжигание вражды»",
+   "link": "https://gastetv.com/berna-lacin-hakkinda-halki-kin-ve-dusmanliga-tahrik-sucundan-sorusturma/",
+   "pubDate": "Wed, 07 Oct 2026 18:55:33 +0000",
+   "html": "<p><strong>Прокуратура Анкары начала расследование в отношении актрисы Берны Лачин по обвинению в «разжигании ненависти и вражды» из-за её публикации в соцсетях о переходе мэра Измира в партию власти.</strong></p>\n<p>Пока в Измире продолжаются операции против коррупции и взяточничества в ряде районных муниципалитетов, переход мэра-метрополитена от Республиканской народной партии (НРП) Джемиля Тугая в Партию справедливости и развития (ПСР) вызвал недовольство в оппозиционных кругах.</p>\n\n<p>Одной из тех, кто выразил своё возмущение, стала актриса Берна Лачин.</p>\n\n<h2>Публикация стала предметом расследования</h2>\n\n<p>Прокуратура Анкары приняла меры после публикации, которую Берна Лачин разместила в своём аккаунте в социальных сетях.</p>\n\n<p>В отношении Лачин возбуждено расследование по статье о «разжигании ненависти и вражды в обществе или унижении» в связи с выражениями в её публикации.</p>\n\n<h2>«Измир и раньше оккупировали, не бойся!»</h2>\n\n<p>Сообщается, что Лачин разместила в своём аккаунте в социальных сетях публикацию со словами: «Измир и раньше оккупировали, не бойся!»</p>\n\n<p>Прокуратура Анкары на основании этой публикации начала расследование в отношении Лачин по статье о «разжигании ненависти и вражды в обществе или унижении».</p>\n\n<p>По данным следствия, расследование ведётся на основании выражений, содержащихся в публикации.</p>\n<p>Источник: <a href=\"https://gastetv.com/berna-lacin-hakkinda-halki-kin-ve-dusmanliga-tahrik-sucundan-sorusturma/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
+   "image": "https://gastetv.com/wp-content/uploads/2026/10/berna-lacin-hakkinda-halki-kin-ve-dusmanliga-tahrik-sucundan-sorusturma-bf5xl2g9.jpg",
+   "tags": [
+    "Берна Лачин",
+    "Измир",
+    "прокуратура",
+    "НРП",
+    "ПСР",
+    "Джемиль Тугай"
+   ]
+  },
   {
    "guid": "gastetv-206527",
    "title": "Пеламида подешевела до 50 лир: турки скупают её десятками",
@@ -2972,21 +2961,6 @@
     "ликвидация",
     "инвесторы",
     "финансы"
-   ]
-  },
-  {
-   "guid": "gastetv-204986",
-   "title": "Демет Оздемир на Парижской неделе моды: новый образ актрисы покорил публику",
-   "link": "https://gastetv.com/demet-ozdemir-pariste-tarzi-begeni-topladi/",
-   "pubDate": "Fri, 02 Oct 2026 11:04:53 +0000",
-   "html": "<p><strong>Турецкая актриса Демет Оздемир приняла участие в Парижской неделе моды по приглашению одного из брендов. Внимание привлекли как её наряд, так и новая стрижка.</strong></p>\n<p>Демет Оздемир, известная не только актёрскими работами, но и личной жизнью, а также активностью в соцсетях, недавно удивила поклонников сменой имиджа.</p><p>Актриса, каждое появление которой становится темой для обсуждений, посетила Парижскую неделю моды в качестве специального гостя одного из брендов. Выбранный ею образ также не остался незамеченным.</p><h2>Современный стиль</h2><p>Оздемир, дополнившая свой современный и эффектный стиль новой причёской, в течение всего мероприятия была в центре внимания фотографов.</p><p>Больше всего в парижском образе Демет внимание привлекла именно причёска. Новая стрижка подчеркнула черты лица актрисы и придала ей более современный и энергичный вид.</p>\n<p>Источник: <a href=\"https://gastetv.com/demet-ozdemir-pariste-tarzi-begeni-topladi/\" rel=\"nofollow\" target=\"_blank\">gastetv.com</a></p>",
-   "image": "https://gastetv.com/wp-content/uploads/2026/10/demet-ozdemir-pariste-tarzi-begeni-topladi-1pltOvNg.jpg",
-   "tags": [
-    "Демет Оздемир",
-    "Париж",
-    "Неделя моды",
-    "турецкие актрисы",
-    "мода"
    ]
   }
  ]
