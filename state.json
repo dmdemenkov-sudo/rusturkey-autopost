@@ -1,49 +1,5 @@
 {
  "posts": {
-  "205204": {
-   "status": "scored",
-   "seen_at": "2026-10-02T21:18:30.388527+00:00",
-   "title": "Filozof İoanna Kuçuradi hayatını kaybetti",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Смерть философа — локальная новость, нет интереса для целевой аудитории",
-   "story": "philosopher-ionna-kucuradi-death"
-  },
-  "205200": {
-   "status": "scored",
-   "seen_at": "2026-10-02T21:18:30.388527+00:00",
-   "title": "Devlet Bahçeli’den 3 Ekim Türk Dünyası Günü mesajı",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "politics",
-   "dup_of": null,
-   "why": "Заявление Бахчели по традиционной дате (3 октября). Рутинное поздравление, мало поискового потенциала",
-   "story": "bahceli-turkish-world-day-message"
-  },
-  "205194": {
-   "status": "scored",
-   "seen_at": "2026-10-02T21:18:30.388527+00:00",
-   "title": "Devlet Bahçeli’den “Türk Dünyası Günü” mesajı",
-   "cat": "Gündem",
-   "score": 0,
-   "topic": "politics",
-   "dup_of": 205200,
-   "why": "Дубль: то же самое заявление Бахчели о Дне турецкого мира",
-   "story": "bahceli-turkish-world-day-message"
-  },
-  "205191": {
-   "status": "published",
-   "seen_at": "2026-10-02T21:18:30.388527+00:00",
-   "title": "Yasa dışı bahis sitelerine operasyon: 28 kişi tutuklandı",
-   "cat": "Gündem",
-   "score": 5,
-   "topic": "life",
-   "dup_of": null,
-   "why": "Операция против нелегальных букмекеров — полезно для жизни, актуально для живущих в Турции, хороший трафик из поиска",
-   "story": "illegal-betting-sites-operation"
-  },
   "205329": {
    "status": "published",
    "seen_at": "2026-10-03T10:22:35.039125+00:00",
@@ -2056,6 +2012,72 @@
    "dup_of": null,
    "why": "Актриса покрасила волосы — слабый поводок для знаменитости, малоинформативно",
    "story": "nilperi-sahin-kaya-hair"
+  },
+  "206736": {
+   "status": "scored",
+   "seen_at": "2026-10-07T23:33:59.017204+00:00",
+   "title": "16 yaşındaki çocuk bıçaklanarak öldürüldü",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Местное происшествие без резонанса, не касается иностранцев/туристов",
+   "story": "teenage-stabbing-death"
+  },
+  "206733": {
+   "status": "scored",
+   "seen_at": "2026-10-07T23:33:59.017204+00:00",
+   "title": "Şans Topu sonuçları sorgulama ekranı 2026: 5+1 kazandıran numaralar ve MPİ bilet sorgulama sayfası",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Объявление лотерейных номеров, минимальный интерес читателей",
+   "story": "lottery-sans-topu"
+  },
+  "206730": {
+   "status": "scored",
+   "seen_at": "2026-10-07T23:33:59.017204+00:00",
+   "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? MPİ Çılgın Sayısal Loto sorgulama",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Объявление лотерейных номеров, минимальный интерес читателей",
+   "story": "lottery-sayisal-loto"
+  },
+  "206724": {
+   "status": "scored",
+   "seen_at": "2026-10-07T23:33:59.017204+00:00",
+   "title": "SPK, Odine incelemesini tamamladı: 21 kişi hakkında suç duyurusu",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Крупное расследование SPK, суд над 21 человеком, финансовый скандал — резонансно и актуально",
+   "story": "spk-odine-investigation"
+  },
+  "206720": {
+   "status": "scored",
+   "seen_at": "2026-10-07T23:33:59.017204+00:00",
+   "title": "SPK, ODINE incelemesi sonucunda 21 kişi hakkında suç duyurusunda bulundu",
+   "cat": "Gündem",
+   "score": 0,
+   "topic": "politics",
+   "dup_of": 206724,
+   "why": "Дубль предыдущей новости (id 206724) о том же расследовании",
+   "story": "spk-odine-investigation"
+  },
+  "206703": {
+   "status": "scored",
+   "seen_at": "2026-10-07T23:33:59.017204+00:00",
+   "title": "Galata Kulesi bir kez daha Filistin Bayrağı ile aydınlandı",
+   "cat": "Gündem",
+   "score": 2,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Символический акт, повторяющийся, низкий поисковый интерес",
+   "story": "galata-tower-palestine-flag"
   }
  },
  "published": [
