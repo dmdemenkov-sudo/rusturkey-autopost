@@ -167,8 +167,7 @@ def save_state(state: dict):
 
 # ─────────────────────────── RSS ───────────────────────────
 def build_item_html(tr: dict, post: dict, extra_images: list[str]) -> str:
-    parts = ['<p><em>Фото: gastetv.com</em></p>',
-             f"<p><strong>{escape(tr['lead'])}</strong></p>", tr["body_html"]]
+    parts = [f"<p><strong>{escape(tr['lead'])}</strong></p>", tr["body_html"]]
     for src in extra_images[:6]:                       # галерея из тела статьи
         parts.append(f'<p><img src="{escape(src)}" alt="{escape(tr["title"])}"></p>')
     parts.append(f'<p>Источник: <a href="{escape(post["link"])}" rel="nofollow" target="_blank">gastetv.com</a></p>')
