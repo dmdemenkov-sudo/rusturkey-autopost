@@ -1,38 +1,5 @@
 {
  "posts": {
-  "205483": {
-   "status": "scored",
-   "seen_at": "2026-10-03T22:06:56.473769+00:00",
-   "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? MPİ Çılgın Sayısal Loto sorgulama",
-   "cat": "Gündem",
-   "score": 1,
-   "topic": "other",
-   "dup_of": null,
-   "why": "Лотерея — классический low-priority контент. Низкий трафик, не интересует целевую аудиторию портала.",
-   "story": "lottery-draw"
-  },
-  "205480": {
-   "status": "scored",
-   "seen_at": "2026-10-03T22:06:56.473769+00:00",
-   "title": "Şehit oğluna anlamlı hediye. Babasının adının verildiği TOMA sünnet arabası oldu",
-   "cat": "Gündem",
-   "score": 2,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Человеческий интерес, но это локальный турецкий сюжет без резонанса для русскоязычных читателей. Не туризм, не звёзды, не скандал.",
-   "story": "martyr-son-gift"
-  },
-  "205468": {
-   "status": "scored",
-   "seen_at": "2026-10-03T22:06:56.473769+00:00",
-   "title": "Pırlanta şirketi sahiplerini tehdit ettiler. “Sizi bindiğiniz arabalarla havaya uçururuz”",
-   "cat": "Gündem",
-   "score": 3,
-   "topic": "incident",
-   "dup_of": null,
-   "why": "Угрозы бизнесменам — локальный криминал без широкого резонанса. Может быть интересно как местная криминальная хроника, но трафика мало.",
-   "story": "diamond-company-threat"
-  },
   "205613": {
    "status": "published",
    "seen_at": "2026-10-04T11:05:10.187124+00:00",
@@ -2034,6 +2001,50 @@
    "dup_of": null,
    "why": "Тривиальный пост певицы Назан Онджель о чистке телефона — без новостной ценности",
    "story": "nazan-oncel-phone"
+  },
+  "207011": {
+   "status": "scored",
+   "seen_at": "2026-10-08T23:43:58.631019+00:00",
+   "title": "Silahla vurulmuş halde bulunan Afyonkarahisar Vali Yardımcısı öldü",
+   "cat": "Gündem",
+   "score": 6,
+   "topic": "incident",
+   "dup_of": null,
+   "why": "Громкое ЧП с чиновником высокого ранга, резонансное для туристов и жителей, но региональное",
+   "story": "afyon-vali-shooting"
+  },
+  "207008": {
+   "status": "scored",
+   "seen_at": "2026-10-08T23:43:58.631019+00:00",
+   "title": "Süper Loto çekiliş sonuçları belli oldu: MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+   "cat": "Gündem",
+   "score": 1,
+   "topic": "other",
+   "dup_of": null,
+   "why": "Плановый результат лотереи, рутинная информация, низкий поисковый спрос",
+   "story": "super-loto-draw"
+  },
+  "207004": {
+   "status": "scored",
+   "seen_at": "2026-10-08T23:43:58.631019+00:00",
+   "title": "Fon soruşturmasında 3 isim ifadeye çağrıldı",
+   "cat": "Gündem",
+   "score": 3,
+   "topic": "politics",
+   "dup_of": null,
+   "why": "Расследование фонда, вторичная информация (только вызовы на допрос), недостаточно деталей для высокой оценки",
+   "story": "fund-investigation"
+  },
+  "206999": {
+   "status": "scored",
+   "seen_at": "2026-10-08T23:43:58.631019+00:00",
+   "title": "Süheyl ve Behzat Uygur’un annesi Necla Uygur hayatını kaybetti",
+   "cat": "Magazin",
+   "score": 2,
+   "topic": "celebrity",
+   "dup_of": null,
+   "why": "Смерть родственницы известных людей, но не самих знаменитостей, низкий поисковый интерес из России",
+   "story": "necla-uygur-death"
   }
  },
  "published": [
