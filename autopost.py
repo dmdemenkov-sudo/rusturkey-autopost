@@ -167,7 +167,8 @@ def save_state(state: dict):
 
 # ─────────────────────────── RSS ───────────────────────────
 def build_item_html(tr: dict, post: dict, extra_images: list[str]) -> str:
-    parts = [f"<p><strong>{escape(tr['lead'])}</strong></p>", tr["body_html"]]
+    parts = ['<p><em>Фото: gastetv.com</em></p>',
+             f"<p><strong>{escape(tr['lead'])}</strong></p>", tr["body_html"]]
     for src in extra_images[:6]:                       # галерея из тела статьи
         parts.append(f'<p><img src="{escape(src)}" alt="{escape(tr["title"])}"></p>')
     parts.append(f'<p>Источник: <a href="{escape(post["link"])}" rel="nofollow" target="_blank">gastetv.com</a></p>')
@@ -195,7 +196,8 @@ def write_feed(items: list[dict]):
         out.append(f"<pubDate>{it['pubDate']}</pubDate>")
         for tag in it.get("tags", []):
             out.append(f"<category>{escape(tag)}</category>")
-        out.append(f"<description><![CDATA[{cdata}]]></description>")
+        lead = it.get("lead") or re.sub(r"<[^>]+>", " ", it["html"]).split("gastetv.com", 1)[-1].strip()[:250]
+        out.append(f"<description>{escape(lead)}</description>")
         out.append(f"<content:encoded><![CDATA[{cdata}]]></content:encoded>")
         if it.get("image"):
             img = escape(it["image"])
@@ -313,6 +315,7 @@ def main():
             "link": p["link"],
             "pubDate": format_datetime(now_utc),
             "html": build_item_html(tr, p, imgs),
+            "lead": tr["lead"],
             "image": p.get("image") or (body_imgs[0] if body_imgs else None),
             "tags": tr.get("tags", []),
         })
